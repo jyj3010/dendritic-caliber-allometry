@@ -1,0 +1,13 @@
+archive,species,n_neurons,mean_um,median_um,sd_um,used,reason_not_used
+Allen,human,40,0.5270603,0.5161795,0.17601015744293616,yes,
+Allen,mouse,40,0.56584475,0.557905,0.13251262020783589,yes,
+Briggs,ferret,40,0.23988346226362034,0.1899999999999998,0.10704829999256063,no,"Median dendritic diameters of 0.19–0.35 µm, implausibly thin for cortical pyramidal dendrites"
+Briggs,monkey,40,0.4050936031469254,0.3530892186477923,0.13069997477131348,no,"Median dendritic diameters of 0.19–0.35 µm, implausibly thin for cortical pyramidal dendrites"
+Firestein,human,40,0.29999999999999993,0.2999999999999998,8.844342001165145e-17,no,"All human reconstructions carried an identical diameter value (a placeholder), so that caliber was not measured"
+Firestein,rat,40,0.29996922619047606,0.2999999999999998,0.00019463066075084217,no,"All human reconstructions carried an identical diameter value (a placeholder), so that caliber was not measured"
+Gonzalez-Burgos,monkey,26,1.0206465941045981,0.950162610913414,0.2180705377035283,no,The non-primate comparator comprised a single neuron
+Gonzalez-Burgos,mouse,1,0.9498668165700942,0.9498668165700942,,no,The non-primate comparator comprised a single neuron
+Luebke,monkey,40,0.7884679308716903,0.7713585380915229,0.26261257593159293,yes,
+Luebke,mouse,40,0.98707902342803,1.006829335953303,0.21659983770790808,yes,
+Tamas,human,3,0.6035066240327124,0.5919836242854936,0.09671703354526943,yes,
+Tamas,rat,9,0.60700503206944,0.5696846064814816,0.22344702041146625,yes,

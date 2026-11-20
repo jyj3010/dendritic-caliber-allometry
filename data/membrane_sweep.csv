@@ -1,0 +1,5 @@
+label,setting,rm_scale,ra_scale
+Rm ×0.5,rm0p5,0.5,1.0
+Rm ×2,rm2,2.0,1.0
+Ra ×0.67,ra0p67,1.0,0.667
+Ra ×1.5,ra1p5,1.0,1.5

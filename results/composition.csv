@@ -1,0 +1,286 @@
+dataset,species,variable,level,n_neurons
+primary,African wild dog,objective,60x oil,73
+primary,Baboon,objective,60x oil,20
+primary,Banded mongoose,objective,60x oil,24
+primary,Bennett's wallaby,objective,60x oil,23
+primary,Blue wildebeest,objective,60x oil,32
+primary,Bottlenose dolphin,objective,60x oil,49
+primary,Caracal,objective,60x oil,19
+primary,Cheetah,objective,60x oil,187
+primary,Clouded leopard,objective,60x oil,84
+primary,Domestic dog,objective,60x oil,20
+primary,Giraffe,objective,60x oil,235
+primary,Greater kudu,objective,60x oil,29
+primary,Human,objective,60x oil,220
+primary,Humpback whale,objective,60x oil,80
+primary,Lemur,objective,60x oil,10
+primary,Leopard,objective,60x oil,228
+primary,Lion,objective,60x oil,159
+primary,Lion tamarin,objective,60x oil,20
+primary,Manatee,objective,60x oil,34
+primary,Minke whale,objective,60x oil,57
+primary,Mountain zebra,objective,60x oil,11
+primary,Plains zebra,objective,60x oil,23
+primary,Rabbit,objective,60x oil,37
+primary,Rat,objective,60x oil,20
+primary,Tiger,objective,60x oil,39
+primary,African wild dog,publication,Jacobs et al. 2018,73
+primary,Baboon,publication,Jacobs et al. 2018,20
+primary,Banded mongoose,publication,Jacobs et al. 2018,24
+primary,Bennett's wallaby,publication,Jacobs et al. 2018,23
+primary,Blue wildebeest,publication,Jacobs et al. 2018,32
+primary,Bottlenose dolphin,publication,Butti et al. 2015,49
+primary,Caracal,publication,Jacobs et al. 2018,19
+primary,Cheetah,publication,Nguyen et al. 2020,187
+primary,Clouded leopard,publication,Johnson et al. 2016,84
+primary,Domestic dog,publication,Jacobs et al. 2018,20
+primary,Giraffe,publication,Jacobs et al. 2015,235
+primary,Greater kudu,publication,Jacobs et al. 2018,29
+primary,Human,publication,Jacobs et al. 2018,20
+primary,Human,publication,Warling et al. 2021,200
+primary,Humpback whale,publication,Butti et al. 2015,80
+primary,Lemur,publication,Jacobs et al. 2018,10
+primary,Leopard,publication,Nguyen et al. 2020,228
+primary,Lion,publication,Jacobs et al. 2018,20
+primary,Lion,publication,Nguyen et al. 2020,139
+primary,Lion tamarin,publication,Jacobs et al. 2018,20
+primary,Manatee,publication,Reyes et al. 2016,34
+primary,Minke whale,publication,Butti et al. 2015,57
+primary,Mountain zebra,publication,Jacobs et al. 2018,11
+primary,Plains zebra,publication,Jacobs et al. 2018,23
+primary,Rabbit,publication,Jacobs et al. 2018,37
+primary,Rat,publication,Jacobs et al. 2018,20
+primary,Tiger,publication,Johnson et al. 2016,39
+primary,African wild dog,region,frontal,73
+primary,Baboon,region,frontal,20
+primary,Banded mongoose,region,frontal,24
+primary,Bennett's wallaby,region,frontal,23
+primary,Blue wildebeest,region,frontal,32
+primary,Bottlenose dolphin,region,occipital,32
+primary,Bottlenose dolphin,region,temporal,17
+primary,Caracal,region,frontal,19
+primary,Cheetah,region,frontal,126
+primary,Cheetah,region,occipital,61
+primary,Clouded leopard,region,frontal,27
+primary,Clouded leopard,region,occipital,29
+primary,Clouded leopard,region,prefrontal,28
+primary,Domestic dog,region,frontal,20
+primary,Giraffe,region,frontal,119
+primary,Giraffe,region,occipital,116
+primary,Greater kudu,region,frontal,29
+primary,Human,region,frontal,20
+primary,Human,region,occipital,100
+primary,Human,region,prefrontal,100
+primary,Humpback whale,region,frontal,24
+primary,Humpback whale,region,occipital,24
+primary,Humpback whale,region,temporal,32
+primary,Lemur,region,frontal,10
+primary,Leopard,region,frontal,166
+primary,Leopard,region,occipital,62
+primary,Lion,region,frontal,89
+primary,Lion,region,occipital,70
+primary,Lion tamarin,region,frontal,20
+primary,Manatee,region,somatosensory,34
+primary,Minke whale,region,frontal,21
+primary,Minke whale,region,occipital,36
+primary,Mountain zebra,region,frontal,11
+primary,Plains zebra,region,frontal,23
+primary,Rabbit,region,frontal,37
+primary,Rat,region,frontal,20
+primary,Tiger,region,frontal,13
+primary,Tiger,region,occipital,13
+primary,Tiger,region,prefrontal,13
+primary,African wild dog,depth,deep,31
+primary,African wild dog,depth,superficial,40
+primary,African wild dog,depth,unspecified,2
+primary,Baboon,depth,deep,10
+primary,Baboon,depth,superficial,10
+primary,Banded mongoose,depth,deep,14
+primary,Banded mongoose,depth,superficial,10
+primary,Bennett's wallaby,depth,deep,13
+primary,Bennett's wallaby,depth,superficial,10
+primary,Blue wildebeest,depth,deep,13
+primary,Blue wildebeest,depth,superficial,19
+primary,Bottlenose dolphin,depth,unspecified,49
+primary,Caracal,depth,deep,9
+primary,Caracal,depth,superficial,10
+primary,Cheetah,depth,deep,30
+primary,Cheetah,depth,superficial,97
+primary,Cheetah,depth,unspecified,60
+primary,Clouded leopard,depth,unspecified,84
+primary,Domestic dog,depth,deep,8
+primary,Domestic dog,depth,superficial,12
+primary,Giraffe,depth,unspecified,235
+primary,Greater kudu,depth,deep,13
+primary,Greater kudu,depth,superficial,16
+primary,Human,depth,deep,10
+primary,Human,depth,superficial,210
+primary,Humpback whale,depth,unspecified,80
+primary,Lemur,depth,deep,1
+primary,Lemur,depth,superficial,9
+primary,Leopard,depth,unspecified,228
+primary,Lion,depth,deep,38
+primary,Lion,depth,superficial,84
+primary,Lion,depth,unspecified,37
+primary,Lion tamarin,depth,deep,10
+primary,Lion tamarin,depth,superficial,10
+primary,Manatee,depth,unspecified,34
+primary,Minke whale,depth,unspecified,57
+primary,Mountain zebra,depth,deep,6
+primary,Mountain zebra,depth,superficial,5
+primary,Plains zebra,depth,deep,13
+primary,Plains zebra,depth,superficial,10
+primary,Rabbit,depth,deep,18
+primary,Rabbit,depth,superficial,19
+primary,Rat,depth,deep,10
+primary,Rat,depth,superficial,10
+primary,Tiger,depth,unspecified,39
+without imaging criterion,African wild dog,objective,60x oil,73
+without imaging criterion,Baboon,objective,60x oil,20
+without imaging criterion,Banded mongoose,objective,60x oil,24
+without imaging criterion,Bennett's wallaby,objective,60x oil,23
+without imaging criterion,Blue wildebeest,objective,60x oil,32
+without imaging criterion,Bottlenose dolphin,objective,60x oil,49
+without imaging criterion,Caracal,objective,60x oil,19
+without imaging criterion,Cheetah,objective,60x oil,187
+without imaging criterion,Clouded leopard,objective,60x oil,84
+without imaging criterion,Domestic dog,objective,60x oil,20
+without imaging criterion,Elephant,objective,40x dry,68
+without imaging criterion,Giraffe,objective,60x oil,235
+without imaging criterion,Greater kudu,objective,60x oil,29
+without imaging criterion,Human,objective,40x dry,1240
+without imaging criterion,Human,objective,60x oil,220
+without imaging criterion,Humpback whale,objective,60x oil,80
+without imaging criterion,Lemur,objective,60x oil,10
+without imaging criterion,Leopard,objective,60x oil,228
+without imaging criterion,Lion,objective,60x oil,159
+without imaging criterion,Lion tamarin,objective,60x oil,20
+without imaging criterion,Manatee,objective,60x oil,34
+without imaging criterion,Minke whale,objective,60x oil,57
+without imaging criterion,Mountain zebra,objective,60x oil,11
+without imaging criterion,Plains zebra,objective,60x oil,23
+without imaging criterion,Rabbit,objective,60x oil,37
+without imaging criterion,Rat,objective,60x oil,20
+without imaging criterion,Tiger,objective,60x oil,39
+without imaging criterion,African wild dog,publication,Jacobs et al. 2018,73
+without imaging criterion,Baboon,publication,Jacobs et al. 2018,20
+without imaging criterion,Banded mongoose,publication,Jacobs et al. 2018,24
+without imaging criterion,Bennett's wallaby,publication,Jacobs et al. 2018,23
+without imaging criterion,Blue wildebeest,publication,Jacobs et al. 2018,32
+without imaging criterion,Bottlenose dolphin,publication,Butti et al. 2015,49
+without imaging criterion,Caracal,publication,Jacobs et al. 2018,19
+without imaging criterion,Cheetah,publication,Nguyen et al. 2020,187
+without imaging criterion,Clouded leopard,publication,Johnson et al. 2016,84
+without imaging criterion,Domestic dog,publication,Jacobs et al. 2018,20
+without imaging criterion,Elephant,publication,Jacobs et al. 2011,68
+without imaging criterion,Giraffe,publication,Jacobs et al. 2015,235
+without imaging criterion,Greater kudu,publication,Jacobs et al. 2018,29
+without imaging criterion,Human,publication,Anderson et al. 2010,2
+without imaging criterion,Human,publication,Jacobs et al. 1997,519
+without imaging criterion,Human,publication,Jacobs et al. 2001,719
+without imaging criterion,Human,publication,Jacobs et al. 2018,20
+without imaging criterion,Human,publication,Warling et al. 2021,200
+without imaging criterion,Humpback whale,publication,Butti et al. 2015,80
+without imaging criterion,Lemur,publication,Jacobs et al. 2018,10
+without imaging criterion,Leopard,publication,Nguyen et al. 2020,228
+without imaging criterion,Lion,publication,Jacobs et al. 2018,20
+without imaging criterion,Lion,publication,Nguyen et al. 2020,139
+without imaging criterion,Lion tamarin,publication,Jacobs et al. 2018,20
+without imaging criterion,Manatee,publication,Reyes et al. 2016,34
+without imaging criterion,Minke whale,publication,Butti et al. 2015,57
+without imaging criterion,Mountain zebra,publication,Jacobs et al. 2018,11
+without imaging criterion,Plains zebra,publication,Jacobs et al. 2018,23
+without imaging criterion,Rabbit,publication,Jacobs et al. 2018,37
+without imaging criterion,Rat,publication,Jacobs et al. 2018,20
+without imaging criterion,Tiger,publication,Johnson et al. 2016,39
+without imaging criterion,African wild dog,region,frontal,73
+without imaging criterion,Baboon,region,frontal,20
+without imaging criterion,Banded mongoose,region,frontal,24
+without imaging criterion,Bennett's wallaby,region,frontal,23
+without imaging criterion,Blue wildebeest,region,frontal,32
+without imaging criterion,Bottlenose dolphin,region,occipital,32
+without imaging criterion,Bottlenose dolphin,region,temporal,17
+without imaging criterion,Caracal,region,frontal,19
+without imaging criterion,Cheetah,region,frontal,126
+without imaging criterion,Cheetah,region,occipital,61
+without imaging criterion,Clouded leopard,region,frontal,27
+without imaging criterion,Clouded leopard,region,occipital,29
+without imaging criterion,Clouded leopard,region,prefrontal,28
+without imaging criterion,Domestic dog,region,frontal,20
+without imaging criterion,Elephant,region,frontal,9
+without imaging criterion,Elephant,region,multiple,52
+without imaging criterion,Elephant,region,occipital,7
+without imaging criterion,Giraffe,region,frontal,119
+without imaging criterion,Giraffe,region,occipital,116
+without imaging criterion,Greater kudu,region,frontal,29
+without imaging criterion,Human,region,frontal,319
+without imaging criterion,Human,region,occipital,361
+without imaging criterion,Human,region,parietal,200
+without imaging criterion,Human,region,prefrontal,478
+without imaging criterion,Human,region,temporal,102
+without imaging criterion,Humpback whale,region,frontal,24
+without imaging criterion,Humpback whale,region,occipital,24
+without imaging criterion,Humpback whale,region,temporal,32
+without imaging criterion,Lemur,region,frontal,10
+without imaging criterion,Leopard,region,frontal,166
+without imaging criterion,Leopard,region,occipital,62
+without imaging criterion,Lion,region,frontal,89
+without imaging criterion,Lion,region,occipital,70
+without imaging criterion,Lion tamarin,region,frontal,20
+without imaging criterion,Manatee,region,somatosensory,34
+without imaging criterion,Minke whale,region,frontal,21
+without imaging criterion,Minke whale,region,occipital,36
+without imaging criterion,Mountain zebra,region,frontal,11
+without imaging criterion,Plains zebra,region,frontal,23
+without imaging criterion,Rabbit,region,frontal,37
+without imaging criterion,Rat,region,frontal,20
+without imaging criterion,Tiger,region,frontal,13
+without imaging criterion,Tiger,region,occipital,13
+without imaging criterion,Tiger,region,prefrontal,13
+without imaging criterion,African wild dog,depth,deep,31
+without imaging criterion,African wild dog,depth,superficial,40
+without imaging criterion,African wild dog,depth,unspecified,2
+without imaging criterion,Baboon,depth,deep,10
+without imaging criterion,Baboon,depth,superficial,10
+without imaging criterion,Banded mongoose,depth,deep,14
+without imaging criterion,Banded mongoose,depth,superficial,10
+without imaging criterion,Bennett's wallaby,depth,deep,13
+without imaging criterion,Bennett's wallaby,depth,superficial,10
+without imaging criterion,Blue wildebeest,depth,deep,13
+without imaging criterion,Blue wildebeest,depth,superficial,19
+without imaging criterion,Bottlenose dolphin,depth,unspecified,49
+without imaging criterion,Caracal,depth,deep,9
+without imaging criterion,Caracal,depth,superficial,10
+without imaging criterion,Cheetah,depth,deep,30
+without imaging criterion,Cheetah,depth,superficial,97
+without imaging criterion,Cheetah,depth,unspecified,60
+without imaging criterion,Clouded leopard,depth,unspecified,84
+without imaging criterion,Domestic dog,depth,deep,8
+without imaging criterion,Domestic dog,depth,superficial,12
+without imaging criterion,Elephant,depth,superficial,68
+without imaging criterion,Giraffe,depth,unspecified,235
+without imaging criterion,Greater kudu,depth,deep,13
+without imaging criterion,Greater kudu,depth,superficial,16
+without imaging criterion,Human,depth,deep,10
+without imaging criterion,Human,depth,superficial,212
+without imaging criterion,Human,depth,unspecified,1238
+without imaging criterion,Humpback whale,depth,unspecified,80
+without imaging criterion,Lemur,depth,deep,1
+without imaging criterion,Lemur,depth,superficial,9
+without imaging criterion,Leopard,depth,unspecified,228
+without imaging criterion,Lion,depth,deep,38
+without imaging criterion,Lion,depth,superficial,84
+without imaging criterion,Lion,depth,unspecified,37
+without imaging criterion,Lion tamarin,depth,deep,10
+without imaging criterion,Lion tamarin,depth,superficial,10
+without imaging criterion,Manatee,depth,unspecified,34
+without imaging criterion,Minke whale,depth,unspecified,57
+without imaging criterion,Mountain zebra,depth,deep,6
+without imaging criterion,Mountain zebra,depth,superficial,5
+without imaging criterion,Plains zebra,depth,deep,13
+without imaging criterion,Plains zebra,depth,superficial,10
+without imaging criterion,Rabbit,depth,deep,18
+without imaging criterion,Rabbit,depth,superficial,19
+without imaging criterion,Rat,depth,deep,10
+without imaging criterion,Rat,depth,superficial,10
+without imaging criterion,Tiger,depth,unspecified,39

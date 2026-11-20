@@ -1,0 +1,15 @@
+parameter,value,description
+region_excluded,insula|cerebellar,brain_region keywords that remove a reconstruction
+cell_type_excluded,gigantopyramidal,cell_type keywords that remove a reconstruction
+condition_allowed,Control,experimental condition kept
+age_excluded,neonatal,age classes removed
+magnification,60,objective magnification of the imaging criterion
+objective,oil,objective type of the imaging criterion
+min_neurons,10,smallest number of reconstructions per species
+lambda_fixed,0|0.25|0.5|0.75|1,fixed values of Pagel's lambda
+Rm_ohm_cm2,10000.0,specific membrane resistance
+Ra_ohm_cm,150.0,axial resistivity
+Cm_uF_cm2,1.0,specific membrane capacitance
+bin_um,10.0,path-distance bin of the voltage-transfer profile
+dmax_um,500.0,largest path distance of the profile
+window_um,200.0,path-distance window of the electrotonic extent

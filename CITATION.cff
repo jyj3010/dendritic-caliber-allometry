@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: dendritic-caliber-allometry
+version: 1.0.0
+license: MIT
+repository-code: https://github.com/jyj3010/dendritic-caliber-allometry
+authors:
+  - family-names: Jang
+    given-names: Young-Jin
+    orcid: https://orcid.org/0000-0002-0898-373X
+preferred-citation:
+  type: unpublished
+  title: Dendritic caliber scales with brain mass across mammals
+  notes: Manuscript submitted to Brain Structure and Function
+  year: 2026
+  authors:
+    - family-names: Jang
+      given-names: Young-Jin

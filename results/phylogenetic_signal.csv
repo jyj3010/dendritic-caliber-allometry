@@ -1,0 +1,5 @@
+model,lambda,ci_lo,ci_hi,p_lambda_0,p_lambda_1
+trait: log10 caliber,0.995,0.615,1.0,0.002274807225393683,0.8615655153160044
+trait: log10 brain mass,1.0,0.86,1.0,0.0006949929467760043,1.0
+log10 caliber ~ log10 brain mass,0.895,0.505,1.0,0.0023097694463528017,0.08222017549983496
+log10 caliber ~ log10 brain mass + primate,0.0,0.0,0.77,1.0,0.0002418634666680478

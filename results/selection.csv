@@ -1,0 +1,4607 @@
+neuron_id,neuron_name,species,removed_by,primary,without_imaging_criterion
+129935,242-2-5VN,Lion,,True,True
+129936,242-2-9VN,Lion,,True,True
+129937,242-2-4VN,Lion,,True,True
+129938,242-2-15VN,Lion,,True,True
+129939,242-2-27VN,Lion,,True,True
+129940,236-3-15LS,Leopard,,True,True
+129941,236-3-2LS,Leopard,,True,True
+129942,236-3-43LS,Leopard,,True,True
+129943,236-3-39LS,Leopard,,True,True
+129944,236-3-18LS,Leopard,,True,True
+129945,236-3-32LS,Leopard,,True,True
+129946,236-3-9LS,Leopard,,True,True
+129947,236-3-48LS,Leopard,,True,True
+129948,236-3-70LS,Leopard,,True,True
+129949,236-3-4LS,Leopard,,True,True
+129950,236-3-51LS,Leopard,,True,True
+129951,236-3-35LS,Leopard,,True,True
+129952,236-3-56LS,Leopard,,True,True
+129953,236-3-42LS,Leopard,,True,True
+129954,236-3-3LS,Leopard,,True,True
+129955,236-3-38LS,Leopard,,True,True
+129956,236-3-63LS,Leopard,,True,True
+129957,236-3-33LS,Leopard,,True,True
+129958,236-3-49LS,Leopard,,True,True
+129959,236-3-65LS,Leopard,,True,True
+129960,236-3-71LS,Leopard,,True,True
+129961,236-3-50LS,Leopard,,True,True
+129962,236-3-5LS,Leopard,,True,True
+129963,236-3-44LS,Leopard,,True,True
+129964,236-3-36LS,Leopard,,True,True
+129965,236-3-58LS,Leopard,,True,True
+129966,236-3-74LS,Leopard,,True,True
+129967,236-3-55LS,Leopard,,True,True
+129968,236-3-6LS,Leopard,,True,True
+129969,236-3-16LS,Leopard,,True,True
+129970,236-3-23LS,Leopard,,True,True
+129971,236-3-37LS,Leopard,,True,True
+129972,236-3-61LS,Leopard,,True,True
+129973,236-3-75LS,Leopard,,True,True
+129974,236-3-54LS,Leopard,,True,True
+129975,236-3-1LS,Leopard,,True,True
+129976,236-3-31LS,Leopard,,True,True
+129977,236-3-10LS,Leopard,,True,True
+129978,236-3-52LS,Leopard,,True,True
+129979,236-3-46LS,Leopard,,True,True
+129980,236-3-67LS,Leopard,,True,True
+129981,241-3-37LU,Cheetah,,True,True
+129982,241-3-25LU,Cheetah,,True,True
+129983,241-2-8VN,Cheetah,,True,True
+129984,241-2-36VN,Cheetah,,True,True
+129985,241-2-96LU,Cheetah,,True,True
+129986,241-2-104-AW,Cheetah,,True,True
+129987,241-2-95LU,Cheetah,,True,True
+129988,241-2-98LU,Cheetah,,True,True
+129989,241-2-68LU,Cheetah,,True,True
+129990,241-2-71LU,Cheetah,,True,True
+129991,241-2-77LU,Cheetah,,True,True
+129992,241-2-45-AW,Cheetah,,True,True
+129993,241-1-32LU,Cheetah,,True,True
+129994,241-1-12-AW,Cheetah,,True,True
+129995,241-1-30LU,Cheetah,,True,True
+129996,242-1-14VN,Lion,,True,True
+129997,242-1-6VN,Lion,,True,True
+129998,242-1-2VN,Lion,,True,True
+129999,242-1-19VN,Lion,,True,True
+130000,242-1-12VN,Lion,,True,True
+130001,242-1-9VN,Lion,,True,True
+130002,242-1-15VN,Lion,,True,True
+130003,242-1-3VN,Lion,,True,True
+130004,242-1-5VN,Lion,,True,True
+130005,242-1-8VN,Lion,,True,True
+130006,242-1-16VN,Lion,,True,True
+130007,242-1-1VN,Lion,,True,True
+130008,242-1-7VN,Lion,,True,True
+130009,242-1-11VN,Lion,,True,True
+130010,236-2-51LS,Leopard,,True,True
+130011,236-2a-46-AW,Leopard,,True,True
+130012,236-2-99LS,Leopard,,True,True
+130013,236-2-21LS,Leopard,,True,True
+130014,236-2a-32-AW,Leopard,,True,True
+130015,236-2a-42-AW,Leopard,,True,True
+130016,236-2-29LS,Leopard,,True,True
+130017,236-2a-47-AW,Leopard,,True,True
+130018,236-2-59LS,Leopard,,True,True
+130019,241-1-39VN,Cheetah,,True,True
+130020,241-1-21-AW,Cheetah,,True,True
+130021,241-1-13-AW,Cheetah,,True,True
+130022,241-1-45VN,Cheetah,,True,True
+130023,241-1-51VN,Cheetah,,True,True
+130024,241-1-38VN,Cheetah,,True,True
+130025,241-1-42VN,Cheetah,,True,True
+130026,241-1-49VN,Cheetah,,True,True
+130027,241-1-11-AW,Cheetah,,True,True
+130028,241-1-50VN,Cheetah,,True,True
+130029,241-1-10VN,Cheetah,,True,True
+130030,241-1-46VN,Cheetah,,True,True
+130031,241-1-1VN,Cheetah,,True,True
+130032,241-2-16VN,Cheetah,cell type,False,False
+130033,241-2-97LU,Cheetah,cell type,False,False
+130034,241-2-3VN,Cheetah,cell type,False,False
+130035,241-2-100LU,Cheetah,cell type,False,False
+130036,241-2-85LU,Cheetah,cell type,False,False
+130037,241-2-10VN,Cheetah,cell type,False,False
+130038,241-2-5VN,Cheetah,cell type,False,False
+130039,241-2-79LU,Cheetah,cell type,False,False
+130040,241-2-88LU,Cheetah,cell type,False,False
+130041,241-2-55LU,Cheetah,cell type,False,False
+130042,241-2-28VN,Cheetah,cell type,False,False
+130043,241-2-2VN,Cheetah,cell type,False,False
+130044,241-2-11VN,Cheetah,cell type,False,False
+130045,241-2-4VN,Cheetah,cell type,False,False
+130046,241-2-84LU,Cheetah,cell type,False,False
+130047,241-2-101-AW,Cheetah,cell type,False,False
+130048,241-2-78LU,Cheetah,cell type,False,False
+130049,241-2-9VN,Cheetah,cell type,False,False
+130050,241-2-75LU,Cheetah,cell type,False,False
+130051,241-2-81LU,Cheetah,cell type,False,False
+130052,241-2-1VN,Cheetah,cell type,False,False
+130053,241-2-14VN,Cheetah,cell type,False,False
+130054,241-2-7VN,Cheetah,cell type,False,False
+130055,241-2-12VN,Cheetah,cell type,False,False
+130056,241-2-93LU,Cheetah,cell type,False,False
+130057,241-2-15VN,Cheetah,cell type,False,False
+130058,241-2-6VN,Cheetah,cell type,False,False
+130059,241-2-13VN,Cheetah,cell type,False,False
+130060,241-2-86LU,Cheetah,cell type,False,False
+130061,243-3-46LU,Lion,cell type,False,False
+130062,243-3-53LU,Lion,cell type,False,False
+130063,243-3-47LU,Lion,cell type,False,False
+130064,242-3-19LU,Lion,cell type,False,False
+130065,243-3-42VN,Lion,cell type,False,False
+130066,243-3-19VN,Lion,cell type,False,False
+130067,241-1-43VN,Cheetah,,True,True
+130068,241-1-23-AW,Cheetah,,True,True
+130069,241-1-34LU,Cheetah,,True,True
+130070,241-1-3VN,Cheetah,,True,True
+130071,241-1-31LU,Cheetah,,True,True
+130072,241-1-6VN,Cheetah,,True,True
+130073,241-1-47VN,Cheetah,,True,True
+130074,241-1-29LU,Cheetah,,True,True
+130075,241-1-7VN,Cheetah,,True,True
+130076,243-3-52LU,Lion,,True,True
+130077,243-3-41VN,Lion,,True,True
+130078,243-3-29VN,Lion,,True,True
+130079,243-3-30VN,Lion,,True,True
+130080,243-3-24VN,Lion,,True,True
+130081,243-3-11VN,Lion,,True,True
+130082,242-3-13-AW,Lion,,True,True
+130083,242-3-5-AW,Lion,,True,True
+130084,243-3-23VN,Lion,,True,True
+130085,243-3-28VN,Lion,,True,True
+130086,243-3-37-AW,Lion,,True,True
+130087,243-3-25VN,Lion,,True,True
+130088,243-3-34VN,Lion,,True,True
+130089,243-3-15VN,Lion,,True,True
+130090,243-3-51LU,Lion,,True,True
+130091,242-3-1-AW,Lion,,True,True
+130092,243-3-45LU,Lion,,True,True
+130093,243-3-14VN,Lion,,True,True
+130094,243-3-33VN,Lion,,True,True
+130095,241-3-46VN,Cheetah,,True,True
+130096,241-3-7VN,Cheetah,,True,True
+130097,241-3-1VN,Cheetah,,True,True
+130098,241-3-12VN,Cheetah,,True,True
+130099,241-3-9VN,Cheetah,,True,True
+130100,241-3-4VN,Cheetah,,True,True
+130101,241-3-2VN,Cheetah,,True,True
+130102,241-1-33LU,Cheetah,,True,True
+130103,241-1-27LU,Cheetah,,True,True
+130104,241-1-9VN,Cheetah,,True,True
+130105,241-1-16-AW,Cheetah,,True,True
+130106,241-1-24-AW,Cheetah,,True,True
+130107,241-1-48VN,Cheetah,,True,True
+130108,241-1-2VN,Cheetah,,True,True
+130109,241-1-14-AW,Cheetah,,True,True
+130110,241-1-44VN,Cheetah,,True,True
+130111,241-1-28LU,Cheetah,,True,True
+130112,241-1-41VN,Cheetah,,True,True
+130113,241-1-20-AW,Cheetah,,True,True
+130114,241-1-17-AW,Cheetah,,True,True
+130115,241-1-40VN,Cheetah,,True,True
+130116,241-1-15-AW,Cheetah,,True,True
+130117,241-1-22-AW,Cheetah,,True,True
+130118,242-2-8VN,Lion,,True,True
+130119,242-2-22VN,Lion,,True,True
+130120,242-2-11VN,Lion,,True,True
+130121,243-2-22VN,Lion,,True,True
+130122,242-2-16VN,Lion,,True,True
+130123,243-2-28VN,Lion,,True,True
+130124,242-2-10VN,Lion,,True,True
+130125,242-2-20VN,Lion,,True,True
+130126,242-2-26VN,Lion,,True,True
+130127,243-2-20VN,Lion,,True,True
+130128,243-2-27VN,Lion,,True,True
+130129,242-2-34LU,Lion,,True,True
+130130,242-1-18VN,Lion,,True,True
+130137,236-3-20LS,Leopard,,True,True
+130138,236-3-14LS,Leopard,,True,True
+130139,236-3-22LS,Leopard,,True,True
+130140,236-3-24LS,Leopard,,True,True
+130141,236-3-73LS,Leopard,,True,True
+130142,242-3-3-AW,Lion,,True,True
+130143,242-3-21LU,Lion,,True,True
+130144,243-3-36-AW,Lion,,True,True
+130145,241-1-36VN,Cheetah,,True,True
+130146,243-2-7-AW,Lion,,True,True
+130147,242-2-17VN,Lion,,True,True
+130148,243-2-11VN,Lion,,True,True
+130149,243-2-24VN,Lion,,True,True
+130150,242-2-30VN,Lion,,True,True
+130151,242-2-37LU,Lion,,True,True
+130152,242-2-29VN,Lion,,True,True
+130153,243-2-17VN,Lion,,True,True
+130154,243-2-8-AW,Lion,,True,True
+130155,242-2-36LU,Lion,,True,True
+130156,242-2-28VN,Lion,,True,True
+130157,243-2-23VN,Lion,,True,True
+130158,242-2-7VN,Lion,,True,True
+130159,243-2-18VN,Lion,,True,True
+130160,242-2-13VN,Lion,,True,True
+130161,242-2-38LU,Lion,,True,True
+130162,242-2-14VN,Lion,,True,True
+130163,243-2-12VN,Lion,,True,True
+130164,242-2-6VN,Lion,,True,True
+130165,243-2-1-AW,Lion,,True,True
+130166,242-2-12VN,Lion,,True,True
+130167,243-2-19VN,Lion,,True,True
+130168,243-2-4-AW,Lion,,True,True
+130169,242-3-23LU,Lion,,True,True
+130170,242-3-17LU,Lion,,True,True
+130171,243-3-8VN,Lion,,True,True
+130172,243-3-31VN,Lion,,True,True
+130173,243-3-18VN,Lion,,True,True
+130174,243-3-39-AW,Lion,,True,True
+130175,242-3-20LU,Lion,,True,True
+130176,243-3-21VN,Lion,,True,True
+130177,242-3-9-AW,Lion,,True,True
+130178,236-1-25LS,Leopard,,True,True
+130179,236-1-10LS,Leopard,,True,True
+130180,236-1a-3-AW,Leopard,,True,True
+130181,236-1-23LS,Leopard,,True,True
+130182,236-1-7LS,Leopard,,True,True
+130183,236-1-11LS,Leopard,,True,True
+130184,236-1a-4-AW,Leopard,,True,True
+130185,236-1-17LS,Leopard,,True,True
+130186,236-1-22LS,Leopard,,True,True
+130187,236-1a-1-AW,Leopard,,True,True
+130188,236-1-12LS,Leopard,,True,True
+130189,236-1-8LS,Leopard,,True,True
+130190,236-1-14LS,Leopard,,True,True
+130191,236-1a-10-AW,Leopard,,True,True
+130192,236-1-13LS,Leopard,,True,True
+130193,236-1-2LS,Leopard,,True,True
+130194,236-1-15LS,Leopard,,True,True
+130195,236-1a-8-AW,Leopard,,True,True
+130196,236-1-9LS,Leopard,,True,True
+130197,236-1a-5-AW,Leopard,,True,True
+130198,241-2-43-AW,Cheetah,,True,True
+130199,241-2-74LU,Cheetah,,True,True
+130200,241-2-67LU,Cheetah,,True,True
+130201,241-2-89LU,Cheetah,,True,True
+130202,241-2-29VN,Cheetah,,True,True
+130203,241-2-35VN,Cheetah,,True,True
+130204,241-2-21VN,Cheetah,,True,True
+130205,241-2-39VN,Cheetah,,True,True
+130206,241-2-63LU,Cheetah,,True,True
+130207,236-3-34LS,Leopard,,True,True
+130208,241-3-17LU,Cheetah,,True,True
+130209,241-3-36LU,Cheetah,,True,True
+130210,241-3-63-AW,Cheetah,,True,True
+130211,241-3-52VN,Cheetah,,True,True
+130212,241-3-41LU,Cheetah,,True,True
+130213,241-3-67VN,Cheetah,,True,True
+130214,241-3-29LU,Cheetah,,True,True
+130215,241-3-54VN,Cheetah,,True,True
+130216,241-3-16LU,Cheetah,,True,True
+130217,241-3-11VN,Cheetah,,True,True
+130218,241-3-6VN,Cheetah,,True,True
+130219,241-3-53VN,Cheetah,,True,True
+130220,241-3-47VN,Cheetah,,True,True
+130221,241-3-28LU,Cheetah,,True,True
+130222,241-3-55VN,Cheetah,,True,True
+130223,241-3-68VN,Cheetah,,True,True
+130224,241-3-20LU,Cheetah,,True,True
+130225,241-3-49VN,Cheetah,,True,True
+130226,241-3-8VN,Cheetah,,True,True
+130227,241-3-15LU,Cheetah,,True,True
+130228,241-3-71VN,Cheetah,,True,True
+130229,241-3-50VN,Cheetah,,True,True
+130230,241-3-18LU,Cheetah,,True,True
+130231,241-3-5VN,Cheetah,,True,True
+130232,241-3-13LU,Cheetah,,True,True
+130233,241-3-32LU,Cheetah,,True,True
+130234,241-3-62-AW,Cheetah,,True,True
+130235,241-3-14VN,Cheetah,,True,True
+130236,241-3-58-AW,Cheetah,,True,True
+130237,241-3-69VN,Cheetah,,True,True
+130238,241-3-48VN,Cheetah,,True,True
+130239,241-3-64VN,Cheetah,,True,True
+130240,241-3-70VN,Cheetah,,True,True
+130241,241-3-51VN,Cheetah,,True,True
+130242,241-3-57-AW,Cheetah,,True,True
+130243,241-3-60-AW,Cheetah,,True,True
+130244,241-3-27LU,Cheetah,,True,True
+130246,241-2-46-AW,Cheetah,,True,True
+130247,241-2-25VN,Cheetah,,True,True
+130248,241-2-52-AW,Cheetah,,True,True
+130249,241-2-70LU,Cheetah,,True,True
+130250,241-2-87LU,Cheetah,,True,True
+130251,241-2-34VN,Cheetah,,True,True
+130252,241-2-72VN,Cheetah,,True,True
+130253,236-2-81LS,Leopard,,True,True
+130254,236-2-74LS,Leopard,,True,True
+130255,236-2-3LS,Leopard,,True,True
+130256,236-2-32LS,Leopard,cell type,False,False
+130257,236-2-6LS,Leopard,cell type,False,False
+130258,236-2-98LS,Leopard,cell type,False,False
+130259,236-2-93LS,Leopard,cell type,False,False
+130260,236-2-94LS,Leopard,cell type,False,False
+130261,236-2-7LS,Leopard,cell type,False,False
+130262,236-2-71LS,Leopard,cell type,False,False
+130263,236-2-14LS,Leopard,cell type,False,False
+130264,236-2-92LS,Leopard,cell type,False,False
+130265,236-2-24LS,Leopard,cell type,False,False
+130266,236-2-79LS,Leopard,cell type,False,False
+130267,236-2-2LS,Leopard,cell type,False,False
+130268,236-2-10LS,Leopard,cell type,False,False
+130269,236-2-8LS,Leopard,cell type,False,False
+130270,236-2-90LS,Leopard,cell type,False,False
+130271,236-2-23LS,Leopard,cell type,False,False
+130272,236-2-75LS,Leopard,cell type,False,False
+130273,242-1-4VN,Lion,,True,True
+130274,236-1-24LS,Leopard,,True,True
+130275,236-1a-7-AW,Leopard,,True,True
+130276,236-1-5LS,Leopard,,True,True
+130277,236-1a-12-AW,Leopard,,True,True
+130278,236-1a-9-AW,Leopard,,True,True
+130279,236-1a-2-AW,Leopard,,True,True
+130280,236-1-21LS,Leopard,,True,True
+130281,236-1-18LS,Leopard,,True,True
+130282,241-2-37VN,Cheetah,,True,True
+130283,241-2-31VN,Cheetah,,True,True
+130284,241-2-59LU,Cheetah,,True,True
+130285,241-2-30VN,Cheetah,,True,True
+130286,241-2-69LU,Cheetah,,True,True
+130287,241-2-27VN,Cheetah,,True,True
+130288,241-2-76LU,Cheetah,,True,True
+130289,241-2-26VN,Cheetah,,True,True
+130290,241-2-32VN,Cheetah,,True,True
+130291,241-2-33VN,Cheetah,,True,True
+130292,241-2-62LU,Cheetah,,True,True
+130293,243-2-2-AW,Lion,,True,True
+130294,243-2-6-AW,Lion,,True,True
+130295,243-3-4VN,Lion,,True,True
+130296,242-3-16LU,Lion,,True,True
+130297,242-3-7-AW,Lion,,True,True
+130298,243-3-17VN,Lion,,True,True
+130299,243-3-9VN,Lion,,True,True
+130300,242-3-11-AW,Lion,,True,True
+130301,243-3-22VN,Lion,,True,True
+130302,242-3-2-AW,Lion,,True,True
+130303,242-3-14-AW,Lion,,True,True
+130304,243-3-2VN,Lion,,True,True
+130305,243-3-38-AW,Lion,,True,True
+130306,243-3-5VN,Lion,,True,True
+130307,242-3-22LU,Lion,,True,True
+130308,242-3-8-AW,Lion,,True,True
+130309,243-3-16VN,Lion,,True,True
+130310,243-3-3VN,Lion,,True,True
+130311,243-3-10VN,Lion,,True,True
+130312,243-3-44LU,Lion,,True,True
+130313,243-3-6VN,Lion,,True,True
+130314,243-3-20VN,Lion,,True,True
+130315,243-3-13VN,Lion,,True,True
+130316,242-3-6-AW,Lion,,True,True
+130317,243-3-48VN,Lion,,True,True
+130318,242-3-10-AW,Lion,,True,True
+130319,243-3-32VN,Lion,,True,True
+130320,243-3-26VN,Lion,,True,True
+130321,242-3-15LU,Lion,,True,True
+130322,243-3-7VN,Lion,,True,True
+130323,242-3-18LU,Lion,,True,True
+130324,243-3-35VN,Lion,,True,True
+130325,243-3-1VN,Lion,,True,True
+130326,243-3-43LU,Lion,,True,True
+130327,243-3-40-AW,Lion,,True,True
+130328,243-3-50VN,Lion,,True,True
+130329,242-3-12-AW,Lion,,True,True
+130330,243-3-12VN,Lion,,True,True
+130331,243-3-27VN,Lion,,True,True
+130332,243-3-49VN,Lion,,True,True
+130333,242-3-4-AW,Lion,,True,True
+130334,242-2-3VN,Lion,,True,True
+130335,242-2-31VN,Lion,,True,True
+130336,242-2-2VN,Lion,,True,True
+130337,242-2-33LU,Lion,,True,True
+130338,242-2-35LU,Lion,,True,True
+130339,242-2-1VN,Lion,,True,True
+130340,242-2-32LU,Lion,,True,True
+130341,243-2-21VN,Lion,,True,True
+130342,242-2-24VN,Lion,cell type,False,False
+130343,242-2-23VN,Lion,cell type,False,False
+130344,243-2-10VN,Lion,cell type,False,False
+130345,243-2-25VN,Lion,cell type,False,False
+130346,242-2-25VN,Lion,cell type,False,False
+130347,243-2-16VN,Lion,cell type,False,False
+130348,243-2-3-AW,Lion,cell type,False,False
+130349,243-2-26VN,Lion,cell type,False,False
+130350,243-2-13VN,Lion,cell type,False,False
+130351,242-2-18VN,Lion,cell type,False,False
+130352,243-2-9VN,Lion,cell type,False,False
+130353,243-2-15VN,Lion,cell type,False,False
+130354,242-2-21VN,Lion,cell type,False,False
+130355,243-2-14VN,Lion,cell type,False,False
+130356,236-2-39LS,Leopard,,True,True
+130357,236-2-28LS,Leopard,,True,True
+130358,236-3-64LS,Leopard,,True,True
+130359,236-3-72LS,Leopard,,True,True
+130360,236-3-57LS,Leopard,,True,True
+130361,236-3-62LS,Leopard,,True,True
+130362,236-3-13LS,Leopard,,True,True
+130363,236-3-69LS,Leopard,,True,True
+130364,236-3-21LS,Leopard,,True,True
+130365,236-3-8LS,Leopard,,True,True
+130366,236-3-17LS,Leopard,,True,True
+130367,236-3-41LS,Leopard,,True,True
+130368,236-3-30LS,Leopard,,True,True
+130369,236-3-47LS,Leopard,,True,True
+130370,236-3-53LS,Leopard,,True,True
+130371,236-3-59LS,Leopard,,True,True
+130372,236-3-40LS,Leopard,,True,True
+130373,236-2-26LS,Leopard,,True,True
+130374,236-2-45LS,Leopard,,True,True
+130375,236-2a-13-AW,Leopard,,True,True
+130376,236-2-70LS,Leopard,,True,True
+130377,236-2-64LS,Leopard,,True,True
+130378,236-2a-16-AW,Leopard,,True,True
+130379,236-2a-43-AW,Leopard,,True,True
+130380,236-2-62LS,Leopard,,True,True
+130381,236-2-57LS,Leopard,,True,True
+130382,236-2-49LS,Leopard,,True,True
+130383,236-2-80LS,Leopard,,True,True
+130384,236-2a-37-AW,Leopard,,True,True
+130385,236-2-65LS,Leopard,,True,True
+130386,236-2-35LS,Leopard,,True,True
+130387,236-2-63LS,Leopard,,True,True
+130388,236-2-56LS,Leopard,,True,True
+130389,236-2-38LS,Leopard,,True,True
+130390,236-2-4LS,Leopard,,True,True
+130391,236-2-83LS,Leopard,,True,True
+130392,236-2-9LS,Leopard,,True,True
+130393,236-2-66LS,Leopard,,True,True
+130394,236-2a-31-AW,Leopard,,True,True
+130395,236-2-36LS,Leopard,,True,True
+130396,236-2a-25-AW,Leopard,,True,True
+130397,236-2-5LS,Leopard,,True,True
+130398,236-2-82LS,Leopard,,True,True
+130399,236-2-73LS,Leopard,,True,True
+130400,236-2-52LS,Leopard,,True,True
+130401,236-2-84LS,Leopard,,True,True
+130402,236-2-78LS,Leopard,,True,True
+130403,236-2-54LS,Leopard,,True,True
+130404,236-2a-27-AW,Leopard,,True,True
+130405,241-1-4VN,Cheetah,,True,True
+130406,241-1-35VN,Cheetah,,True,True
+130407,241-1-5VN,Cheetah,,True,True
+130408,241-3-10VN,Cheetah,,True,True
+130409,241-3-30LU,Cheetah,,True,True
+130410,241-3-24LU,Cheetah,,True,True
+130411,241-3-23LU,Cheetah,,True,True
+130412,241-3-40LU,Cheetah,,True,True
+130413,241-3-34LU,Cheetah,,True,True
+130414,241-3-26LU,Cheetah,,True,True
+130415,241-3-3VN,Cheetah,,True,True
+130416,241-3-45LU,Cheetah,,True,True
+130417,241-3-21LU,Cheetah,,True,True
+130418,241-3-35LU,Cheetah,,True,True
+130419,241-3-38LU,Cheetah,,True,True
+130420,241-3-42LU,Cheetah,,True,True
+130421,241-3-19LU,Cheetah,,True,True
+130422,241-3-44LU,Cheetah,,True,True
+130423,241-3-22LU,Cheetah,cell type,False,False
+130424,241-3-59-AW,Cheetah,cell type,False,False
+130425,241-3-56-AW,Cheetah,cell type,False,False
+130426,241-3-61-AW,Cheetah,cell type,False,False
+130427,241-3-66VN,Cheetah,cell type,False,False
+130428,241-3-72VN,Cheetah,cell type,False,False
+130429,241-3-31LU,Cheetah,cell type,False,False
+130430,241-3-39LU,Cheetah,cell type,False,False
+130431,241-3-43LU,Cheetah,cell type,False,False
+130432,241-3-65VN,Cheetah,cell type,False,False
+130433,241-3-33LU,Cheetah,cell type,False,False
+130434,242-1-13VN,Lion,,True,True
+130435,242-1-10VN,Lion,,True,True
+130436,242-1-17VN,Lion,,True,True
+130437,241-2-23VN,Cheetah,,True,True
+130438,241-2-83LU,Cheetah,,True,True
+130439,241-2-40VN,Cheetah,,True,True
+130440,241-2-66LU,Cheetah,,True,True
+130441,241-2-106-AW,Cheetah,,True,True
+130442,241-2-91LU,Cheetah,,True,True
+130443,241-2-58LU,Cheetah,,True,True
+130444,241-2-103-AW,Cheetah,,True,True
+130445,241-2-60LU,Cheetah,,True,True
+130446,241-2-22VN,Cheetah,,True,True
+130447,241-2-109-AW,Cheetah,,True,True
+130448,241-2-17VN,Cheetah,,True,True
+130449,241-2-49-AW,Cheetah,,True,True
+130450,241-2-82LU,Cheetah,,True,True
+130451,241-2-73LU,Cheetah,,True,True
+130452,241-2-41VN,Cheetah,,True,True
+130453,241-2-44-AW,Cheetah,,True,True
+130454,241-2-90LU,Cheetah,,True,True
+130455,241-2-24VN,Cheetah,,True,True
+130456,241-2-50-AW,Cheetah,,True,True
+130457,241-2-110-AW,Cheetah,,True,True
+130458,241-2-61LU,Cheetah,,True,True
+130459,241-2-102-AW,Cheetah,,True,True
+130460,241-2-19VN,Cheetah,,True,True
+130461,241-2-38VN,Cheetah,,True,True
+130462,241-2-53-AW,Cheetah,,True,True
+130463,241-2-42VN,Cheetah,,True,True
+130464,241-2-64LU,Cheetah,,True,True
+130465,241-2-47-AW,Cheetah,,True,True
+130466,241-2-57LU,Cheetah,,True,True
+130467,241-2-107-AW,Cheetah,,True,True
+130468,241-2-94LU,Cheetah,,True,True
+130469,241-2-80LU,Cheetah,,True,True
+130470,241-2-20VN,Cheetah,,True,True
+130471,241-2-99LU,Cheetah,,True,True
+130472,241-2-18VN,Cheetah,,True,True
+130473,241-2-51-AW,Cheetah,,True,True
+130474,241-2-65LU,Cheetah,,True,True
+130475,241-2-108-AW,Cheetah,,True,True
+130476,241-2-54-AW,Cheetah,,True,True
+130477,241-2-92LU,Cheetah,,True,True
+130478,241-2-48-AW,Cheetah,,True,True
+130479,241-2-105-AW,Cheetah,,True,True
+130480,241-2-56LU,Cheetah,,True,True
+130481,236-3-76LS,Leopard,cell type,False,False
+130482,236-3-26LS,Leopard,cell type,False,False
+130483,236-3-25LS,Leopard,cell type,False,False
+130484,236-3-7LS,Leopard,cell type,False,False
+130485,236-2-48LS,Leopard,,True,True
+130486,236-2a-57-AW,Leopard,,True,True
+130487,236-2a-35-AW,Leopard,,True,True
+130488,236-2-95LS,Leopard,,True,True
+130489,236-2-69LS,Leopard,,True,True
+130490,236-2-13LS,Leopard,,True,True
+130491,236-2a-29-AW,Leopard,,True,True
+130492,236-2a-38-AW,Leopard,,True,True
+130493,236-2a-3-AW,Leopard,,True,True
+130494,236-2a-24-AW,Leopard,,True,True
+130495,236-2a-6-AW,Leopard,,True,True
+130496,236-2-15LS,Leopard,,True,True
+130497,236-2-34LS,Leopard,,True,True
+130498,236-2-101LS,Leopard,,True,True
+130499,236-2-87LS,Leopard,,True,True
+130500,236-2a-21-AW,Leopard,,True,True
+130501,236-2-20LS,Leopard,,True,True
+130502,236-2a-52-AW,Leopard,,True,True
+130503,236-2a-30-AW,Leopard,,True,True
+130504,236-2-18LS,Leopard,,True,True
+130505,236-2-43LS,Leopard,,True,True
+130506,236-2a-49-AW,Leopard,,True,True
+130507,236-2-33LS,Leopard,,True,True
+130508,236-2-68LS,Leopard,,True,True
+130509,236-2-12LS,Leopard,,True,True
+130510,236-2a-55-AW,Leopard,,True,True
+130511,236-2a-11-AW,Leopard,,True,True
+130512,236-2a-26-AW,Leopard,,True,True
+130513,236-2-50LS,Leopard,,True,True
+130514,236-2a-44-AW,Leopard,,True,True
+130515,236-2-44LS,Leopard,,True,True
+130516,236-2a-1-AW,Leopard,,True,True
+130517,236-2a-23-AW,Leopard,,True,True
+130518,236-2a-14-AW,Leopard,,True,True
+130519,236-2a-41-AW,Leopard,,True,True
+130520,236-2a-4-AW,Leopard,,True,True
+130521,236-2-100LS,Leopard,,True,True
+130522,236-2-86LS,Leopard,,True,True
+130523,236-2-19LS,Leopard,,True,True
+130524,236-2a-19-AW,Leopard,,True,True
+130525,236-2-77LS,Leopard,,True,True
+130526,236-2a-50-AW,Leopard,,True,True
+130527,236-2a-9-AW,Leopard,,True,True
+130528,236-2-42LS,Leopard,,True,True
+130529,236-2a-7-AW,Leopard,,True,True
+130530,236-2-11LS,Leopard,,True,True
+130531,236-2a-17-AW,Leopard,,True,True
+130532,236-2a-20-AW,Leopard,,True,True
+130533,236-2-30LS,Leopard,,True,True
+130534,236-2-97LS,Leopard,,True,True
+130535,236-2-72LS,Leopard,,True,True
+130536,236-2a-53-AW,Leopard,,True,True
+130537,236-2-47LS,Leopard,,True,True
+130538,236-2-53LS,Leopard,,True,True
+130539,236-2a-56-AW,Leopard,,True,True
+130540,236-2a-34-AW,Leopard,,True,True
+130541,236-2-85LS,Leopard,,True,True
+130542,236-2-58LS,Leopard,,True,True
+130543,236-2-91LS,Leopard,,True,True
+130544,236-2-22LS,Leopard,,True,True
+130545,236-2a-28-AW,Leopard,,True,True
+130546,236-2-17LS,Leopard,,True,True
+130547,236-2-88LS,Leopard,,True,True
+130548,236-2a-2-AW,Leopard,,True,True
+130549,236-2-55LS,Leopard,,True,True
+130550,236-2a-12-AW,Leopard,,True,True
+130551,236-2a-22-AW,Leopard,,True,True
+130552,236-2a-15-AW,Leopard,,True,True
+130553,236-2a-40-AW,Leopard,,True,True
+130554,236-2-25LS,Leopard,,True,True
+130555,236-2-96LS,Leopard,,True,True
+130556,236-2a-5-AW,Leopard,,True,True
+130557,236-2-31LS,Leopard,,True,True
+130558,236-2-67LS,Leopard,,True,True
+130559,236-2a-8-AW,Leopard,,True,True
+130560,236-2a-51-AW,Leopard,,True,True
+130561,236-2a-33-AW,Leopard,,True,True
+130562,236-2a-48-AW,Leopard,,True,True
+130563,236-2-37LS,Leopard,,True,True
+130564,236-2a-54-AW,Leopard,,True,True
+130565,236-2-16LS,Leopard,,True,True
+130566,236-2a-10-AW,Leopard,,True,True
+130567,236-2-89LS,Leopard,,True,True
+130568,236-2-40LS,Leopard,,True,True
+130569,236-2a-45-AW,Leopard,,True,True
+130570,236-2-61LS,Leopard,,True,True
+130571,236-2a-59-AW,Leopard,,True,True
+130576,236-1a-6-AW,Leopard,,True,True
+130577,236-1-1LS,Leopard,,True,True
+130578,236-1-3LS,Leopard,,True,True
+130579,236-1-19LS,Leopard,,True,True
+130580,236-1-4LS,Leopard,,True,True
+142127,233-2-7-AW,Human,experimental condition,False,False
+142128,264-2-20-CD,Human,experimental condition,False,False
+142130,226-1-3-NBSS,Human,experimental condition,False,False
+142132,226-2-9-NBSS,Human,experimental condition,False,False
+142134,233-2-14-AW,Human,experimental condition,False,False
+142136,272-2-1-CD,Human,experimental condition,False,False
+142138,264-1-18-RS,Human,experimental condition,False,False
+142140,251-1-13-RS,Human,,True,True
+142142,254-2-19-RS,Human,,True,True
+142144,264-2-1-CD,Human,experimental condition,False,False
+142145,264-2-15-CD,Human,experimental condition,False,False
+142147,235-2-15-AW,Human,experimental condition,False,False
+142149,249-1-21-RS,Human,,True,True
+142151,272-2-11-RS,Human,experimental condition,False,False
+142153,226-1-5MG,Human,experimental condition,False,False
+142154,227-2-3-NBSS,Human,experimental condition,False,False
+142156,265-1-17-CD,Human,experimental condition,False,False
+142158,237-1-5-AW,Human,experimental condition,False,False
+142160,249-2-2-CD,Human,,True,True
+142162,237-1-8-AW,Human,experimental condition,False,False
+142163,248-1-11-CD,Human,,True,True
+142165,247-1-13LU,Human,experimental condition,False,False
+142167,265-1-12-RS,Human,experimental condition,False,False
+142169,260-1-18-RS,Human,experimental condition,False,False
+142170,272-2-18-RS,Human,experimental condition,False,False
+142172,254-2-9-CD,Human,,True,True
+142174,264-1-13-RS,Human,experimental condition,False,False
+142176,262-2-12-CD,Human,experimental condition,False,False
+142178,264-1-10-CD,Human,experimental condition,False,False
+142179,226-2-3-NBSS,Human,experimental condition,False,False
+142181,260-1-4-RS,Human,experimental condition,False,False
+142183,254-1-15-CD,Human,,True,True
+142185,254-2-3-CD,Human,,True,True
+142187,254-2-10-CD,Human,,True,True
+142189,227-1-7-NBSS,Human,experimental condition,False,False
+142191,247-1-19LU,Human,experimental condition,False,False
+142192,247-1-18LU,Human,experimental condition,False,False
+142194,254-2-7-CD,Human,,True,True
+142196,262-1-5-RS,Human,experimental condition,False,False
+142198,251-1-16-RS,Human,,True,True
+142200,272-2-12-RS,Human,experimental condition,False,False
+142201,235-1-3-AW,Human,experimental condition,False,False
+142203,247-1-1LU,Human,experimental condition,False,False
+142205,226-1-2-NBSS,Human,experimental condition,False,False
+142207,250-2-12-RS,Human,,True,True
+142209,272-2-13-RS,Human,experimental condition,False,False
+142210,226-2-1-NBSS,Human,experimental condition,False,False
+142212,265-2-16-RS,Human,experimental condition,False,False
+142214,265-1-11-RS,Human,experimental condition,False,False
+142216,251-1-14-RS,Human,,True,True
+142218,249-2-14-CD,Human,,True,True
+142220,272-1-10-CD,Human,experimental condition,False,False
+142222,262-1-10-RS,Human,experimental condition,False,False
+142223,254-1-2-RS,Human,,True,True
+142225,227-1-4-NBSS,Human,experimental condition,False,False
+142227,250-2-6-CD,Human,,True,True
+142229,260-1-1,Human,experimental condition,False,False
+142231,250-1-12-RS,Human,,True,True
+142233,247-2-5LU,Human,experimental condition,False,False
+142235,247-1-11LU,Human,experimental condition,False,False
+142236,226-2-7-NBSS,Human,experimental condition,False,False
+142238,247-1-10LU,Human,experimental condition,False,False
+142240,251-2-14-CD,Human,,True,True
+142242,226-2-4-NBSS,Human,experimental condition,False,False
+142244,248-2-2-RS,Human,,True,True
+142245,235-2-7-AW,Human,experimental condition,False,False
+142247,248-1-20-RS,Human,,True,True
+142249,260-2-9-CD,Human,experimental condition,False,False
+142251,250-1-19-RS,Human,,True,True
+142253,250-1-18-RS,Human,,True,True
+142254,227-1-9-NBSS,Human,experimental condition,False,False
+142256,233-2-8-AW,Human,experimental condition,False,False
+142258,237-2-8-AW,Human,experimental condition,False,False
+142260,260-1-11-CD,Human,experimental condition,False,False
+142262,227-1-8MG,Human,experimental condition,False,False
+142263,254-2-18-RS,Human,,True,True
+142265,233-1-17-AW,Human,experimental condition,False,False
+142267,226-1-2MG,Human,experimental condition,False,False
+142269,233-2-11-AW,Human,experimental condition,False,False
+142271,235-1-6-AW,Human,experimental condition,False,False
+142272,249-2-5-RS,Human,,True,True
+142274,248-2-12-RS,Human,,True,True
+142276,237-1-9-AW,Human,experimental condition,False,False
+142278,226-1-11-NBSS,Human,experimental condition,False,False
+142280,265-2-1-CD,Human,experimental condition,False,False
+142282,247-1-16LU,Human,experimental condition,False,False
+142284,237-1-4-AW,Human,experimental condition,False,False
+142286,265-2-9-CD,Human,experimental condition,False,False
+142287,233-2-6-AW,Human,experimental condition,False,False
+142289,260-2-4-RS,Human,experimental condition,False,False
+142291,272-2-15-RS,Human,experimental condition,False,False
+142293,265-2-17-RS,Human,experimental condition,False,False
+142294,251-1-15-RS,Human,,True,True
+142295,226-1-6-NBSS,Human,experimental condition,False,False
+142296,260-1-20-RS,Human,experimental condition,False,False
+142297,264-1-15-RS,Human,experimental condition,False,False
+142298,237-1-14-AW,Human,experimental condition,False,False
+142299,226-2-1MG,Human,experimental condition,False,False
+142300,237-1-17-AW,Human,experimental condition,False,False
+142301,249-1-18-RS,Human,,True,True
+142302,247-2-18LU,Human,experimental condition,False,False
+142303,272-1-15-RS,Human,experimental condition,False,False
+142304,250-1-1-CD,Human,,True,True
+142305,248-1-10-CD,Human,,True,True
+142306,272-1-9-CD,Human,experimental condition,False,False
+142307,264-1-7-RS,Human,experimental condition,False,False
+142308,237-1-13-AW,Human,experimental condition,False,False
+142309,264-2-7-RS,Human,experimental condition,False,False
+142310,227-2-10MG,Human,experimental condition,False,False
+142311,226-1-3MG,Human,experimental condition,False,False
+142312,272-1-3-RS,Human,experimental condition,False,False
+142313,264-1-11-CD,Human,experimental condition,False,False
+142314,272-1-7-CD,Human,experimental condition,False,False
+142315,254-2-11-RS,Human,,True,True
+142316,233-2-5-AW,Human,experimental condition,False,False
+142317,260-2-11-CD,Human,experimental condition,False,False
+142318,254-2-4-CD,Human,,True,True
+142319,249-2-16-RS,Human,,True,True
+142320,265-2-14-RS,Human,experimental condition,False,False
+142321,248-1-3-RS,Human,,True,True
+142322,227-2-7-NBSS,Human,experimental condition,False,False
+142323,272-2-20-RS,Human,experimental condition,False,False
+142324,250-1-9-RS,Human,,True,True
+142325,235-1-11-AW,Human,experimental condition,False,False
+142326,265-2-4-CD,Human,experimental condition,False,False
+142327,235-2-8-AW,Human,experimental condition,False,False
+142328,233-2-13-AW,Human,experimental condition,False,False
+142329,260-2-13-RS,Human,experimental condition,False,False
+142330,249-2-18-RS,Human,,True,True
+142331,250-1-13-RS,Human,,True,True
+142332,227-1-6MG,Human,experimental condition,False,False
+142333,247-1-8LU,Human,experimental condition,False,False
+142334,264-2-10-CD,Human,experimental condition,False,False
+142335,265-1-3-CD,Human,experimental condition,False,False
+142336,237-2-5-AW,Human,experimental condition,False,False
+142337,260-2-3-CD,Human,experimental condition,False,False
+142338,250-2-1-RS,Human,,True,True
+142339,249-2-11-CD,Human,,True,True
+142340,226-2-4MG,Human,experimental condition,False,False
+142341,251-2-1-CD,Human,,True,True
+142342,254-1-19-RS,Human,,True,True
+142343,226-2-6MG,Human,experimental condition,False,False
+142344,227-1-11-NBSS,Human,experimental condition,False,False
+142345,249-1-7-CD,Human,,True,True
+142346,260-1-17-RS,Human,experimental condition,False,False
+142347,250-1-11-RS,Human,,True,True
+142348,250-1-3CD,Human,,True,True
+142349,237-1-7-AW,Human,experimental condition,False,False
+142350,254-1-11-CD,Human,,True,True
+142351,254-1-10-RS,Human,,True,True
+142352,250-2-14-CD,Human,,True,True
+142353,248-2-6-CD,Human,,True,True
+142354,250-2-3-CD,Human,,True,True
+142355,264-1-17-RS,Human,experimental condition,False,False
+142356,226-2-3MG,Human,experimental condition,False,False
+142357,227-2-1MG,Human,experimental condition,False,False
+142358,260-1-9-CD,Human,experimental condition,False,False
+142359,237-1-15-AW,Human,experimental condition,False,False
+142360,272-1-2-RS,Human,experimental condition,False,False
+142361,247-2-20LU,Human,experimental condition,False,False
+142362,248-1-17-RS,Human,,True,True
+142363,265-2-10-CD,Human,experimental condition,False,False
+142364,249-1-5-CD,Human,,True,True
+142365,235-2-12-AW,Human,experimental condition,False,False
+142366,247-2-8LU,Human,experimental condition,False,False
+142367,254-2-12-RS,Human,,True,True
+142368,248-1-14-RS,Human,,True,True
+142369,248-2-9-CD,Human,,True,True
+142370,272-1-17-RS,Human,experimental condition,False,False
+142371,235-1-16-AW,Human,experimental condition,False,False
+142372,251-2-16-RS,Human,,True,True
+142373,235-2-14-AW,Human,experimental condition,False,False
+142374,272-2-9-CD,Human,experimental condition,False,False
+142375,250-1-20-RS,Human,,True,True
+142376,227-2-8MG,Human,experimental condition,False,False
+142377,247-1-6LU,Human,experimental condition,False,False
+142378,254-1-5-CD,Human,,True,True
+142379,233-2-20-AW,Human,experimental condition,False,False
+142380,237-2-11-AW,Human,experimental condition,False,False
+142381,227-1-10MG,Human,experimental condition,False,False
+142382,250-1-15-CD,Human,,True,True
+142383,235-2-3-AW,Human,experimental condition,False,False
+142384,262-2-2-RS,Human,experimental condition,False,False
+142385,233-1-12-AW,Human,experimental condition,False,False
+142386,251-2-11-RS,Human,,True,True
+142387,235-1-12-AW,Human,experimental condition,False,False
+142388,235-2-13-AW,Human,experimental condition,False,False
+142389,249-1-19-RS,Human,,True,True
+142390,227-2-9-NBSS,Human,experimental condition,False,False
+142391,254-2-1-CD,Human,,True,True
+142392,250-2-13-CD,Human,,True,True
+142393,248-1-16-CD,Human,,True,True
+142394,250-1-5-CD,Human,,True,True
+142395,227-2-9MG,Human,experimental condition,False,False
+142396,226-1-5-NBSS,Human,experimental condition,False,False
+142397,250-1-7-CD,Human,,True,True
+142398,254-1-9-RS,Human,,True,True
+142399,254-2-13-RS,Human,,True,True
+142400,237-2-3-AW,Human,experimental condition,False,False
+142401,248-1-19-RS,Human,,True,True
+142402,254-2-16-RS,Human,,True,True
+142403,260-2-15-RS,Human,experimental condition,False,False
+142404,247-1-20LU,Human,experimental condition,False,False
+142405,250-1-6-CD,Human,,True,True
+142406,265-2-2-CD,Human,experimental condition,False,False
+142407,254-1-14-CD,Human,,True,True
+142408,233-2-12-AW,Human,experimental condition,False,False
+142409,262-2-13-CD,Human,experimental condition,False,False
+142410,272-2-17-RS,Human,experimental condition,False,False
+142411,227-1-1-NBSS,Human,experimental condition,False,False
+142412,251-1-18-RS,Human,,True,True
+142413,272-2-2-CD,Human,experimental condition,False,False
+142414,248-2-5-CD,Human,,True,True
+142415,226-2-10-NBSS,Human,experimental condition,False,False
+142416,226-1-4-NBSS,Human,experimental condition,False,False
+142417,265-1-10-RS,Human,experimental condition,False,False
+142418,235-2-16-AW,Human,experimental condition,False,False
+142419,265-2-5-CD,Human,experimental condition,False,False
+142420,237-2-19-AW,Human,experimental condition,False,False
+142421,247-2-13LU,Human,experimental condition,False,False
+142422,227-1-7MG,Human,experimental condition,False,False
+142423,227-2-6MG,Human,experimental condition,False,False
+142424,233-1-1AW,Human,experimental condition,False,False
+142425,233-2-19-AW,Human,experimental condition,False,False
+142426,260-2-17-CD,Human,experimental condition,False,False
+142427,249-1-13-RS,Human,,True,True
+142428,251-1-10-CD,Human,,True,True
+142429,226-1-6MG,Human,experimental condition,False,False
+142430,227-1-3-NBSS,Human,experimental condition,False,False
+142431,248-1-2-RS,Human,,True,True
+142432,264-2-9-CD,Human,experimental condition,False,False
+142433,250-1-8-RS,Human,,True,True
+142434,265-2-6-CD,Human,experimental condition,False,False
+142435,254-2-2-CD,Human,,True,True
+142436,237-1-6-AW,Human,experimental condition,False,False
+142437,249-2-3-CD,Human,,True,True
+142438,235-2-17-AW,Human,experimental condition,False,False
+142439,260-2-8-CD,Human,experimental condition,False,False
+142440,247-2-17LU,Human,experimental condition,False,False
+142441,251-2-10-RS,Human,,True,True
+142442,260-2-20-RS,Human,experimental condition,False,False
+142443,251-1-12-RS,Human,,True,True
+142444,237-1-11-AW,Human,experimental condition,False,False
+142445,254-1-12-CD,Human,,True,True
+142446,250-1-14-RS,Human,,True,True
+142447,247-1-7LU,Human,experimental condition,False,False
+142448,233-1-5-AW,Human,experimental condition,False,False
+142449,250-2-4-CD,Human,,True,True
+142450,249-2-15-CD,Human,,True,True
+142451,237-2-1-AW,Human,experimental condition,False,False
+142452,260-2-12-CD,Human,experimental condition,False,False
+142453,250-2-8-RS,Human,,True,True
+142454,254-1-8-RS,Human,,True,True
+142455,251-2-3-CD,Human,,True,True
+142456,264-1-14-RS,Human,experimental condition,False,False
+142457,264-1-12-CD,Human,experimental condition,False,False
+142458,233-1-18-AW,Human,experimental condition,False,False
+142459,265-1-7-RS,Human,experimental condition,False,False
+142460,262-2-4-RS,Human,experimental condition,False,False
+142461,227-2-8-NBSS,Human,experimental condition,False,False
+142462,249-1-9-CD,Human,,True,True
+142463,248-1-12-RS,Human,,True,True
+142464,249-2-4-CD,Human,,True,True
+142465,235-1-2-AW,Human,experimental condition,False,False
+142466,247-2-16LU,Human,experimental condition,False,False
+142467,237-2-20-AW,Human,experimental condition,False,False
+142468,226-1-9-NBSS,Human,experimental condition,False,False
+142469,237-1-18-AW,Human,experimental condition,False,False
+142470,248-2-7-RS,Human,,True,True
+142471,233-2-10-AW,Human,experimental condition,False,False
+142472,249-2-1-RS,Human,,True,True
+142473,233-2-3-AW,Human,experimental condition,False,False
+142474,226-1-4MG,Human,experimental condition,False,False
+142475,227-1-8-NBSS,Human,experimental condition,False,False
+142476,227-1-5MG,Human,experimental condition,False,False
+142477,247-1-2LU,Human,experimental condition,False,False
+142478,251-2-12-RS,Human,,True,True
+142479,264-2-12-CD,Human,experimental condition,False,False
+142480,251-2-19-RS,Human,,True,True
+142481,235-1-19-AW,Human,experimental condition,False,False
+142482,254-1-20-RS,Human,,True,True
+142483,233-1-3-AW,Human,experimental condition,False,False
+142484,233-2-18-AW,Human,experimental condition,False,False
+142485,233-2-17-AW,Human,experimental condition,False,False
+142486,272-2-3-CD,Human,experimental condition,False,False
+142487,237-2-6-AW,Human,experimental condition,False,False
+142488,235-2-20-AW,Human,experimental condition,False,False
+142489,262-2-6-RS,Human,experimental condition,False,False
+142490,226-2-2MG,Human,experimental condition,False,False
+142491,235-1-4-AW,Human,experimental condition,False,False
+142492,251-2-9-RS,Human,,True,True
+142493,251-1-17-RS,Human,,True,True
+142494,262-1-16-CD,Human,experimental condition,False,False
+142495,250-2-2-CD,Human,,True,True
+142496,235-2-6-AW,Human,experimental condition,False,False
+142497,237-1-10-AW,Human,experimental condition,False,False
+142498,251-1-9-CD,Human,,True,True
+142499,235-1-15-AW,Human,experimental condition,False,False
+142500,248-1-9-CD,Human,,True,True
+142501,235-2-18-AW,Human,experimental condition,False,False
+142502,237-2-10-AW,Human,experimental condition,False,False
+142503,247-2-9LU,Human,experimental condition,False,False
+142504,248-1-18-RS,Human,,True,True
+142505,233-2-9-AW,Human,experimental condition,False,False
+142506,260-1-8-CD,Human,experimental condition,False,False
+142507,262-2-9-RS,Human,experimental condition,False,False
+142508,250-1-4-CD,Human,,True,True
+142509,264-1-20-RS,Human,experimental condition,False,False
+142510,233-1-14-AW,Human,experimental condition,False,False
+142511,260-1-19-RS,Human,experimental condition,False,False
+142512,254-1-1-CD,Human,,True,True
+142513,249-1-8-CD,Human,,True,True
+142514,265-1-19-CD,Human,experimental condition,False,False
+142515,226-1-10-NBSS,Human,experimental condition,False,False
+142516,260-2-18-RS,Human,experimental condition,False,False
+142517,248-2-1CD,Human,,True,True
+142518,247-2-7LU,Human,experimental condition,False,False
+142519,260-2-5-RS,Human,experimental condition,False,False
+142520,262-2-1-RS,Human,experimental condition,False,False
+142521,247-2-19LU,Human,experimental condition,False,False
+142522,233-1-16-AW,Human,experimental condition,False,False
+142523,262-2-7-RS,Human,experimental condition,False,False
+142524,251-2-20-RS,Human,,True,True
+142525,247-2-12LU,Human,experimental condition,False,False
+142526,264-2-3-CD,Human,experimental condition,False,False
+142527,254-2-6-CD,Human,,True,True
+142528,227-2-4-NBSS,Human,experimental condition,False,False
+142529,272-1-16-RS,Human,experimental condition,False,False
+142530,237-1-2-AW,Human,experimental condition,False,False
+142531,272-1-1-CD,Human,experimental condition,False,False
+142532,233-1-13-AW,Human,experimental condition,False,False
+142533,264-1-6-CD,Human,experimental condition,False,False
+142534,226-1-7MG,Human,experimental condition,False,False
+142535,233-2-1-AW,Human,experimental condition,False,False
+142536,227-1-2-NBSS,Human,experimental condition,False,False
+142537,250-2-9-CD,Human,,True,True
+142538,264-1-4-RS,Human,experimental condition,False,False
+142539,254-2-15-RS,Human,,True,True
+142540,227-1-4MG,Human,experimental condition,False,False
+142541,272-2-16-RS,Human,experimental condition,False,False
+142542,226-2-8MG,Human,experimental condition,False,False
+142543,235-2-19-AW,Human,experimental condition,False,False
+142544,227-2-5-NBSS,Human,experimental condition,False,False
+142545,260-2-1-RS,Human,experimental condition,False,False
+142546,237-1-1-AW,Human,experimental condition,False,False
+142547,254-1-18-RS,Human,,True,True
+142548,248-2-4-RS,Human,,True,True
+142549,265-2-8-CD,Human,experimental condition,False,False
+142550,235-2-9-AW,Human,experimental condition,False,False
+142551,251-2-18-RS,Human,,True,True
+142552,235-2-11-AW,Human,experimental condition,False,False
+142553,262-1-15-CD,Human,experimental condition,False,False
+142554,264-2-6-RS,Human,experimental condition,False,False
+142555,264-2-13-CD,Human,experimental condition,False,False
+142556,237-2-13-AW,Human,experimental condition,False,False
+142557,262-1-8-RS,Human,experimental condition,False,False
+142558,262-1-4-RS,Human,experimental condition,False,False
+142559,264-1-8-CD,Human,experimental condition,False,False
+142560,262-2-17-CD,Human,experimental condition,False,False
+142561,265-1-18-CD,Human,experimental condition,False,False
+142562,248-2-17-RS,Human,,True,True
+142563,233-1-8-AW,Human,experimental condition,False,False
+142564,262-1-13-CD,Human,experimental condition,False,False
+142565,233-1-15-AW,Human,experimental condition,False,False
+142566,247-2-10LU,Human,experimental condition,False,False
+142567,260-1-13-CD,Human,experimental condition,False,False
+142568,264-2-8-RS,Human,experimental condition,False,False
+142569,272-1-5-CD,Human,experimental condition,False,False
+142570,262-1-17-CD,Human,experimental condition,False,False
+142571,247-1-15LU,Human,experimental condition,False,False
+142572,264-2-5-RS,Human,experimental condition,False,False
+142573,260-1-10-CD,Human,experimental condition,False,False
+142574,272-2-14-RS,Human,experimental condition,False,False
+142575,262-1-18-CD,Human,experimental condition,False,False
+142576,247-1-17LU,Human,experimental condition,False,False
+142577,247-2-2LU,Human,experimental condition,False,False
+142578,249-1-14-RS,Human,,True,True
+142579,251-2-4-CD,Human,,True,True
+142580,233-1-9-AW,Human,experimental condition,False,False
+142581,260-2-14-RS,Human,experimental condition,False,False
+142582,254-1-17-RS,Human,,True,True
+142583,272-2-10-CD,Human,experimental condition,False,False
+142584,248-2-15-CD,Human,,True,True
+142585,272-2-7-CD,Human,experimental condition,False,False
+142586,249-1-12-CD,Human,,True,True
+142587,251-2-2-CD,Human,,True,True
+142588,249-2-6-CD,Human,,True,True
+142589,260-2-2-CD,Human,experimental condition,False,False
+142590,262-2-14-CD,Human,experimental condition,False,False
+142591,249-2-12-CD,Human,,True,True
+142592,249-2-19-RS,Human,,True,True
+142593,248-2-10-RS,Human,,True,True
+142594,254-2-14-RS,Human,,True,True
+142595,260-2-16-CD,Human,experimental condition,False,False
+142596,250-1-2-RS,Human,,True,True
+142597,227-1-10-NBSS,Human,experimental condition,False,False
+142598,254-1-16-RS,Human,,True,True
+142599,249-2-9-RS,Human,,True,True
+142600,248-1-7-CD,Human,,True,True
+142601,226-2-8-NBSS,Human,experimental condition,False,False
+142602,262-2-18-CD,Human,experimental condition,False,False
+142603,233-1-19-AW,Human,experimental condition,False,False
+142604,264-1-3-RS,Human,experimental condition,False,False
+142605,254-1-7-CD,Human,,True,True
+142606,260-1-7-CD,Human,experimental condition,False,False
+142607,249-2-8-RS,Human,,True,True
+142608,264-2-11-CD,Human,experimental condition,False,False
+142609,237-2-15-AW,Human,experimental condition,False,False
+142610,264-2-4-RS,Human,experimental condition,False,False
+142611,248-2-13-CD,Human,,True,True
+142612,233-1-6-AW,Human,experimental condition,False,False
+142613,264-1-19-RS,Human,experimental condition,False,False
+142614,251-1-20-RS,Human,,True,True
+142615,249-1-6-CD,Human,,True,True
+142616,251-2-17-CD,Human,,True,True
+142617,250-1-16-CD,Human,,True,True
+142618,260-1-6-CD,Human,experimental condition,False,False
+142619,262-1-14-CD,Human,experimental condition,False,False
+142620,235-2-10-AW,Human,experimental condition,False,False
+142621,247-2-1LU,Human,experimental condition,False,False
+142622,265-1-20-CD,Human,experimental condition,False,False
+142623,248-2-14-CD,Human,,True,True
+142624,247-1-5LU,Human,experimental condition,False,False
+142625,226-2-7MG,Human,experimental condition,False,False
+142626,233-2-15-AW,Human,experimental condition,False,False
+142627,260-2-7-CD,Human,experimental condition,False,False
+142628,237-2-16-AW,Human,experimental condition,False,False
+142629,265-1-13-RS,Human,experimental condition,False,False
+142630,226-2-10MG,Human,experimental condition,False,False
+142631,254-2-5-CD,Human,,True,True
+142632,249-1-1-RS,Human,,True,True
+142633,237-2-2-AW,Human,experimental condition,False,False
+142634,260-1-12-CD,Human,experimental condition,False,False
+142635,233-1-11-AW,Human,experimental condition,False,False
+142636,227-1-2MG,Human,experimental condition,False,False
+142637,254-1-3-RS,Human,,True,True
+142638,251-2-6-CD,Human,,True,True
+142639,248-2-3-RS,Human,,True,True
+142640,254-1-4-CD,Human,,True,True
+142641,265-1-14-RS,Human,experimental condition,False,False
+142642,260-2-6-RS,Human,experimental condition,False,False
+142643,249-1-20-RS,Human,,True,True
+142644,248-1-13-RS,Human,,True,True
+142645,262-1-6-RS,Human,experimental condition,False,False
+142646,251-1-4-CD,Human,,True,True
+142647,227-1-3MG,Human,experimental condition,False,False
+142648,247-2-15LU,Human,experimental condition,False,False
+142649,251-1-6-CD,Human,,True,True
+142650,233-2-4-AW,Human,experimental condition,False,False
+142651,262-2-5-RS,Human,experimental condition,False,False
+142652,264-2-2-CD,Human,experimental condition,False,False
+142653,237-2-4-AW,Human,experimental condition,False,False
+142654,250-2-11-RS,Human,,True,True
+142655,272-1-20-RS,Human,experimental condition,False,False
+142656,248-1-1CD,Human,,True,True
+142657,235-1-1-AW,Human,experimental condition,False,False
+142658,235-2-4-AW,Human,experimental condition,False,False
+142659,265-1-16-CD,Human,experimental condition,False,False
+142660,233-1-2-AW,Human,experimental condition,False,False
+142661,249-2-20-RS,Human,,True,True
+142662,254-2-20-RS,Human,,True,True
+142663,265-1-15-RS,Human,experimental condition,False,False
+142664,248-1-4-CD,Human,,True,True
+142665,249-1-3-RS,Human,,True,True
+142666,226-1-1-NBSS,Human,experimental condition,False,False
+142667,226-2-5MG,Human,experimental condition,False,False
+142668,250-2-10-CD,Human,,True,True
+142669,250-2-15-CD,Human,,True,True
+142670,247-2-4LU,Human,experimental condition,False,False
+142671,249-2-17-RS,Human,,True,True
+142672,233-1-10-AW,Human,experimental condition,False,False
+142673,260-1-14-CD,Human,experimental condition,False,False
+142674,248-1-6-CD,Human,,True,True
+142675,272-2-6-CD,Human,experimental condition,False,False
+142676,272-2-8-CD,Human,experimental condition,False,False
+142677,262-1-11-CD,Human,experimental condition,False,False
+142678,262-2-19-CD,Human,experimental condition,False,False
+142679,237-1-19-AW,Human,experimental condition,False,False
+142680,248-1-5-RS,Human,,True,True
+142681,248-2-8-RS,Human,,True,True
+142682,254-1-13-CD,Human,,True,True
+142683,227-2-7MG,Human,experimental condition,False,False
+142684,249-1-11-CD,Human,,True,True
+142685,264-2-14-CD,Human,experimental condition,False,False
+142686,251-1-11-CD,Human,,True,True
+142687,272-1-6-CD,Human,experimental condition,False,False
+142688,237-2-18-AW,Human,experimental condition,False,False
+142689,235-1-17-AW,Human,experimental condition,False,False
+142690,264-1-5-CD,Human,experimental condition,False,False
+142691,248-1-15-CD,Human,,True,True
+142692,251-1-7-CD,Human,,True,True
+142693,272-1-13-RS,Human,experimental condition,False,False
+142694,264-1-16-CD,Human,experimental condition,False,False
+142695,226-2-9MG,Human,experimental condition,False,False
+142696,251-1-8-CD,Human,,True,True
+142697,272-2-5-CD,Human,experimental condition,False,False
+142698,237-1-3-AW,Human,experimental condition,False,False
+142699,262-2-11-CD,Human,experimental condition,False,False
+142700,247-1-12LU,Human,experimental condition,False,False
+142701,250-2-18-RS,Human,,True,True
+142702,265-1-2-CD,Human,experimental condition,False,False
+142703,264-1-2-CD,Human,experimental condition,False,False
+142704,265-1-9-RS,Human,experimental condition,False,False
+142705,262-1-19-CD,Human,experimental condition,False,False
+142706,237-2-7-AW,Human,experimental condition,False,False
+142707,249-2-7-CD,Human,,True,True
+142708,233-1-7-AW,Human,experimental condition,False,False
+142709,272-1-14-RS,Human,experimental condition,False,False
+142710,250-2-16-RS,Human,,True,True
+142711,247-1-14LU,Human,experimental condition,False,False
+142712,265-2-20-RS,Human,experimental condition,False,False
+142713,227-1-6-NBSS,Human,experimental condition,False,False
+142714,265-1-6-RS,Human,experimental condition,False,False
+142715,227-2-3MG,Human,experimental condition,False,False
+142716,233-2-2-AW,Human,experimental condition,False,False
+142717,247-1-9LU,Human,experimental condition,False,False
+142718,260-1-2-RS,Human,experimental condition,False,False
+142719,249-1-15-CD,Human,,True,True
+142720,262-2-16-CD,Human,experimental condition,False,False
+142721,250-2-7-RS,Human,,True,True
+142722,226-2-2-NBSS,Human,experimental condition,False,False
+142723,250-2-5-CD,Human,,True,True
+142724,235-1-20-AW,Human,experimental condition,False,False
+142725,226-2-6-NBSS,Human,experimental condition,False,False
+142726,262-2-8-RS,Human,experimental condition,False,False
+142727,272-1-12-CD,Human,experimental condition,False,False
+142728,247-2-3LU,Human,experimental condition,False,False
+142729,260-1-15-RS,Human,experimental condition,False,False
+142730,262-1-7-RS,Human,experimental condition,False,False
+142731,262-1-20-CD,Human,experimental condition,False,False
+142732,235-1-7-AW,Human,experimental condition,False,False
+142733,265-2-7-CD,Human,experimental condition,False,False
+142734,227-1-5-NBSS,Human,experimental condition,False,False
+142735,272-1-11-CD,Human,experimental condition,False,False
+142736,233-1-4-AW,Human,experimental condition,False,False
+142737,226-1-7-NBSS,Human,experimental condition,False,False
+142738,237-2-9-AW,Human,experimental condition,False,False
+142739,251-1-5-CD,Human,,True,True
+142740,251-2-7-CD,Human,,True,True
+142741,247-1-4LU,Human,experimental condition,False,False
+142742,264-2-18-RS,Human,experimental condition,False,False
+142743,250-1-17-CD,Human,,True,True
+142744,272-1-18-RS,Human,experimental condition,False,False
+142745,265-1-8-RS,Human,experimental condition,False,False
+142746,265-2-3-CD,Human,experimental condition,False,False
+142747,264-2-19-RS,Human,experimental condition,False,False
+142748,233-2-16-AW,Human,experimental condition,False,False
+142749,260-1-5-CD,Human,experimental condition,False,False
+142750,272-1-8-CD,Human,experimental condition,False,False
+142751,227-2-5MG,Human,experimental condition,False,False
+142752,227-2-2-NBSS,Human,experimental condition,False,False
+142753,262-1-2-RS,Human,experimental condition,False,False
+142754,262-1-12-CD,Human,experimental condition,False,False
+142755,265-2-12-RS,Human,experimental condition,False,False
+142756,265-2-11-RS,Human,experimental condition,False,False
+142757,247-1-3LU,Human,experimental condition,False,False
+142758,264-2-17-RS,Human,experimental condition,False,False
+142759,251-1-2-CD,Human,,True,True
+142760,233-1-20-AW,Human,experimental condition,False,False
+142761,264-1-1-CD,Human,experimental condition,False,False
+142762,237-1-20-AW,Human,experimental condition,False,False
+142763,262-1-9-RS,Human,experimental condition,False,False
+142764,265-2-13-RS,Human,experimental condition,False,False
+142765,227-2-2MG,Human,experimental condition,False,False
+142766,251-2-13-CD,Human,,True,True
+142767,260-2-10-CD,Human,experimental condition,False,False
+142768,250-2-19-RS,Human,,True,True
+142769,235-1-13-AW,Human,experimental condition,False,False
+142770,260-1-3-RS,Human,experimental condition,False,False
+142771,262-2-15-CD,Human,experimental condition,False,False
+142772,248-2-18-CD,Human,,True,True
+142773,264-2-16-RS,Human,experimental condition,False,False
+142774,254-2-8-CD,Human,,True,True
+142775,227-2-4MG,Human,experimental condition,False,False
+142776,262-1-3-RS,Human,experimental condition,False,False
+142777,251-1-19-RS,Human,,True,True
+142778,226-1-1MG,Human,experimental condition,False,False
+142779,264-1-9-CD,Human,experimental condition,False,False
+142780,249-1-4-CD,Human,,True,True
+142781,235-2-5-AW,Human,experimental condition,False,False
+142782,237-2-14-AW,Human,experimental condition,False,False
+142783,227-2-6-NBSS,Human,experimental condition,False,False
+142784,262-1-1-RS,Human,experimental condition,False,False
+142785,262-2-10-RS,Human,experimental condition,False,False
+142786,251-2-8-RS,Human,,True,True
+142787,235-1-14-AW,Human,experimental condition,False,False
+142788,265-1-1-CD,Human,experimental condition,False,False
+142789,227-1-9MG,Human,experimental condition,False,False
+142790,260-2-19-RS,Human,experimental condition,False,False
+142791,247-2-11LU,Human,experimental condition,False,False
+142792,248-2-19-RS,Human,,True,True
+142793,226-1-9MG,Human,experimental condition,False,False
+142794,250-2-17-RS,Human,,True,True
+142795,237-2-17-AW,Human,experimental condition,False,False
+142796,265-2-18-RS,Human,experimental condition,False,False
+142797,249-2-10-RS,Human,,True,True
+142798,265-1-4-CD,Human,experimental condition,False,False
+142799,272-1-19-RS,Human,experimental condition,False,False
+142800,251-1-1-RS,Human,,True,True
+142801,235-1-9-AW,Human,experimental condition,False,False
+142802,226-2-5-NBSS,Human,experimental condition,False,False
+142803,249-2-13-CD,Human,,True,True
+142804,272-2-19-RS,Human,experimental condition,False,False
+142805,227-2-10-NBSS,Human,experimental condition,False,False
+142806,248-2-16-RS,Human,,True,True
+142807,262-2-20-CD,Human,experimental condition,False,False
+142808,235-1-8-AW,Human,experimental condition,False,False
+142809,226-1-8MG,Human,experimental condition,False,False
+142810,226-1-8-NBSS,Human,experimental condition,False,False
+142811,249-1-17-CD,Human,,True,True
+142812,237-1-12-AW,Human,experimental condition,False,False
+142813,251-1-3-CD,Human,,True,True
+142814,235-1-5-AW,Human,experimental condition,False,False
+142815,265-2-15-RS,Human,experimental condition,False,False
+142816,260-1-16,Human,experimental condition,False,False
+142817,265-1-5-CD,Human,experimental condition,False,False
+142818,227-2-1-NBSS,Human,experimental condition,False,False
+142819,235-1-18-AW,Human,experimental condition,False,False
+142820,247-2-6LU,Human,experimental condition,False,False
+142821,251-2-15-RS,Human,,True,True
+142822,254-1-6-CD,Human,,True,True
+142823,248-1-8-CD,Human,,True,True
+142824,249-1-16-CD,Human,,True,True
+142825,250-2-20-RS,Human,,True,True
+142826,235-2-2-AW,Human,experimental condition,False,False
+142827,272-1-4-CD,Human,experimental condition,False,False
+142828,262-2-3-RS,Human,experimental condition,False,False
+142829,272-2-4-CD,Human,experimental condition,False,False
+142830,254-2-17-RS,Human,,True,True
+142831,248-2-20-CD,Human,,True,True
+142832,247-2-14LU,Human,experimental condition,False,False
+142833,251-2-5-CD,Human,,True,True
+142834,237-2-12-AW,Human,experimental condition,False,False
+142835,237-1-16-AW,Human,experimental condition,False,False
+142836,235-2-1-AW,Human,experimental condition,False,False
+142837,235-1-10-AW,Human,experimental condition,False,False
+142838,249-1-10-RS,Human,,True,True
+142839,248-2-11-CD,Human,,True,True
+142840,250-1-10-CD,Human,,True,True
+142841,265-2-19-RS,Human,experimental condition,False,False
+1919,62-1-1,Human,age,False,False
+1920,62-1-10,Human,age,False,False
+1921,62-1-2,Human,age,False,False
+1922,62-1-3,Human,age,False,False
+1923,62-1-4,Human,age,False,False
+1924,62-1-5,Human,age,False,False
+1925,62-1-6,Human,age,False,False
+1926,62-1-7,Human,age,False,False
+1927,62-1-8,Human,age,False,False
+1928,62-1-9,Human,age,False,False
+1929,62-2-1,Human,age,False,False
+1930,62-2-10,Human,age,False,False
+1931,62-2-2,Human,age,False,False
+1932,62-2-3,Human,age,False,False
+1933,62-2-4,Human,age,False,False
+1934,62-2-5,Human,age,False,False
+1935,62-2-6,Human,age,False,False
+1936,62-2-7,Human,age,False,False
+1937,62-2-8,Human,age,False,False
+1938,62-2-9,Human,age,False,False
+1939,62-3-1,Human,age,False,False
+1940,62-3-10,Human,age,False,False
+1941,62-3-2,Human,age,False,False
+1942,62-3-3,Human,age,False,False
+1943,62-3-4,Human,age,False,False
+1944,62-3-5,Human,age,False,False
+1945,62-3-6,Human,age,False,False
+1946,62-3-7,Human,age,False,False
+1947,62-3-8,Human,age,False,False
+1948,62-3-9,Human,age,False,False
+1949,62-4-1,Human,age,False,False
+1950,62-4-10,Human,age,False,False
+1951,62-4-2,Human,age,False,False
+1952,62-4-3,Human,age,False,False
+1953,62-4-4,Human,age,False,False
+1954,62-4-5,Human,age,False,False
+1955,62-4-6,Human,age,False,False
+1956,62-4-7,Human,age,False,False
+1957,62-4-8,Human,age,False,False
+1958,62-4-9,Human,age,False,False
+1959,68-1-1,Human,age,False,False
+1960,68-1-10,Human,age,False,False
+1961,68-1-2,Human,age,False,False
+1962,68-1-3,Human,age,False,False
+1963,68-1-4,Human,age,False,False
+1964,68-1-5,Human,age,False,False
+1965,68-1-6,Human,age,False,False
+1966,68-1-7,Human,age,False,False
+1967,68-1-8,Human,age,False,False
+1968,68-1-9,Human,age,False,False
+1969,68-2-1,Human,age,False,False
+1970,68-2-10,Human,age,False,False
+1971,68-2-2,Human,age,False,False
+1972,68-2-3,Human,age,False,False
+1973,68-2-4,Human,age,False,False
+1974,68-2-5,Human,age,False,False
+1975,68-2-6,Human,age,False,False
+1976,68-2-7,Human,age,False,False
+1977,68-2-8,Human,age,False,False
+1978,68-2-9,Human,age,False,False
+1979,68-3-1,Human,age,False,False
+1980,68-3-10,Human,age,False,False
+1981,68-3-2,Human,age,False,False
+1982,68-3-3,Human,age,False,False
+1983,68-3-4,Human,age,False,False
+1984,68-3-5,Human,age,False,False
+1985,68-3-6,Human,age,False,False
+1986,68-3-7,Human,age,False,False
+1987,68-3-8,Human,age,False,False
+1988,68-3-9,Human,age,False,False
+1989,68-4-1,Human,age,False,False
+1990,68-4-10,Human,age,False,False
+1991,68-4-2,Human,age,False,False
+1992,68-4-3,Human,age,False,False
+1993,68-4-4,Human,age,False,False
+1994,68-4-5,Human,age,False,False
+1995,68-4-6,Human,age,False,False
+1996,68-4-7,Human,age,False,False
+1997,68-4-8,Human,age,False,False
+1998,68-4-9,Human,age,False,False
+2766,18-1-10,Human,,False,True
+2767,18-1-5,Human,,False,True
+2768,18-1-6,Human,,False,True
+2769,18-1-7,Human,,False,True
+2770,18-1-8,Human,,False,True
+2771,18-1-9,Human,,False,True
+2772,18-2-1,Human,,False,True
+2773,18-2-10,Human,,False,True
+2774,18-2-2,Human,,False,True
+2775,18-2-3,Human,,False,True
+2776,18-2-4,Human,,False,True
+2777,18-2-5,Human,,False,True
+2778,18-2-6,Human,,False,True
+2779,18-2-7,Human,,False,True
+2780,18-2-8,Human,,False,True
+2781,18-2-9,Human,,False,True
+2782,19-1-1,Human,,False,True
+2783,19-1-10,Human,,False,True
+2784,19-1-2,Human,,False,True
+2785,19-1-3,Human,,False,True
+2786,19-1-4,Human,,False,True
+2787,19-1-5,Human,,False,True
+2788,19-1-6,Human,,False,True
+2789,19-1-7,Human,,False,True
+2790,19-1-8,Human,,False,True
+2791,19-1-9,Human,,False,True
+2792,19-2-1,Human,,False,True
+2793,19-2-10,Human,,False,True
+2794,19-2-2,Human,,False,True
+2795,19-2-3,Human,,False,True
+2796,19-2-4,Human,,False,True
+2797,19-2-5,Human,,False,True
+2798,19-2-6,Human,,False,True
+2799,19-2-7,Human,,False,True
+2800,19-2-8,Human,,False,True
+2801,19-2-9,Human,,False,True
+2802,22-1-1,Human,,False,True
+2803,22-1-10,Human,,False,True
+2804,22-1-2,Human,,False,True
+2805,22-1-3,Human,,False,True
+2806,22-1-4,Human,,False,True
+2807,22-1-5,Human,,False,True
+2808,22-1-6,Human,,False,True
+2809,22-1-7,Human,,False,True
+2810,22-1-8,Human,,False,True
+2811,22-1-9,Human,,False,True
+2812,22-2-1,Human,,False,True
+2813,22-2-10,Human,,False,True
+2814,22-2-2,Human,,False,True
+2815,22-2-3,Human,,False,True
+2816,22-2-4,Human,,False,True
+2817,22-2-5,Human,,False,True
+2818,22-2-6,Human,,False,True
+2819,22-2-7,Human,,False,True
+2820,22-2-8,Human,,False,True
+2821,22-2-9,Human,,False,True
+2822,24-1-1,Human,,False,True
+2823,24-1-10,Human,,False,True
+2824,24-1-2,Human,,False,True
+2825,24-1-3,Human,,False,True
+2826,24-1-4,Human,,False,True
+2827,24-1-5,Human,,False,True
+2828,24-1-6,Human,,False,True
+2829,24-1-7,Human,,False,True
+2830,24-1-8,Human,,False,True
+2831,24-1-9,Human,,False,True
+2832,24-2-1,Human,,False,True
+2833,24-2-2,Human,,False,True
+2834,24-2-3,Human,,False,True
+2835,24-2-4,Human,,False,True
+2836,24-2-5,Human,,False,True
+2837,24-2-6,Human,,False,True
+2838,24-2-7,Human,,False,True
+2839,24-2-8,Human,,False,True
+2840,24-2-9,Human,,False,True
+2841,27-1-1,Human,,False,True
+2842,27-1-10,Human,,False,True
+2843,27-1-2,Human,,False,True
+2844,27-1-3,Human,,False,True
+2845,27-1-4,Human,,False,True
+2846,27-1-5,Human,,False,True
+2847,27-1-6,Human,,False,True
+2848,27-1-7,Human,,False,True
+2849,27-1-8,Human,,False,True
+2850,27-1-9,Human,,False,True
+2851,27-2-1,Human,,False,True
+2852,27-2-10,Human,,False,True
+2853,27-2-2,Human,,False,True
+2854,27-2-3,Human,,False,True
+2855,27-2-4,Human,,False,True
+2856,27-2-5,Human,,False,True
+2857,27-2-6,Human,,False,True
+2858,27-2-7,Human,,False,True
+2859,27-2-8,Human,,False,True
+2860,27-2-9,Human,,False,True
+2861,28-1-1,Human,,False,True
+2862,28-1-10,Human,,False,True
+2863,28-1-2,Human,,False,True
+2864,28-1-3,Human,,False,True
+2865,28-1-4,Human,,False,True
+2866,28-1-5,Human,,False,True
+2867,28-1-6,Human,,False,True
+2868,28-1-7,Human,,False,True
+2869,28-1-8,Human,,False,True
+2870,28-1-9,Human,,False,True
+2871,28-2-1,Human,,False,True
+2872,28-2-10,Human,,False,True
+2873,28-2-2,Human,,False,True
+2874,28-2-3,Human,,False,True
+2875,28-2-4,Human,,False,True
+2876,28-2-5,Human,,False,True
+2877,28-2-6,Human,,False,True
+2878,28-2-7,Human,,False,True
+2879,28-2-8,Human,,False,True
+2880,28-2-9,Human,,False,True
+2881,30-1-1,Human,,False,True
+2882,30-1-10,Human,,False,True
+2883,30-1-2,Human,,False,True
+2884,30-1-3,Human,,False,True
+2885,30-1-4,Human,,False,True
+2886,30-1-5,Human,,False,True
+2887,30-1-6,Human,,False,True
+2888,30-1-7,Human,,False,True
+2889,30-1-8,Human,,False,True
+2890,30-1-9,Human,,False,True
+2891,30-2-1,Human,,False,True
+2892,30-2-10,Human,,False,True
+2893,30-2-2,Human,,False,True
+2894,30-2-3,Human,,False,True
+2895,30-2-4,Human,,False,True
+2896,30-2-5,Human,,False,True
+2897,30-2-6,Human,,False,True
+2898,30-2-7,Human,,False,True
+2899,30-2-8,Human,,False,True
+2900,30-2-9,Human,,False,True
+2901,31-1-1,Human,,False,True
+2902,31-1-10,Human,,False,True
+2903,31-1-2,Human,,False,True
+2904,31-1-3,Human,,False,True
+2905,31-1-4,Human,,False,True
+2906,31-1-5,Human,,False,True
+2907,31-1-6,Human,,False,True
+2908,31-1-7,Human,,False,True
+2909,31-1-8,Human,,False,True
+2910,31-1-9,Human,,False,True
+2911,31-2-1,Human,,False,True
+2912,31-2-10,Human,,False,True
+2913,31-2-2,Human,,False,True
+2914,31-2-3,Human,,False,True
+2915,31-2-4,Human,,False,True
+2916,31-2-5,Human,,False,True
+2917,31-2-6,Human,,False,True
+2918,31-2-7,Human,,False,True
+2919,31-2-8,Human,,False,True
+2920,31-2-9,Human,,False,True
+2921,32-1-1,Human,,False,True
+2922,32-1-10,Human,,False,True
+2923,32-1-2,Human,,False,True
+2924,32-1-3,Human,,False,True
+2925,32-1-4,Human,,False,True
+2926,32-1-5,Human,,False,True
+2927,32-1-6,Human,,False,True
+2928,32-1-7,Human,,False,True
+2929,32-1-8,Human,,False,True
+2930,32-1-9,Human,,False,True
+2931,32-2-1,Human,,False,True
+2932,32-2-10,Human,,False,True
+2933,32-2-2,Human,,False,True
+2934,32-2-3,Human,,False,True
+2935,32-2-4,Human,,False,True
+2936,32-2-5,Human,,False,True
+2937,32-2-6,Human,,False,True
+2938,32-2-7,Human,,False,True
+2939,32-2-8,Human,,False,True
+2940,32-2-9,Human,,False,True
+2941,35-1-1,Human,,False,True
+2942,35-1-10,Human,,False,True
+2943,35-1-2,Human,,False,True
+2944,35-1-3,Human,,False,True
+2945,35-1-4,Human,,False,True
+2946,35-1-5,Human,,False,True
+2947,35-1-6,Human,,False,True
+2948,35-1-7,Human,,False,True
+2949,35-1-8,Human,,False,True
+2950,35-1-9,Human,,False,True
+2951,35-2-1,Human,,False,True
+2952,35-2-10,Human,,False,True
+2953,35-2-2,Human,,False,True
+2954,35-2-3,Human,,False,True
+2955,35-2-4,Human,,False,True
+2956,35-2-5,Human,,False,True
+2957,35-2-6,Human,,False,True
+2958,35-2-7,Human,,False,True
+2959,35-2-8,Human,,False,True
+2960,35-2-9,Human,,False,True
+2961,37-7-1,Human,,False,True
+2962,37-7-10,Human,,False,True
+2963,37-7-2,Human,,False,True
+2964,37-7-3,Human,,False,True
+2965,37-7-4,Human,,False,True
+2966,37-7-5,Human,,False,True
+2967,37-7-6,Human,,False,True
+2968,37-7-7,Human,,False,True
+2969,37-7-8,Human,,False,True
+2970,37-7-9,Human,,False,True
+2971,37-9-1,Human,,False,True
+2972,37-9-10,Human,,False,True
+2973,37-9-2,Human,,False,True
+2974,37-9-3,Human,,False,True
+2975,37-9-4,Human,,False,True
+2976,37-9-5,Human,,False,True
+2977,37-9-6,Human,,False,True
+2978,37-9-7,Human,,False,True
+2979,37-9-8,Human,,False,True
+2980,37-9-9,Human,,False,True
+2981,38-1-1,Human,,False,True
+2982,38-1-10,Human,,False,True
+2983,38-1-2,Human,,False,True
+2984,38-1-3,Human,,False,True
+2985,38-1-4,Human,,False,True
+2986,38-1-5,Human,,False,True
+2987,38-1-6,Human,,False,True
+2988,38-1-7,Human,,False,True
+2989,38-1-8,Human,,False,True
+2990,38-1-9,Human,,False,True
+2991,38-2-1,Human,,False,True
+2992,38-2-10,Human,,False,True
+2993,38-2-2,Human,,False,True
+2994,38-2-3,Human,,False,True
+2995,38-2-4,Human,,False,True
+2996,38-2-5,Human,,False,True
+2997,38-2-6,Human,,False,True
+2998,38-2-7,Human,,False,True
+2999,38-2-8,Human,,False,True
+3000,38-2-9,Human,,False,True
+3001,38-3-1,Human,,False,True
+3002,38-3-10,Human,,False,True
+3003,38-3-2,Human,,False,True
+3004,38-3-3,Human,,False,True
+3005,38-3-4,Human,,False,True
+3006,38-3-5,Human,,False,True
+3007,38-3-6,Human,,False,True
+3008,38-3-7,Human,,False,True
+3009,38-3-8,Human,,False,True
+3010,38-3-9,Human,,False,True
+3011,38-4-1,Human,,False,True
+3012,38-4-10,Human,,False,True
+3013,38-4-2,Human,,False,True
+3014,38-4-3,Human,,False,True
+3015,38-4-4,Human,,False,True
+3016,38-4-5,Human,,False,True
+3017,38-4-6,Human,,False,True
+3018,38-4-7,Human,,False,True
+3019,38-4-8,Human,,False,True
+3020,38-4-9,Human,,False,True
+3021,38-5-1,Human,,False,True
+3022,38-5-10,Human,,False,True
+3023,38-5-2,Human,,False,True
+3024,38-5-3,Human,,False,True
+3025,38-5-4,Human,,False,True
+3026,38-5-5,Human,,False,True
+3027,38-5-6,Human,,False,True
+3028,38-5-7,Human,,False,True
+3029,38-5-8,Human,,False,True
+3030,38-5-9,Human,,False,True
+3031,38-6-1,Human,,False,True
+3032,38-6-10,Human,,False,True
+3033,38-6-2,Human,,False,True
+3034,38-6-3,Human,,False,True
+3035,38-6-4,Human,,False,True
+3036,38-6-5,Human,,False,True
+3037,38-6-6,Human,,False,True
+3038,38-6-7,Human,,False,True
+3039,38-6-8,Human,,False,True
+3040,38-6-9,Human,,False,True
+3041,38-7-1,Human,,False,True
+3042,38-7-10,Human,,False,True
+3043,38-7-2,Human,,False,True
+3044,38-7-3,Human,,False,True
+3045,38-7-4,Human,,False,True
+3046,38-7-5,Human,,False,True
+3047,38-7-6,Human,,False,True
+3048,38-7-7,Human,,False,True
+3049,38-7-8,Human,,False,True
+3050,38-7-9,Human,,False,True
+3051,38-8-1,Human,,False,True
+3052,38-8-10,Human,,False,True
+3053,38-8-2,Human,,False,True
+3054,38-8-3,Human,,False,True
+3055,38-8-4,Human,,False,True
+3056,38-8-5,Human,,False,True
+3057,38-8-6,Human,,False,True
+3058,38-8-7,Human,,False,True
+3059,38-8-8,Human,,False,True
+3060,38-8-9,Human,,False,True
+3061,38-9-1,Human,,False,True
+3062,38-9-10,Human,,False,True
+3063,38-9-2,Human,,False,True
+3064,38-9-3,Human,,False,True
+3065,38-9-4,Human,,False,True
+3066,38-9-5,Human,,False,True
+3067,38-9-6,Human,,False,True
+3068,38-9-7,Human,,False,True
+3069,38-9-8,Human,,False,True
+3070,38-9-9,Human,,False,True
+3071,39-1-1,Human,,False,True
+3072,39-1-10,Human,,False,True
+3073,39-1-2,Human,,False,True
+3074,39-1-3,Human,,False,True
+3075,39-1-4,Human,,False,True
+3076,39-1-5,Human,,False,True
+3077,39-1-6,Human,,False,True
+3078,39-1-7,Human,,False,True
+3079,39-1-8,Human,,False,True
+3080,39-1-9,Human,,False,True
+3081,39-2-1,Human,,False,True
+3082,39-2-10,Human,,False,True
+3083,39-2-2,Human,,False,True
+3084,39-2-3,Human,,False,True
+3085,39-2-4,Human,,False,True
+3086,39-2-5,Human,,False,True
+3087,39-2-6,Human,,False,True
+3088,39-2-7,Human,,False,True
+3089,39-2-8,Human,,False,True
+3090,39-2-9,Human,,False,True
+3091,45-1-1,Human,,False,True
+3092,45-1-10,Human,,False,True
+3093,45-1-2,Human,,False,True
+3094,45-1-3,Human,,False,True
+3095,45-1-4,Human,,False,True
+3096,45-1-5,Human,,False,True
+3097,45-1-6,Human,,False,True
+3098,45-1-7,Human,,False,True
+3099,45-1-8,Human,,False,True
+3100,45-1-9,Human,,False,True
+3101,45-2-1,Human,,False,True
+3102,45-2-10,Human,,False,True
+3103,45-2-2,Human,,False,True
+3104,45-2-3,Human,,False,True
+3105,45-2-4,Human,,False,True
+3106,45-2-5,Human,,False,True
+3107,45-2-6,Human,,False,True
+3108,45-2-7,Human,,False,True
+3109,45-2-8,Human,,False,True
+3110,45-2-9,Human,,False,True
+3111,46-1-1,Human,,False,True
+3112,46-1-10,Human,,False,True
+3113,46-1-2,Human,,False,True
+3114,46-1-3,Human,,False,True
+3115,46-1-4,Human,,False,True
+3116,46-1-5,Human,,False,True
+3117,46-1-6,Human,,False,True
+3118,46-1-7,Human,,False,True
+3119,46-1-8,Human,,False,True
+3120,46-1-9,Human,,False,True
+3121,46-2-1,Human,,False,True
+3122,46-2-10,Human,,False,True
+3123,46-2-2,Human,,False,True
+3124,46-2-3,Human,,False,True
+3125,46-2-4,Human,,False,True
+3126,46-2-5,Human,,False,True
+3127,46-2-6,Human,,False,True
+3128,46-2-7,Human,,False,True
+3129,46-2-8,Human,,False,True
+3130,46-2-9,Human,,False,True
+3131,46-3-1,Human,,False,True
+3132,46-3-10,Human,,False,True
+3133,46-3-2,Human,,False,True
+3134,46-3-3,Human,,False,True
+3135,46-3-4,Human,,False,True
+3136,46-3-5,Human,,False,True
+3137,46-3-6,Human,,False,True
+3138,46-3-7,Human,,False,True
+3139,46-3-8,Human,,False,True
+3140,46-3-9,Human,,False,True
+3141,46-4-1,Human,,False,True
+3142,46-4-10,Human,,False,True
+3143,46-4-2,Human,,False,True
+3144,46-4-3,Human,,False,True
+3145,46-4-4,Human,,False,True
+3146,46-4-5,Human,,False,True
+3147,46-4-6,Human,,False,True
+3148,46-4-7,Human,,False,True
+3149,46-4-8,Human,,False,True
+3150,46-4-9,Human,,False,True
+3151,46-5-1,Human,,False,True
+3152,46-5-10,Human,,False,True
+3153,46-5-2,Human,,False,True
+3154,46-5-3,Human,,False,True
+3155,46-5-4,Human,,False,True
+3156,46-5-5,Human,,False,True
+3157,46-5-6,Human,,False,True
+3158,46-5-7,Human,,False,True
+3159,46-5-8,Human,,False,True
+3160,46-5-9,Human,,False,True
+3161,46-6-1,Human,,False,True
+3162,46-6-10,Human,,False,True
+3163,46-6-2,Human,,False,True
+3164,46-6-3,Human,,False,True
+3165,46-6-4,Human,,False,True
+3166,46-6-5,Human,,False,True
+3167,46-6-6,Human,,False,True
+3168,46-6-7,Human,,False,True
+3169,46-6-8,Human,,False,True
+3170,46-6-9,Human,,False,True
+3171,46-7-1,Human,,False,True
+3172,46-7-10,Human,,False,True
+3173,46-7-2,Human,,False,True
+3174,46-7-3,Human,,False,True
+3175,46-7-4,Human,,False,True
+3176,46-7-5,Human,,False,True
+3177,46-7-6,Human,,False,True
+3178,46-7-7,Human,,False,True
+3179,46-7-8,Human,,False,True
+3180,46-7-9,Human,,False,True
+3181,46-8-1,Human,,False,True
+3182,46-8-10,Human,,False,True
+3183,46-8-2,Human,,False,True
+3184,46-8-3,Human,,False,True
+3185,46-8-4,Human,,False,True
+3186,46-8-5,Human,,False,True
+3187,46-8-6,Human,,False,True
+3188,46-8-7,Human,,False,True
+3189,46-8-8,Human,,False,True
+3190,46-8-9,Human,,False,True
+3191,46-9-1,Human,,False,True
+3192,46-9-10,Human,,False,True
+3193,46-9-2,Human,,False,True
+3194,46-9-3,Human,,False,True
+3195,46-9-4,Human,,False,True
+3196,46-9-5,Human,,False,True
+3197,46-9-6,Human,,False,True
+3198,46-9-7,Human,,False,True
+3199,46-9-8,Human,,False,True
+3200,46-9-9,Human,,False,True
+3201,47-1-1,Human,,False,True
+3202,47-1-10,Human,,False,True
+3203,47-1-2,Human,,False,True
+3204,47-1-3,Human,,False,True
+3205,47-1-4,Human,,False,True
+3206,47-1-5,Human,,False,True
+3207,47-1-6,Human,,False,True
+3208,47-1-7,Human,,False,True
+3209,47-1-8,Human,,False,True
+3210,47-1-9,Human,,False,True
+3211,47-2-1,Human,,False,True
+3212,47-2-10,Human,,False,True
+3213,47-2-2,Human,,False,True
+3214,47-2-3,Human,,False,True
+3215,47-2-4,Human,,False,True
+3216,47-2-5,Human,,False,True
+3217,47-2-6,Human,,False,True
+3218,47-2-7,Human,,False,True
+3219,47-2-8,Human,,False,True
+3220,47-2-9,Human,,False,True
+3221,47-3-1,Human,,False,True
+3222,47-3-10,Human,,False,True
+3223,47-3-2,Human,,False,True
+3224,47-3-3,Human,,False,True
+3225,47-3-4,Human,,False,True
+3226,47-3-5,Human,,False,True
+3227,47-3-6,Human,,False,True
+3228,47-3-7,Human,,False,True
+3229,47-3-8,Human,,False,True
+3230,47-3-9,Human,,False,True
+3231,47-4-1,Human,,False,True
+3232,47-4-10,Human,,False,True
+3233,47-4-2,Human,,False,True
+3234,47-4-3,Human,,False,True
+3235,47-4-4,Human,,False,True
+3236,47-4-5,Human,,False,True
+3237,47-4-6,Human,,False,True
+3238,47-4-7,Human,,False,True
+3239,47-4-8,Human,,False,True
+3240,47-4-9,Human,,False,True
+3241,47-5-1,Human,,False,True
+3242,47-5-10,Human,,False,True
+3243,47-5-2,Human,,False,True
+3244,47-5-3,Human,,False,True
+3245,47-5-4,Human,,False,True
+3246,47-5-5,Human,,False,True
+32462,195-4-10nj,Clouded leopard,brain region,False,False
+32463,195-4-11nj,Clouded leopard,brain region,False,False
+32464,195-4-7nj,Clouded leopard,brain region,False,False
+32465,195-4-9nj,Clouded leopard,brain region,False,False
+32466,196-4-15nj,Clouded leopard,brain region,False,False
+32467,196-4-16nj,Clouded leopard,brain region,False,False
+3247,47-5-6,Human,,False,True
+3248,47-5-7,Human,,False,True
+3249,47-5-8,Human,,False,True
+3250,47-5-9,Human,,False,True
+3251,47-6-1,Human,,False,True
+3252,47-6-10,Human,,False,True
+32529,185-4-11dw,Giraffe,brain region,False,False
+3253,47-6-2,Human,,False,True
+32530,185-4-15dw,Giraffe,brain region,False,False
+32531,185-4-2dw,Giraffe,brain region,False,False
+32532,185-4-3dw,Giraffe,brain region,False,False
+32533,185-4-6dw,Giraffe,brain region,False,False
+32534,186-4-12dw,Giraffe,brain region,False,False
+32535,186-4-13dw,Giraffe,brain region,False,False
+32536,186-4-14dw,Giraffe,brain region,False,False
+32537,186-4-18dw,Giraffe,brain region,False,False
+32538,186-4-20dw,Giraffe,brain region,False,False
+32539,187-4-14dw,Giraffe,brain region,False,False
+3254,47-6-3,Human,,False,True
+32540,187-4-15dw,Giraffe,brain region,False,False
+32541,187-4-16dw,Giraffe,brain region,False,False
+32542,187-4-17dw,Giraffe,brain region,False,False
+32543,187-4-2dw,Giraffe,brain region,False,False
+3255,47-6-4,Human,,False,True
+3256,47-6-5,Human,,False,True
+32567,189-1-22dw,Human,brain region,False,False
+32568,189-1-30dw,Human,brain region,False,False
+32569,189-1-33dw,Human,brain region,False,False
+3257,47-6-6,Human,,False,True
+32570,189-1-34dw,Human,brain region,False,False
+32571,189-1-8dw,Human,brain region,False,False
+3258,47-6-7,Human,,False,True
+3259,47-6-8,Human,,False,True
+3260,47-6-9,Human,,False,True
+32609,202-2-16nj,Humpback whale,brain region,False,False
+3261,47-7-1,Human,,False,True
+32610,202-2-17nj,Humpback whale,brain region,False,False
+32611,202-2-19nj,Humpback whale,brain region,False,False
+32612,202-2-25nj,Humpback whale,brain region,False,False
+32613,202-2-32nj,Humpback whale,brain region,False,False
+32614,202-2-39nj,Humpback whale,brain region,False,False
+32615,202-2-42nj,Humpback whale,brain region,False,False
+32616,202-2-45nj,Humpback whale,brain region,False,False
+32617,202-2-46nj,Humpback whale,brain region,False,False
+32618,202-2-47nj,Humpback whale,brain region,False,False
+3262,47-7-10,Human,,False,True
+3263,47-7-2,Human,,False,True
+3264,47-7-3,Human,,False,True
+3265,47-7-4,Human,,False,True
+32657,194-4-13nj,Tiger,brain region,False,False
+32658,194-4-14nj,Tiger,brain region,False,False
+32659,194-4-15nj,Tiger,brain region,False,False
+3266,47-7-5,Human,,False,True
+32660,194-4-16nj,Tiger,brain region,False,False
+32661,194-4-2nj,Tiger,brain region,False,False
+32662,194-4-31nj,Tiger,brain region,False,False
+32663,194-4-32nj,Tiger,brain region,False,False
+32664,194-4-33nj,Tiger,brain region,False,False
+32665,194-4-34nj,Tiger,brain region,False,False
+32666,194-4-9nj,Tiger,brain region,False,False
+3267,47-7-6,Human,,False,True
+3268,47-7-7,Human,,False,True
+3269,47-7-8,Human,,False,True
+3270,47-7-9,Human,,False,True
+3271,47-8-1,Human,,False,True
+3272,47-8-10,Human,,False,True
+3273,47-8-2,Human,,False,True
+32737,204-2-18nj,Chimpanzee,brain region,False,False
+32738,204-2-19nj,Chimpanzee,brain region,False,False
+32739,204-2-20nj,Chimpanzee,brain region,False,False
+3274,47-8-3,Human,,False,True
+32740,204-2-31nj,Chimpanzee,brain region,False,False
+32741,204-2-34nj,Chimpanzee,brain region,False,False
+32742,204-2-35nj,Chimpanzee,brain region,False,False
+32743,205-2-23nj,Chimpanzee,brain region,False,False
+32744,205-2-26nj,Chimpanzee,brain region,False,False
+32745,205-2-33nj,Chimpanzee,brain region,False,False
+32746,205-2-34nj,Chimpanzee,brain region,False,False
+32747,205-2-35nj,Chimpanzee,brain region,False,False
+32748,205-2-37nj,Chimpanzee,brain region,False,False
+32749,205-2-38nj,Chimpanzee,brain region,False,False
+3275,47-8-4,Human,,False,True
+32750,205-2-39nj,Chimpanzee,brain region,False,False
+32751,205-2-40nj,Chimpanzee,brain region,False,False
+32752,205-2-4nj,Chimpanzee,brain region,False,False
+32753,185-1-10dk,Giraffe,,True,True
+32754,185-1-11dk,Giraffe,,True,True
+32755,185-1-11th,Giraffe,,True,True
+32756,185-1-12dk,Giraffe,,True,True
+32757,185-1-12th,Giraffe,,True,True
+32758,185-1-13dk,Giraffe,,True,True
+32759,185-1-14dk,Giraffe,,True,True
+3276,47-8-5,Human,,False,True
+32760,185-1-14th,Giraffe,,True,True
+32761,185-1-15th,Giraffe,,True,True
+32762,185-1-16th,Giraffe,,True,True
+32763,185-1-17dk,Giraffe,,True,True
+32764,185-1-18dk,Giraffe,,True,True
+32765,185-1-1th,Giraffe,,True,True
+32766,185-1-20th,Giraffe,,True,True
+32767,185-1-21th,Giraffe,,True,True
+32768,185-1-22dk,Giraffe,,True,True
+32769,185-1-25th,Giraffe,,True,True
+3277,47-8-6,Human,,False,True
+32770,185-1-26dk,Giraffe,,True,True
+32771,185-1-26th,Giraffe,,True,True
+32772,185-1-27th,Giraffe,,True,True
+32773,185-1-28dk,Giraffe,,True,True
+32774,185-1-28th,Giraffe,,True,True
+32775,185-1-29th,Giraffe,,True,True
+32776,185-1-2th,Giraffe,,True,True
+32777,185-1-30th,Giraffe,,True,True
+32778,185-1-35dk,Giraffe,,True,True
+32779,185-1-36dk,Giraffe,,True,True
+3278,47-8-7,Human,,False,True
+32780,185-1-38dk,Giraffe,,True,True
+32781,185-1-41dk,Giraffe,,True,True
+32782,185-1-42dk,Giraffe,,True,True
+32783,185-1-4dk,Giraffe,,True,True
+32784,185-1-4th,Giraffe,,True,True
+32785,185-1-5th,Giraffe,,True,True
+32786,185-1-6dk,Giraffe,,True,True
+32787,185-1-7dk,Giraffe,,True,True
+32788,185-1-8dk,Giraffe,,True,True
+32789,185-1-8th,Giraffe,,True,True
+3279,47-8-8,Human,,False,True
+32790,185-1-9th,Giraffe,,True,True
+32791,185-1-10th,Giraffe,,True,True
+32792,185-1-16dk,Giraffe,,True,True
+32793,185-1-1dk,Giraffe,,True,True
+32794,185-1-21dk,Giraffe,,True,True
+32795,185-1-22th,Giraffe,,True,True
+32796,185-1-25dk,Giraffe,,True,True
+32797,185-1-2dk,Giraffe,,True,True
+32798,185-1-32dk,Giraffe,,True,True
+32799,185-1-33dk,Giraffe,,True,True
+3280,47-8-9,Human,,False,True
+32800,185-1-3th,Giraffe,,True,True
+32801,185-1-6th,Giraffe,,True,True
+32802,185-1-7th,Giraffe,,True,True
+32803,185-1-19th,Giraffe,,True,True
+32804,185-1-31dk,Giraffe,,True,True
+32805,185-1-34dk,Giraffe,,True,True
+32806,185-1-5dk,Giraffe,,True,True
+32807,185-1-13th,Giraffe,,True,True
+32808,185-1-19dk,Giraffe,,True,True
+32809,185-1-23dk,Giraffe,,True,True
+3281,47-9-1,Human,,False,True
+32810,185-1-24dk,Giraffe,,True,True
+32811,185-1-20dk,Giraffe,,True,True
+32812,185-1-24th,Giraffe,,True,True
+32813,185-1-27dk,Giraffe,,True,True
+32814,185-1-29dk,Giraffe,,True,True
+32815,185-1-30dk,Giraffe,,True,True
+32816,185-1-40dk,Giraffe,,True,True
+32817,185-1-9dk,Giraffe,,True,True
+32818,185-1-39dk,Giraffe,,True,True
+3282,47-9-10,Human,,False,True
+32820,185-2-11dk,Giraffe,,True,True
+32821,185-2-12dk,Giraffe,,True,True
+32822,185-2-13dk,Giraffe,,True,True
+32823,185-2-14dk,Giraffe,,True,True
+32824,185-2-14th,Giraffe,,True,True
+32825,185-2-15th,Giraffe,,True,True
+32826,185-2-18dk,Giraffe,,True,True
+32827,185-2-18th,Giraffe,,True,True
+32828,185-2-19dk,Giraffe,,True,True
+32829,185-2-1dk,Giraffe,,True,True
+3283,47-9-2,Human,,False,True
+32830,185-2-1th,Giraffe,,True,True
+32831,185-2-20dk,Giraffe,,True,True
+32832,185-2-21dk,Giraffe,,True,True
+32833,185-2-21th,Giraffe,,True,True
+32834,185-2-22th,Giraffe,,True,True
+32835,185-2-23th,Giraffe,,True,True
+32836,185-2-24dk,Giraffe,,True,True
+32837,185-2-24th,Giraffe,,True,True
+32838,185-2-26th,Giraffe,,True,True
+32839,185-2-27th,Giraffe,,True,True
+3284,47-9-3,Human,,False,True
+32840,185-2-28th,Giraffe,,True,True
+32841,185-2-29dk,Giraffe,,True,True
+32842,185-2-2dk,Giraffe,,True,True
+32843,185-2-30th,Giraffe,,True,True
+32844,185-2-31dk,Giraffe,,True,True
+32845,185-2-32dk,Giraffe,,True,True
+32846,185-2-33dk,Giraffe,,True,True
+32847,185-2-33th,Giraffe,,True,True
+32848,185-2-34th,Giraffe,,True,True
+32849,185-2-35dk,Giraffe,,True,True
+3285,47-9-4,Human,,False,True
+32850,185-2-35th,Giraffe,,True,True
+32851,185-2-36dk,Giraffe,,True,True
+32852,185-2-36th,Giraffe,,True,True
+32853,185-2-37dk,Giraffe,,True,True
+32854,185-2-37th,Giraffe,,True,True
+32855,185-2-39dk,Giraffe,,True,True
+32856,185-2-3th,Giraffe,,True,True
+32857,185-2-40th,Giraffe,,True,True
+32858,185-2-41dk,Giraffe,,True,True
+32859,185-2-42dk,Giraffe,,True,True
+3286,47-9-5,Human,,False,True
+32860,185-2-42th,Giraffe,,True,True
+32861,185-2-46th,Giraffe,,True,True
+32862,185-2-4dk,Giraffe,,True,True
+32863,185-2-4th,Giraffe,,True,True
+32864,185-2-6th,Giraffe,,True,True
+32865,185-2-7dk,Giraffe,,True,True
+32866,185-2-7th,Giraffe,,True,True
+32867,185-2-8dk,Giraffe,,True,True
+32868,185-2-8th,Giraffe,,True,True
+32869,185-2-9dk,Giraffe,,True,True
+3287,47-9-6,Human,,False,True
+32870,185-2-10dk,Giraffe,,True,True
+32871,185-2-10th,Giraffe,,True,True
+32872,185-2-17dk,Giraffe,,True,True
+32873,185-2-27dk,Giraffe,,True,True
+32874,185-2-6dk,Giraffe,,True,True
+32875,185-2-12th,Giraffe,,True,True
+32876,185-2-43dk,Giraffe,,True,True
+32877,185-2-47th,Giraffe,,True,True
+32878,185-2-48th,Giraffe,,True,True
+32879,185-2-20th,Giraffe,,True,True
+3288,47-9-7,Human,,False,True
+32880,185-2-38th,Giraffe,,True,True
+32881,185-2-39th,Giraffe,,True,True
+32882,185-2-9th,Giraffe,,True,True
+32883,185-2-16dk,Giraffe,,True,True
+32884,185-2-16th,Giraffe,,True,True
+32885,185-2-31th,Giraffe,,True,True
+32886,185-2-41th,Giraffe,,True,True
+32887,185-2-13th,Giraffe,,True,True
+32888,185-2-15dk,Giraffe,,True,True
+32889,185-2-19th,Giraffe,,True,True
+3289,47-9-8,Human,,False,True
+32890,185-2-28dk,Giraffe,,True,True
+32891,185-2-5th,Giraffe,,True,True
+32898,186-1-2dk,Giraffe,,True,True
+32899,186-1-6dk,Giraffe,,True,True
+3290,47-9-9,Human,,False,True
+32900,186-1-4dk,Giraffe,,True,True
+32901,186-1-1dk,Giraffe,,True,True
+32902,186-1-5dk,Giraffe,,True,True
+32903,186-1-2th,Giraffe,,True,True
+32904,186-1-3dk,Giraffe,,True,True
+32905,186-1-4th,Giraffe,,True,True
+32906,186-1-5th,Giraffe,,True,True
+32907,186-1-7th,Giraffe,,True,True
+32908,186-1-1th,Giraffe,,True,True
+32909,186-1-3th,Giraffe,,True,True
+3291,48-1-1,Human,,False,True
+32910,186-1-6th,Giraffe,,True,True
+32911,186-2-1dk,Giraffe,,True,True
+32912,186-2-2dk,Giraffe,,True,True
+32913,186-2-2th,Giraffe,,True,True
+32914,186-2-3dk,Giraffe,,True,True
+32915,189-2-9dk,Giraffe,,True,True
+32916,186-2-5dk,Giraffe,,True,True
+32917,186-2-1th,Giraffe,,True,True
+32918,186-2-4dk,Giraffe,,True,True
+32919,186-2-6dk,Giraffe,,True,True
+3292,48-1-10,Human,,False,True
+32920,186-2-7dk,Giraffe,,True,True
+32921,186-2-8dk,Giraffe,,True,True
+32922,187-1-10dk,Giraffe,,True,True
+32923,187-1-11dk,Giraffe,,True,True
+32924,187-1-11th,Giraffe,,True,True
+32925,187-1-12dk,Giraffe,,True,True
+32926,187-1-12th,Giraffe,,True,True
+32927,187-1-13dk,Giraffe,,True,True
+32928,187-1-14dk,Giraffe,,True,True
+32929,187-1-15dk,Giraffe,,True,True
+3293,48-1-2,Human,,False,True
+32930,187-1-15th,Giraffe,,True,True
+32931,187-1-16dk,Giraffe,,True,True
+32932,187-1-16th,Giraffe,,True,True
+32933,187-1-17dk,Giraffe,,True,True
+32934,187-1-18th,Giraffe,,True,True
+32935,187-1-19dk,Giraffe,,True,True
+32936,187-1-21dk,Giraffe,,True,True
+32937,187-1-23dk,Giraffe,,True,True
+32938,187-1-24dk,Giraffe,,True,True
+32939,187-1-2th,Giraffe,,True,True
+3294,48-1-3,Human,,False,True
+32940,187-1-3dk,Giraffe,,True,True
+32941,187-1-3th,Giraffe,,True,True
+32942,187-1-4dk,Giraffe,,True,True
+32943,187-1-7dk,Giraffe,,True,True
+32944,187-1-8dk,Giraffe,,True,True
+32945,187-1-9dk,Giraffe,,True,True
+32946,187-1-9th,Giraffe,,True,True
+32947,187-1-5dk,Giraffe,,True,True
+32948,187-1-6dk,Giraffe,,True,True
+32949,187-1-7th,Giraffe,,True,True
+3295,48-1-4,Human,,False,True
+32950,187-1-6th,Giraffe,,True,True
+32951,187-1-18dk,Giraffe,,True,True
+32952,187-1-1th,Giraffe,,True,True
+32953,187-1-2dk,Giraffe,,True,True
+32954,187-1-5th,Giraffe,,True,True
+32955,187-1-20dk,Giraffe,,True,True
+32956,187-1-22dk,Giraffe,,True,True
+32957,187-1-4th,Giraffe,,True,True
+32958,187-1-8th,Giraffe,,True,True
+3296,48-1-5,Human,,False,True
+32961,187-2-11dk,Giraffe,,True,True
+32962,187-2-12dk,Giraffe,,True,True
+32963,187-2-15dk,Giraffe,,True,True
+32964,187-2-16dk,Giraffe,,True,True
+32965,187-2-17dk,Giraffe,,True,True
+32966,187-2-19dk,Giraffe,,True,True
+32967,187-2-20dk,Giraffe,,True,True
+32968,187-2-21dk,Giraffe,,True,True
+32969,187-2-22dk,Giraffe,,True,True
+3297,48-1-6,Human,,False,True
+32970,187-2-25dk,Giraffe,,True,True
+32971,187-2-26dk,Giraffe,,True,True
+32972,187-2-27dk,Giraffe,,True,True
+32973,187-2-28dk,Giraffe,,True,True
+32974,187-2-2dk,Giraffe,,True,True
+32975,187-2-30dk,Giraffe,,True,True
+32976,187-2-31dk,Giraffe,,True,True
+32977,187-2-33dk,Giraffe,,True,True
+32978,187-2-36dk,Giraffe,,True,True
+32979,187-2-37dk,Giraffe,,True,True
+3298,48-1-7,Human,,False,True
+32980,187-2-38dk,Giraffe,,True,True
+32981,187-2-4dk,Giraffe,,True,True
+32982,187-2-5dk,Giraffe,,True,True
+32983,187-2-6dk,Giraffe,,True,True
+32984,187-2-23dk,Giraffe,,True,True
+32985,187-2-3dk,Giraffe,,True,True
+32986,187-2-10dk,Giraffe,,True,True
+32987,187-2-13dk,Giraffe,,True,True
+32988,187-2-14dk,Giraffe,,True,True
+32989,187-2-18dk,Giraffe,,True,True
+3299,48-1-8,Human,,False,True
+32990,187-2-24dk,Giraffe,,True,True
+32991,187-2-29dk,Giraffe,,True,True
+32992,187-2-32dk,Giraffe,,True,True
+32993,187-2-35dk,Giraffe,,True,True
+32994,187-2-7dk,Giraffe,,True,True
+32995,187-2-9dk,Giraffe,,True,True
+32996,187-2-8dk,Giraffe,,True,True
+32997,175-1-6ct,Bottlenose dolphin,,True,True
+32998,175-1-8ct,Bottlenose dolphin,,True,True
+32999,175-1-21ct,Bottlenose dolphin,,True,True
+3300,48-1-9,Human,,False,True
+33000,175-1-10cj,Bottlenose dolphin,,True,True
+33001,175-1-10ct,Bottlenose dolphin,,True,True
+33002,175-1-4cj,Bottlenose dolphin,,True,True
+33003,175-1-7cj,Bottlenose dolphin,,True,True
+33004,175-1-9ct,Bottlenose dolphin,,True,True
+33005,175-1-12cj,Bottlenose dolphin,,True,True
+33006,175-1-11cj,Bottlenose dolphin,,True,True
+33007,175-1-11ct,Bottlenose dolphin,,True,True
+33008,175-1-13cj,Bottlenose dolphin,,True,True
+33009,175-1-13ct,Bottlenose dolphin,,True,True
+3301,48-2-1,Human,,False,True
+33010,175-1-14ct,Bottlenose dolphin,,True,True
+33011,175-1-15ct,Bottlenose dolphin,,True,True
+33012,175-1-16ct,Bottlenose dolphin,,True,True
+33013,175-1-17ct,Bottlenose dolphin,,True,True
+33014,175-1-18ct,Bottlenose dolphin,,True,True
+33015,175-1-19ct,Bottlenose dolphin,,True,True
+33016,175-1-1cj,Bottlenose dolphin,,True,True
+33017,175-1-1ct,Bottlenose dolphin,,True,True
+33018,175-1-20ct,Bottlenose dolphin,,True,True
+33019,175-1-2cj,Bottlenose dolphin,,True,True
+3302,48-2-10,Human,,False,True
+33020,175-1-2ct,Bottlenose dolphin,,True,True
+33021,175-1-3ct,Bottlenose dolphin,,True,True
+33022,175-1-4ct,Bottlenose dolphin,,True,True
+33023,175-1-5cj,Bottlenose dolphin,,True,True
+33024,175-1-5ct,Bottlenose dolphin,,True,True
+33025,175-1-6cj,Bottlenose dolphin,,True,True
+33026,175-1-7ct,Bottlenose dolphin,,True,True
+33027,175-1-8cj,Bottlenose dolphin,,True,True
+33028,175-1-9cj,Bottlenose dolphin,,True,True
+3303,48-2-2,Human,,False,True
+33032,175-2-8cj,Bottlenose dolphin,,True,True
+33033,175-2-2cj,Bottlenose dolphin,,True,True
+33034,175-2-2ct,Bottlenose dolphin,,True,True
+33035,175-2-7cj,Bottlenose dolphin,,True,True
+33036,175-2-9cj,Bottlenose dolphin,,True,True
+33037,175-2-10cj,Bottlenose dolphin,,True,True
+33038,175-2-11cj,Bottlenose dolphin,,True,True
+33039,175-2-13cj,Bottlenose dolphin,,True,True
+3304,48-2-3,Human,,False,True
+33040,175-2-14cj,Bottlenose dolphin,,True,True
+33041,175-2-1cj,Bottlenose dolphin,,True,True
+33042,175-2-1ct,Bottlenose dolphin,,True,True
+33043,175-2-3cj,Bottlenose dolphin,,True,True
+33044,175-2-3ct,Bottlenose dolphin,,True,True
+33045,175-2-4cj,Bottlenose dolphin,,True,True
+33046,175-2-4ct,Bottlenose dolphin,,True,True
+33047,175-2-5cj,Bottlenose dolphin,,True,True
+33048,175-2-6cj,Bottlenose dolphin,,True,True
+3305,48-2-4,Human,,False,True
+33050,174-3-15cj,Minke whale,,True,True
+33051,174-3-20ct,Minke whale,,True,True
+33052,174-3-8cj,Minke whale,,True,True
+33053,174-3-10cj,Minke whale,,True,True
+33054,174-3-11ct,Minke whale,,True,True
+33055,174-3-18cj,Minke whale,,True,True
+33056,174-3-4ct,Minke whale,,True,True
+33057,174-3-7ct,Minke whale,,True,True
+33058,174-3-13ct,Minke whale,,True,True
+33059,174-3-6ct,Minke whale,,True,True
+3306,48-2-5,Human,,False,True
+33060,174-3-9ct,Minke whale,,True,True
+33061,174-3-17ct,Minke whale,,True,True
+33062,174-3-11cj,Minke whale,,True,True
+33063,174-3-13cj,Minke whale,,True,True
+33064,174-3-14cj,Minke whale,,True,True
+33065,174-3-14ct,Minke whale,,True,True
+33066,174-3-15ct,Minke whale,,True,True
+33067,174-3-16cj,Minke whale,,True,True
+33068,174-3-16ct,Minke whale,,True,True
+33069,174-3-17cj,Minke whale,,True,True
+3307,48-2-6,Human,,False,True
+33070,174-3-18ct,Minke whale,,True,True
+33071,174-3-1cj,Minke whale,,True,True
+33072,174-3-2ct,Minke whale,,True,True
+33073,174-3-3cj,Minke whale,,True,True
+33074,174-3-3ct,Minke whale,,True,True
+33075,174-3-4cj,Minke whale,,True,True
+33076,174-3-5cj,Minke whale,,True,True
+33077,174-3-6cj,Minke whale,,True,True
+3308,48-2-7,Human,,False,True
+33081,174-3-1ct,Minke whale,,True,True
+33082,174-3-21ct,Minke whale,,True,True
+33083,174-3-5ct,Minke whale,,True,True
+33084,174-3-7cj,Minke whale,,True,True
+33085,174-3-12cj,Minke whale,,True,True
+33086,174-3-12ct,Minke whale,,True,True
+33087,174-3-19ct,Minke whale,,True,True
+33088,174-3-9cj,Minke whale,,True,True
+33089,174-1-2ct,Minke whale,,True,True
+3309,48-2-8,Human,,False,True
+33090,174-1-3cj,Minke whale,,True,True
+33091,174-1-6cj,Minke whale,,True,True
+33092,174-1-6ct,Minke whale,,True,True
+33093,174-1-7cj,Minke whale,,True,True
+33094,174-1-7ct,Minke whale,,True,True
+33095,174-1-8ct,Minke whale,,True,True
+33096,174-1-9cj,Minke whale,,True,True
+33097,174-1-9ct,Minke whale,,True,True
+33098,174-1-10ct,Minke whale,,True,True
+33099,174-1-11ct,Minke whale,,True,True
+3310,48-2-9,Human,,False,True
+33100,174-1-1ct,Minke whale,,True,True
+33101,174-1-4cj,Minke whale,,True,True
+33102,174-1-5cj,Minke whale,,True,True
+33103,174-1-1cj,Minke whale,,True,True
+33104,174-1-4ct,Minke whale,,True,True
+33105,174-1-10cj,Minke whale,,True,True
+33106,174-1-2cj,Minke whale,,True,True
+33107,174-1-8cj,Minke whale,,True,True
+33108,174-1-3ct,Minke whale,,True,True
+33109,174-1-5ct,Minke whale,,True,True
+3311,51-1-1,Human,,False,True
+33110,179-1-13cj,Humpback whale,,True,True
+33111,179-1-4ct,Humpback whale,,True,True
+33112,179-1-8cj,Humpback whale,,True,True
+33113,179-1-9cj,Humpback whale,,True,True
+33114,179-1-6ct,Humpback whale,,True,True
+33115,179-1-10cj,Humpback whale,,True,True
+33116,179-1-10ct,Humpback whale,,True,True
+33117,179-1-11ct,Humpback whale,,True,True
+33118,179-1-12ct,Humpback whale,,True,True
+33119,179-1-14cj,Humpback whale,,True,True
+3312,51-1-10,Human,,False,True
+33120,179-1-15cj,Humpback whale,,True,True
+33121,179-1-1cj,Humpback whale,,True,True
+33122,179-1-2cj,Humpback whale,,True,True
+33123,179-1-5cj,Humpback whale,,True,True
+33124,179-1-8ct,Humpback whale,,True,True
+33125,179-1-9ct,Humpback whale,,True,True
+33126,179-1-11cj,Humpback whale,,True,True
+33127,179-1-1ct,Humpback whale,,True,True
+33128,179-1-2ct,Humpback whale,,True,True
+33129,179-1-3cj,Humpback whale,,True,True
+3313,51-1-2,Human,,False,True
+33130,179-1-4cj,Humpback whale,,True,True
+33131,179-1-6cj,Humpback whale,,True,True
+33132,179-1-7cj,Humpback whale,,True,True
+33133,179-1-7ct,Humpback whale,,True,True
+33137,179-2-11ct,Humpback whale,,True,True
+33138,179-2-13ct,Humpback whale,,True,True
+33139,179-2-14ct,Humpback whale,,True,True
+3314,51-1-3,Human,,False,True
+33140,179-2-1cj,Humpback whale,,True,True
+33141,179-2-3cj,Humpback whale,,True,True
+33142,179-2-7cj,Humpback whale,,True,True
+33143,179-2-7ct,Humpback whale,,True,True
+33144,179-2-9ct,Humpback whale,,True,True
+33145,179-2-10,Humpback whale,,True,True
+33146,179-2-11cj,Humpback whale,,True,True
+33147,179-2-2cj,Humpback whale,,True,True
+33148,179-2-5ct,Humpback whale,,True,True
+33149,179-2-6cj,Humpback whale,,True,True
+3315,51-1-4,Human,,False,True
+33150,179-2-10cj,Humpback whale,,True,True
+33151,179-2-1ct,Humpback whale,,True,True
+33152,179-2-6ct,Humpback whale,,True,True
+33153,179-2-12cj,Humpback whale,,True,True
+33154,179-2-15ct,Humpback whale,,True,True
+33155,179-2-4ct,Humpback whale,,True,True
+33156,179-2-8ct,Humpback whale,,True,True
+33157,179-2-9cj,Humpback whale,,True,True
+33158,179-2-4cj,Humpback whale,,True,True
+33159,179-2-5cj,Humpback whale,,True,True
+3316,51-1-5,Human,,False,True
+33160,179-2-8cj,Humpback whale,,True,True
+33164,179-3-11ct,Humpback whale,,True,True
+33165,179-3-13ct,Humpback whale,,True,True
+33166,179-3-1ct,Humpback whale,,True,True
+33167,179-3-5cj,Humpback whale,,True,True
+33168,179-3-6cj,Humpback whale,,True,True
+33169,179-3-8cj,Humpback whale,,True,True
+3317,51-1-6,Human,,False,True
+33170,179-3-3ct,Humpback whale,,True,True
+33171,179-3-5ct,Humpback whale,,True,True
+33172,179-3-10ct,Humpback whale,,True,True
+33173,179-3-12ct,Humpback whale,,True,True
+33174,179-3-14ct,Humpback whale,,True,True
+33175,179-3-15ct,Humpback whale,,True,True
+33176,179-3-2cj,Humpback whale,,True,True
+33177,179-3-1cj,Humpback whale,,True,True
+33178,179-3-3cj,Humpback whale,,True,True
+33179,179-3-4cj,Humpback whale,,True,True
+3318,51-1-7,Human,,False,True
+33180,179-3-9ct,Humpback whale,,True,True
+33181,179-3-6ct,Humpback whale,,True,True
+33182,179-3-7cj,Humpback whale,,True,True
+3319,51-1-8,Human,,False,True
+33190,179-4-4cj,Humpback whale,,True,True
+33191,179-4-7cj,Humpback whale,,True,True
+33192,179-4-3cj,Humpback whale,,True,True
+33193,179-4-3ct,Humpback whale,,True,True
+33194,179-4-5,Humpback whale,,True,True
+33195,179-4-5cj,Humpback whale,,True,True
+33196,179-4-6ct,Humpback whale,,True,True
+33197,179-4-8cj,Humpback whale,,True,True
+33198,179-4-1ct,Humpback whale,,True,True
+33199,179-4-4ct,Humpback whale,,True,True
+3320,51-1-9,Human,,False,True
+33200,179-4-1cj,Humpback whale,,True,True
+33201,179-4-2cj,Humpback whale,,True,True
+33202,179-4-8ct,Humpback whale,,True,True
+3321,51-2-1,Human,,False,True
+3322,51-2-10,Human,,False,True
+3323,51-2-2,Human,,False,True
+3324,51-2-3,Human,,False,True
+3325,51-2-4,Human,,False,True
+3326,51-2-5,Human,,False,True
+3327,51-2-6,Human,,False,True
+3328,51-2-7,Human,,False,True
+3329,51-2-8,Human,,False,True
+3330,51-2-9,Human,,False,True
+3331,51-3-1,Human,,False,True
+3332,51-3-10,Human,,False,True
+3333,51-3-2,Human,,False,True
+3334,51-3-3,Human,,False,True
+3335,51-3-4,Human,,False,True
+3336,51-3-5,Human,,False,True
+3337,51-3-6,Human,,False,True
+3338,51-3-7,Human,,False,True
+3339,51-3-8,Human,,False,True
+3340,51-3-9,Human,,False,True
+3341,51-4-1,Human,,False,True
+3342,51-4-10,Human,,False,True
+3343,51-4-2,Human,,False,True
+3344,51-4-3,Human,,False,True
+3345,51-4-4,Human,,False,True
+3346,51-4-5,Human,,False,True
+3347,51-4-6,Human,,False,True
+3348,51-4-7,Human,,False,True
+3349,51-4-8,Human,,False,True
+3350,51-4-9,Human,,False,True
+3351,51-5-1,Human,,False,True
+3352,51-5-10,Human,,False,True
+3353,51-5-2,Human,,False,True
+3354,51-5-3,Human,,False,True
+3355,51-5-4,Human,,False,True
+3356,51-5-5,Human,,False,True
+3357,51-5-6,Human,,False,True
+3358,51-5-7,Human,,False,True
+3359,51-5-8,Human,,False,True
+3360,51-5-9,Human,,False,True
+3361,51-6-1,Human,,False,True
+3362,51-6-10,Human,,False,True
+3363,51-6-2,Human,,False,True
+3364,51-6-3,Human,,False,True
+3365,51-6-4,Human,,False,True
+3366,51-6-5,Human,,False,True
+3367,51-6-6,Human,,False,True
+3368,51-6-7,Human,,False,True
+3369,51-6-8,Human,,False,True
+3370,51-6-9,Human,,False,True
+3371,51-7-1,Human,,False,True
+3372,51-7-10,Human,,False,True
+3373,51-7-2,Human,,False,True
+3374,51-7-3,Human,,False,True
+3375,51-7-4,Human,,False,True
+3376,51-7-5,Human,,False,True
+3377,51-7-6,Human,,False,True
+3378,51-7-7,Human,,False,True
+3379,51-7-8,Human,,False,True
+3380,51-7-9,Human,,False,True
+3381,51-8-1,Human,,False,True
+3382,51-8-10,Human,,False,True
+3383,51-8-2,Human,,False,True
+3384,51-8-3,Human,,False,True
+3385,51-8-4,Human,,False,True
+3386,51-8-5,Human,,False,True
+3387,51-8-6,Human,,False,True
+3388,51-8-7,Human,,False,True
+3389,51-8-8,Human,,False,True
+3390,51-8-9,Human,,False,True
+3391,52-1-1,Human,,False,True
+3392,52-1-10,Human,,False,True
+3393,52-1-2,Human,,False,True
+3394,52-1-3,Human,,False,True
+3395,52-1-4,Human,,False,True
+3396,52-1-5,Human,,False,True
+3397,52-1-6,Human,,False,True
+3398,52-1-7,Human,,False,True
+3399,52-1-8,Human,,False,True
+3400,52-1-9,Human,,False,True
+3401,52-2-1,Human,,False,True
+3402,52-2-10,Human,,False,True
+3403,52-2-2,Human,,False,True
+3404,52-2-3,Human,,False,True
+3405,52-2-4,Human,,False,True
+3406,52-2-5,Human,,False,True
+3407,52-2-6,Human,,False,True
+3408,52-2-7,Human,,False,True
+3409,52-2-8,Human,,False,True
+3410,52-2-9,Human,,False,True
+3411,52-3-1,Human,,False,True
+3412,52-3-10,Human,,False,True
+3413,52-3-2,Human,,False,True
+3414,52-3-3,Human,,False,True
+3415,52-3-4,Human,,False,True
+3416,52-3-5,Human,,False,True
+3417,52-3-6,Human,,False,True
+3418,52-3-7,Human,,False,True
+3419,52-3-8,Human,,False,True
+3420,52-3-9,Human,,False,True
+3421,52-4-1,Human,,False,True
+3422,52-4-10,Human,,False,True
+3423,52-4-2,Human,,False,True
+3424,52-4-3,Human,,False,True
+3425,52-4-4,Human,,False,True
+3426,52-4-5,Human,,False,True
+3427,52-4-6,Human,,False,True
+3428,52-4-7,Human,,False,True
+3429,52-4-8,Human,,False,True
+3430,52-4-9,Human,,False,True
+3431,52-5-1,Human,,False,True
+3432,52-5-10,Human,,False,True
+3433,52-5-2,Human,,False,True
+3434,52-5-3,Human,,False,True
+3435,52-5-4,Human,,False,True
+3436,52-5-5,Human,,False,True
+3437,52-5-6,Human,,False,True
+3438,52-5-7,Human,,False,True
+3439,52-5-8,Human,,False,True
+3440,52-5-9,Human,,False,True
+3441,52-6-1,Human,,False,True
+3442,52-6-10,Human,,False,True
+3443,52-6-2,Human,,False,True
+3444,52-6-3,Human,,False,True
+3445,52-6-4,Human,,False,True
+3446,52-6-5,Human,,False,True
+3447,52-6-6,Human,,False,True
+3448,52-6-7,Human,,False,True
+3449,52-6-8,Human,,False,True
+3450,52-6-9,Human,,False,True
+3451,52-7-1,Human,,False,True
+3452,52-7-10,Human,,False,True
+3453,52-7-2,Human,,False,True
+3454,52-7-3,Human,,False,True
+3455,52-7-4,Human,,False,True
+3456,52-7-5,Human,,False,True
+3457,52-7-6,Human,,False,True
+3458,52-7-7,Human,,False,True
+3459,52-7-8,Human,,False,True
+3460,52-7-9,Human,,False,True
+3461,52-8-1,Human,,False,True
+3462,52-8-10,Human,,False,True
+3463,52-8-2,Human,,False,True
+3464,52-8-3,Human,,False,True
+3465,52-8-4,Human,,False,True
+3466,52-8-5,Human,,False,True
+3467,52-8-6,Human,,False,True
+3468,52-8-7,Human,,False,True
+3469,52-8-8,Human,,False,True
+3470,52-8-9,Human,,False,True
+3471,1-10-1,Human,,False,True
+3472,1-10-10,Human,,False,True
+3473,1-10-2,Human,,False,True
+3474,1-10-3,Human,,False,True
+3475,1-10-4,Human,,False,True
+3476,1-10-5,Human,,False,True
+3477,1-10-6,Human,,False,True
+3478,1-10-7,Human,,False,True
+3479,1-10-8,Human,,False,True
+3480,1-10-9,Human,,False,True
+3481,1-11-1,Human,,False,True
+3482,1-11-10,Human,,False,True
+3483,1-11-2,Human,,False,True
+3484,1-11-3,Human,,False,True
+3485,1-11-4,Human,,False,True
+3487,1-11-6,Human,,False,True
+3488,1-11-7,Human,,False,True
+3489,1-11-8,Human,,False,True
+3490,1-11-9,Human,,False,True
+3491,1-12-1,Human,,False,True
+3492,1-12-10,Human,,False,True
+3493,1-12-2,Human,,False,True
+3494,1-12-3,Human,,False,True
+3495,1-12-4,Human,,False,True
+3496,1-12-5,Human,,False,True
+3497,1-12-6,Human,,False,True
+3498,1-12-7,Human,,False,True
+3499,1-12-8,Human,,False,True
+3500,1-12-9,Human,,False,True
+3501,1-13-1,Human,,False,True
+3502,1-13-10,Human,,False,True
+3503,1-13-2,Human,,False,True
+3504,1-13-3,Human,,False,True
+3505,1-13-4,Human,,False,True
+3506,1-13-5,Human,,False,True
+3507,1-13-6,Human,,False,True
+3508,1-13-7,Human,,False,True
+3509,1-13-8,Human,,False,True
+3510,1-13-9,Human,,False,True
+3511,1-2-1,Human,,False,True
+3512,1-2-10,Human,,False,True
+3513,1-2-2,Human,,False,True
+3514,1-2-3,Human,,False,True
+3515,1-2-4,Human,,False,True
+3516,1-2-5,Human,,False,True
+3517,1-2-6,Human,,False,True
+3518,1-2-7,Human,,False,True
+3519,1-2-8,Human,,False,True
+3520,1-2-9,Human,,False,True
+3521,1-5-1,Human,,False,True
+3522,1-5-10,Human,,False,True
+3523,1-5-2,Human,,False,True
+3524,1-5-3,Human,,False,True
+3525,1-5-4,Human,,False,True
+3526,1-5-5,Human,,False,True
+3527,1-5-6,Human,,False,True
+3528,1-5-7,Human,,False,True
+3529,1-5-8,Human,,False,True
+3530,1-5-9,Human,,False,True
+3531,1-7-1,Human,,False,True
+3532,1-7-10,Human,,False,True
+3533,1-7-2,Human,,False,True
+3534,1-7-3,Human,,False,True
+3535,1-7-4,Human,,False,True
+3536,1-7-5,Human,,False,True
+3537,1-7-6,Human,,False,True
+3538,1-7-7,Human,,False,True
+3539,1-7-8,Human,,False,True
+3540,1-7-9,Human,,False,True
+3541,1-8-1,Human,,False,True
+3542,1-8-10,Human,,False,True
+3543,1-8-2,Human,,False,True
+3544,1-8-3,Human,,False,True
+3545,1-8-4,Human,,False,True
+3546,1-8-5,Human,,False,True
+3547,1-8-6,Human,,False,True
+3548,1-8-7,Human,,False,True
+3549,1-8-8,Human,,False,True
+3550,1-8-9,Human,,False,True
+3551,1-9-1,Human,,False,True
+3552,1-9-10,Human,,False,True
+3553,1-9-2,Human,,False,True
+3554,1-9-3,Human,,False,True
+3555,1-9-4,Human,,False,True
+3556,1-9-5,Human,,False,True
+3557,1-9-6,Human,,False,True
+3558,1-9-7,Human,,False,True
+3559,1-9-8,Human,,False,True
+3560,1-9-9,Human,,False,True
+3561,10-1A-1,Human,,False,True
+3562,10-1A-10,Human,,False,True
+3563,10-1A-2,Human,,False,True
+3564,10-1A-3,Human,,False,True
+3565,10-1A-4,Human,,False,True
+3566,10-1A-5,Human,,False,True
+3567,10-1A-6,Human,,False,True
+3568,10-1A-7,Human,,False,True
+3569,10-1A-8,Human,,False,True
+3570,10-1A-9,Human,,False,True
+3571,10-2-1,Human,,False,True
+3572,10-2-10,Human,,False,True
+3573,10-2-2,Human,,False,True
+3574,10-2-3,Human,,False,True
+3575,10-2-4,Human,,False,True
+3576,10-2-5,Human,,False,True
+3577,10-2-6,Human,,False,True
+3578,10-2-7,Human,,False,True
+3579,10-2-8,Human,,False,True
+3580,10-2-9,Human,,False,True
+3581,10-3-1,Human,,False,True
+3582,10-3-10,Human,,False,True
+3583,10-3-2,Human,,False,True
+3584,10-3-3,Human,,False,True
+3585,10-3-4,Human,,False,True
+3586,10-3-5,Human,,False,True
+3587,10-3-6,Human,,False,True
+3588,10-3-7,Human,,False,True
+3589,10-3-8,Human,,False,True
+3590,10-3-9,Human,,False,True
+3591,10-4-1,Human,,False,True
+3592,10-4-10,Human,,False,True
+3593,10-4-2,Human,,False,True
+3594,10-4-3A,Human,,False,True
+3595,10-4-4,Human,,False,True
+3596,10-4-5,Human,,False,True
+3597,10-4-6A,Human,,False,True
+3598,10-4-7,Human,,False,True
+3599,10-4-8,Human,,False,True
+3600,10-4-9,Human,,False,True
+3601,10-5-1,Human,,False,True
+3602,10-5-10,Human,,False,True
+3603,10-5-2,Human,,False,True
+3604,10-5-3,Human,,False,True
+3605,10-5-4,Human,,False,True
+3606,10-5-5A,Human,,False,True
+3607,10-5-6,Human,,False,True
+3608,10-5-7,Human,,False,True
+3609,10-5-8,Human,,False,True
+3610,10-5-9,Human,,False,True
+3611,10-6-5,Human,,False,True
+3612,10-6A-1,Human,,False,True
+3613,10-6A-10,Human,,False,True
+3614,10-6A-2,Human,,False,True
+3615,10-6A-3,Human,,False,True
+3616,10-6A-4,Human,,False,True
+3617,10-6A-6,Human,,False,True
+3618,10-6A-7,Human,,False,True
+3619,10-6A-8,Human,,False,True
+3620,10-6A-9,Human,,False,True
+3621,10-7-1,Human,,False,True
+3622,10-7-10,Human,,False,True
+3623,10-7-2,Human,,False,True
+3624,10-7-3,Human,,False,True
+3625,10-7-4,Human,,False,True
+3626,10-7-5,Human,,False,True
+3627,10-7-6,Human,,False,True
+3628,10-7-7,Human,,False,True
+3629,10-7-8,Human,,False,True
+3630,10-7-9,Human,,False,True
+3631,10-8B-1,Human,,False,True
+3632,10-8B-10,Human,,False,True
+3633,10-8B-2,Human,,False,True
+3634,10-8B-3,Human,,False,True
+3635,10-8B-4,Human,,False,True
+3636,10-8B-5,Human,,False,True
+3637,10-8B-6,Human,,False,True
+3638,10-8B-7,Human,,False,True
+3639,10-8B-8,Human,,False,True
+3640,10-8B-9,Human,,False,True
+3641,10-9-1,Human,,False,True
+3642,10-9-10,Human,,False,True
+3643,10-9-2,Human,,False,True
+3644,10-9-3,Human,,False,True
+3645,10-9-4,Human,,False,True
+3646,10-9-5,Human,,False,True
+3647,10-9-6,Human,,False,True
+3648,10-9-7,Human,,False,True
+3649,10-9-8,Human,,False,True
+3650,10-9-9,Human,,False,True
+3651,11-1-1,Human,,False,True
+3652,11-1-10,Human,,False,True
+3653,11-1-2,Human,,False,True
+3654,11-1-3,Human,,False,True
+3655,11-1-4,Human,,False,True
+3656,11-1-5,Human,,False,True
+3657,11-1-6,Human,,False,True
+3658,11-1-7,Human,,False,True
+3659,11-1-8,Human,,False,True
+3660,11-1-9,Human,,False,True
+3661,11-2-1,Human,,False,True
+3662,11-2-10,Human,,False,True
+3663,11-2-2,Human,,False,True
+3664,11-2-3,Human,,False,True
+3665,11-2-4,Human,,False,True
+3666,11-2-5,Human,,False,True
+3667,11-2-6,Human,,False,True
+3668,11-2-7,Human,,False,True
+3669,11-2-8,Human,,False,True
+3670,11-2-9,Human,,False,True
+3671,11-3-1,Human,,False,True
+3672,11-3-10,Human,,False,True
+3673,11-3-2,Human,,False,True
+3674,11-3-3,Human,,False,True
+3675,11-3-4,Human,,False,True
+3676,11-3-5,Human,,False,True
+3677,11-3-6,Human,,False,True
+3678,11-3-7,Human,,False,True
+3679,11-3-8,Human,,False,True
+3680,11-3-9,Human,,False,True
+3681,11-4-1,Human,,False,True
+3682,11-4-10,Human,,False,True
+3683,11-4-2,Human,,False,True
+3684,11-4-3,Human,,False,True
+3685,11-4-4,Human,,False,True
+3686,11-4-5,Human,,False,True
+3687,11-4-6,Human,,False,True
+3688,11-4-7,Human,,False,True
+3689,11-4-8,Human,,False,True
+3690,11-4-9,Human,,False,True
+3691,11-5-1,Human,,False,True
+3692,11-5-10,Human,,False,True
+3693,11-5-2,Human,,False,True
+3694,11-5-3,Human,,False,True
+3695,11-5-4,Human,,False,True
+3696,11-5-5,Human,,False,True
+3697,11-5-6A,Human,,False,True
+3698,11-5-7,Human,,False,True
+3699,11-5-8,Human,,False,True
+3700,11-5-9,Human,,False,True
+3701,11-6-1,Human,,False,True
+3702,11-6-10,Human,,False,True
+3703,11-6-2,Human,,False,True
+3704,11-6-3,Human,,False,True
+3705,11-6-4,Human,,False,True
+3706,11-6-5,Human,,False,True
+3707,11-6-6,Human,,False,True
+3708,11-6-7,Human,,False,True
+3709,11-6-8,Human,,False,True
+3710,11-6-9,Human,,False,True
+3711,11-7-1,Human,,False,True
+3712,11-7-10,Human,,False,True
+3713,11-7-2,Human,,False,True
+3714,11-7-3,Human,,False,True
+3715,11-7-4,Human,,False,True
+3716,11-7-5,Human,,False,True
+3717,11-7-6,Human,,False,True
+3718,11-7-7,Human,,False,True
+3719,11-7-8,Human,,False,True
+3720,11-7-9,Human,,False,True
+3721,11-8-1,Human,,False,True
+3722,11-8-10,Human,,False,True
+3723,11-8-2,Human,,False,True
+3724,11-8-3,Human,,False,True
+3725,11-8-4,Human,,False,True
+3726,11-8-5,Human,,False,True
+3727,11-8-6,Human,,False,True
+3728,11-8-7,Human,,False,True
+3729,11-8-8,Human,,False,True
+3730,11-8-9,Human,,False,True
+3731,11-9-1,Human,,False,True
+3732,11-9-10,Human,,False,True
+3733,11-9-2,Human,,False,True
+3734,11-9-3,Human,,False,True
+3735,11-9-4,Human,,False,True
+3736,11-9-5,Human,,False,True
+3737,11-9-6,Human,,False,True
+3738,11-9-7,Human,,False,True
+3739,11-9-8,Human,,False,True
+3740,11-9-9,Human,,False,True
+3741,13-1-1,Human,,False,True
+3742,13-1-10,Human,,False,True
+3743,13-1-2,Human,,False,True
+3744,13-1-3,Human,,False,True
+3745,13-1-4,Human,,False,True
+3746,13-1-5,Human,,False,True
+3747,13-1-6,Human,,False,True
+3748,13-1-7,Human,,False,True
+3749,13-1-8,Human,,False,True
+3750,13-1-9,Human,,False,True
+3751,13-2-1,Human,,False,True
+3752,13-2-10,Human,,False,True
+3753,13-2-2,Human,,False,True
+3754,13-2-3,Human,,False,True
+3755,13-2-4,Human,,False,True
+3756,13-2-5,Human,,False,True
+3757,13-2-6,Human,,False,True
+3758,13-2-7,Human,,False,True
+3759,13-2-8,Human,,False,True
+3760,13-2-9,Human,,False,True
+3761,14-1-1,Human,,False,True
+3762,14-1-10,Human,,False,True
+3763,14-1-2,Human,,False,True
+3764,14-1-3,Human,,False,True
+3765,14-1-4,Human,,False,True
+3766,14-1-5,Human,,False,True
+3767,14-1-6,Human,,False,True
+3768,14-1-7,Human,,False,True
+3769,14-1-8,Human,,False,True
+3770,14-1-9,Human,,False,True
+3771,14-2-1,Human,,False,True
+3772,14-2-10,Human,,False,True
+3773,14-2-2,Human,,False,True
+3774,14-2-3,Human,,False,True
+3775,14-2-4,Human,,False,True
+3776,14-2-5,Human,,False,True
+3777,14-2-6,Human,,False,True
+3778,14-2-7,Human,,False,True
+3779,14-2-8,Human,,False,True
+3780,14-2-9,Human,,False,True
+3781,14-3-1,Human,,False,True
+3782,14-3-10,Human,,False,True
+3783,14-3-2,Human,,False,True
+3784,14-3-3,Human,,False,True
+3785,14-3-4,Human,,False,True
+3786,14-3-5,Human,,False,True
+3787,14-3-6,Human,,False,True
+3788,14-3-7,Human,,False,True
+3789,14-3-8,Human,,False,True
+3790,14-3-9,Human,,False,True
+3791,14-4-1,Human,,False,True
+3792,14-4-10,Human,,False,True
+3793,14-4-2,Human,,False,True
+3794,14-4-3,Human,,False,True
+3795,14-4-4,Human,,False,True
+3796,14-4-5,Human,,False,True
+3797,14-4-6,Human,,False,True
+3798,14-4-7,Human,,False,True
+3799,14-4-8,Human,,False,True
+3800,14-4-9,Human,,False,True
+3801,14-5-1,Human,,False,True
+3802,14-5-10,Human,,False,True
+3803,14-5-2,Human,,False,True
+3804,14-5-3,Human,,False,True
+3805,14-5-4,Human,,False,True
+3806,14-5-5,Human,,False,True
+3807,14-5-6,Human,,False,True
+3808,14-5-7,Human,,False,True
+3809,14-5-8,Human,,False,True
+3810,14-5-9,Human,,False,True
+3811,14-6-1,Human,,False,True
+3812,14-6-10,Human,,False,True
+3813,14-6-2,Human,,False,True
+3814,14-6-3,Human,,False,True
+3815,14-6-4,Human,,False,True
+3816,14-6-5,Human,,False,True
+3817,14-6-6,Human,,False,True
+3818,14-6-7,Human,,False,True
+3819,14-6-8,Human,,False,True
+3820,14-6-9,Human,,False,True
+3821,14-7-1,Human,,False,True
+3822,14-7-10,Human,,False,True
+3823,14-7-2,Human,,False,True
+3824,14-7-3,Human,,False,True
+3825,14-7-4,Human,,False,True
+3826,14-7-5,Human,,False,True
+3827,14-7-6,Human,,False,True
+3828,14-7-7,Human,,False,True
+3829,14-7-8,Human,,False,True
+3830,14-7-9,Human,,False,True
+3831,14-8-1,Human,,False,True
+3832,14-8-10,Human,,False,True
+3833,14-8-2,Human,,False,True
+3834,14-8-3,Human,,False,True
+3835,14-8-4,Human,,False,True
+3836,14-8-5,Human,,False,True
+3837,14-8-6,Human,,False,True
+3838,14-8-7,Human,,False,True
+3839,14-8-8,Human,,False,True
+3840,14-8-9,Human,,False,True
+3841,14-9-1,Human,,False,True
+3842,14-9-10,Human,,False,True
+3843,14-9-2,Human,,False,True
+3844,14-9-3,Human,,False,True
+3845,14-9-4,Human,,False,True
+3846,14-9-5,Human,,False,True
+3847,14-9-6,Human,,False,True
+3848,14-9-7,Human,,False,True
+3849,14-9-8,Human,,False,True
+3850,14-9-9,Human,,False,True
+3851,16-1-1,Human,,False,True
+3852,16-1-10,Human,,False,True
+3853,16-1-2,Human,,False,True
+3854,16-1-3,Human,,False,True
+3855,16-1-4,Human,,False,True
+3856,16-1-5,Human,,False,True
+3857,16-1-6,Human,,False,True
+3858,16-1-7,Human,,False,True
+3859,16-1-8,Human,,False,True
+3860,16-1-9,Human,,False,True
+3861,16-2--10,Human,,False,True
+3862,16-2-1,Human,,False,True
+3863,16-2-2,Human,,False,True
+3864,16-2-3,Human,,False,True
+3865,16-2-4,Human,,False,True
+3866,16-2-5,Human,,False,True
+3867,16-2-6,Human,,False,True
+3868,16-2-7,Human,,False,True
+3869,16-2-8,Human,,False,True
+3870,16-2-9,Human,,False,True
+3871,16-3-1,Human,,False,True
+3872,16-3-10,Human,,False,True
+3873,16-3-2,Human,,False,True
+3874,16-3-3,Human,,False,True
+3875,16-3-4,Human,,False,True
+3876,16-3-5,Human,,False,True
+3877,16-3-6,Human,,False,True
+3878,16-3-7,Human,,False,True
+3879,16-3-8,Human,,False,True
+3880,16-3-9,Human,,False,True
+3881,16-4-1,Human,,False,True
+3882,16-4-10,Human,,False,True
+3883,16-4-2,Human,,False,True
+3884,16-4-3,Human,,False,True
+3885,16-4-4,Human,,False,True
+3886,16-4-5,Human,,False,True
+3887,16-4-6,Human,,False,True
+3888,16-4-7,Human,,False,True
+3889,16-4-8,Human,,False,True
+3890,16-4-9,Human,,False,True
+3891,16-5-1,Human,,False,True
+3892,16-5-10,Human,,False,True
+3893,16-5-2,Human,,False,True
+3894,16-5-3,Human,,False,True
+3895,16-5-4,Human,,False,True
+3896,16-5-5,Human,,False,True
+3897,16-5-6,Human,,False,True
+3898,16-5-7,Human,,False,True
+3899,16-5-8,Human,,False,True
+3900,16-5-9,Human,,False,True
+3901,16-6-1,Human,,False,True
+3902,16-6-10,Human,,False,True
+3903,16-6-2,Human,,False,True
+3904,16-6-3,Human,,False,True
+3905,16-6-4,Human,,False,True
+3906,16-6-5,Human,,False,True
+3907,16-6-6,Human,,False,True
+3908,16-6-7,Human,,False,True
+3909,16-6-8,Human,,False,True
+3910,16-6-9,Human,,False,True
+3911,16-7-1,Human,,False,True
+3912,16-7-10,Human,,False,True
+3913,16-7-2,Human,,False,True
+3914,16-7-3,Human,,False,True
+3915,16-7-4,Human,,False,True
+3916,16-7-5,Human,,False,True
+3917,16-7-6,Human,,False,True
+3918,16-7-7,Human,,False,True
+3919,16-7-8,Human,,False,True
+3920,16-7-9,Human,,False,True
+3921,16-8-1,Human,,False,True
+3922,16-8-10,Human,,False,True
+3923,16-8-2,Human,,False,True
+3924,16-8-3,Human,,False,True
+3925,16-8-4,Human,,False,True
+3926,16-8-5,Human,,False,True
+3927,16-8-6,Human,,False,True
+3928,16-8-7,Human,,False,True
+3929,16-8-8,Human,,False,True
+3930,16-8-9,Human,,False,True
+3931,16-9-1,Human,,False,True
+3932,16-9-10,Human,,False,True
+3933,16-9-2,Human,,False,True
+3934,16-9-3,Human,,False,True
+3935,16-9-4,Human,,False,True
+3936,16-9-5,Human,,False,True
+3937,16-9-6,Human,,False,True
+3938,16-9-7,Human,,False,True
+3939,16-9-8,Human,,False,True
+3940,16-9-9,Human,,False,True
+3941,18-1-1,Human,,False,True
+3942,18-1-2,Human,,False,True
+3943,18-1-3,Human,,False,True
+3944,18-1-4,Human,,False,True
+3945,6-1-1,Human,,False,True
+3946,6-1-10,Human,,False,True
+3947,6-1-2,Human,,False,True
+3948,6-1-3,Human,,False,True
+3949,6-1-4,Human,,False,True
+3950,6-1-5,Human,,False,True
+3951,6-1-6,Human,,False,True
+3952,6-1-7,Human,,False,True
+3953,6-1-8,Human,,False,True
+3954,6-1-9,Human,,False,True
+3955,6-2-1,Human,,False,True
+3956,6-2-10,Human,,False,True
+3957,6-2-2,Human,,False,True
+3958,6-2-3,Human,,False,True
+3959,6-2-4,Human,,False,True
+3960,6-2-5,Human,,False,True
+3961,6-2-6,Human,,False,True
+3962,6-2-7,Human,,False,True
+3963,6-2-8,Human,,False,True
+3964,6-2-9,Human,,False,True
+3965,8-1-1,Human,,False,True
+3966,8-1-10,Human,,False,True
+3967,8-1-2,Human,,False,True
+3968,8-1-3,Human,,False,True
+3969,8-1-4,Human,,False,True
+3970,8-1-5,Human,,False,True
+3971,8-1-6,Human,,False,True
+3972,8-1-7,Human,,False,True
+3973,8-1-8,Human,,False,True
+3974,8-1-9,Human,,False,True
+3975,8-2-1,Human,,False,True
+3976,8-2-10,Human,,False,True
+3977,8-2-2,Human,,False,True
+3978,8-2-3,Human,,False,True
+3979,8-2-4,Human,,False,True
+3980,8-2-5,Human,,False,True
+3981,8-2-6,Human,,False,True
+3982,8-2-7,Human,,False,True
+3983,8-2-8,Human,,False,True
+3984,8-2-9,Human,,False,True
+3985,9-1-1,Human,,False,True
+3986,9-1-10,Human,,False,True
+3987,9-1-2,Human,,False,True
+3988,9-1-3,Human,,False,True
+3989,9-1-4,Human,,False,True
+3990,9-1-5,Human,,False,True
+3991,9-1-6,Human,,False,True
+3992,9-1-7,Human,,False,True
+3993,9-1-8,Human,,False,True
+3994,9-1-9,Human,,False,True
+3995,9-2-1,Human,,False,True
+3996,9-2-10,Human,,False,True
+3997,9-2-2,Human,,False,True
+3998,9-2-3,Human,,False,True
+3999,9-2-4,Human,,False,True
+4000,9-2-5,Human,,False,True
+4001,9-2-6,Human,,False,True
+4002,9-2-7,Human,,False,True
+4003,9-2-8,Human,,False,True
+4004,9-2-9,Human,,False,True
+4715,121-1-1,Human,brain region,False,False
+4716,121-1-10,Human,brain region,False,False
+4717,121-1-2,Human,brain region,False,False
+4718,121-1-3,Human,brain region,False,False
+4719,121-1-4,Human,brain region,False,False
+4720,121-1-5,Human,brain region,False,False
+4721,121-1-6,Human,brain region,False,False
+4722,121-1-7,Human,brain region,False,False
+4723,121-1-8,Human,brain region,False,False
+4724,121-1-9,Human,brain region,False,False
+4725,121-2-1,Human,brain region,False,False
+4726,121-2-10,Human,brain region,False,False
+4727,121-2-2,Human,brain region,False,False
+4728,121-2-3,Human,brain region,False,False
+4729,121-2-4,Human,brain region,False,False
+4730,121-2-5,Human,brain region,False,False
+4731,121-2-6,Human,brain region,False,False
+4732,121-2-7,Human,brain region,False,False
+4733,121-2-8,Human,brain region,False,False
+4734,121-2-9,Human,brain region,False,False
+4735,121-3-1,Human,brain region,False,False
+4736,121-3-10,Human,brain region,False,False
+4737,121-3-2,Human,brain region,False,False
+4738,121-3-3,Human,brain region,False,False
+4739,121-3-4,Human,brain region,False,False
+4740,121-3-5,Human,brain region,False,False
+4741,121-3-6,Human,brain region,False,False
+4742,121-3-7,Human,brain region,False,False
+4743,121-3-8,Human,brain region,False,False
+4744,121-3-9,Human,brain region,False,False
+4745,123-1-1,Human,brain region,False,False
+4746,123-1-10,Human,brain region,False,False
+4747,123-1-2,Human,brain region,False,False
+4748,123-1-3,Human,brain region,False,False
+4749,123-1-4,Human,brain region,False,False
+4750,123-1-5,Human,brain region,False,False
+4751,123-1-6,Human,brain region,False,False
+4752,123-1-7,Human,brain region,False,False
+4753,123-1-8,Human,brain region,False,False
+4754,123-1-9,Human,brain region,False,False
+4755,123-2-1,Human,brain region,False,False
+4756,123-2-10,Human,brain region,False,False
+4757,123-2-2,Human,brain region,False,False
+4758,123-2-3,Human,brain region,False,False
+4759,123-2-4,Human,brain region,False,False
+4760,123-2-5,Human,brain region,False,False
+4761,123-2-6,Human,brain region,False,False
+4762,123-2-7,Human,brain region,False,False
+4763,123-2-8,Human,brain region,False,False
+4764,123-2-9,Human,brain region,False,False
+4765,123-3-1,Human,brain region,False,False
+4766,123-3-10,Human,brain region,False,False
+4767,123-3-2,Human,brain region,False,False
+4768,123-3-3,Human,brain region,False,False
+4769,123-3-4,Human,brain region,False,False
+4770,123-3-5,Human,brain region,False,False
+4771,123-3-6,Human,brain region,False,False
+4772,123-3-7,Human,brain region,False,False
+4773,123-3-8,Human,brain region,False,False
+4774,123-3-9,Human,brain region,False,False
+4775,124-1-1,Human,brain region,False,False
+4776,124-1-10,Human,brain region,False,False
+4777,124-1-2,Human,brain region,False,False
+4778,124-1-3,Human,brain region,False,False
+4779,124-1-4,Human,brain region,False,False
+4780,124-1-5,Human,brain region,False,False
+4781,124-1-6,Human,brain region,False,False
+4782,124-1-7,Human,brain region,False,False
+4783,124-1-8,Human,brain region,False,False
+4784,124-1-9,Human,brain region,False,False
+4785,124-2-1,Human,brain region,False,False
+4786,124-2-10,Human,brain region,False,False
+4787,124-2-2,Human,brain region,False,False
+4788,124-2-3,Human,brain region,False,False
+4789,124-2-4,Human,brain region,False,False
+4790,124-2-5,Human,brain region,False,False
+4791,124-2-6,Human,brain region,False,False
+4792,124-2-7,Human,brain region,False,False
+4793,124-2-8,Human,brain region,False,False
+4794,124-2-9,Human,brain region,False,False
+4795,124-3-1,Human,brain region,False,False
+4796,124-3-10,Human,brain region,False,False
+4797,124-3-2,Human,brain region,False,False
+4798,124-3-3,Human,brain region,False,False
+4799,124-3-4,Human,brain region,False,False
+4800,124-3-5,Human,brain region,False,False
+4801,124-3-6,Human,brain region,False,False
+4802,124-3-7,Human,brain region,False,False
+4803,124-3-8,Human,brain region,False,False
+4804,124-3-9,Human,brain region,False,False
+4805,126-1-1,Human,brain region,False,False
+4806,126-1-10,Human,brain region,False,False
+4807,126-1-2,Human,brain region,False,False
+4808,126-1-3,Human,brain region,False,False
+4809,126-1-4,Human,brain region,False,False
+4810,126-1-5,Human,brain region,False,False
+4811,126-1-6,Human,brain region,False,False
+4812,126-1-7,Human,brain region,False,False
+4813,126-1-8,Human,brain region,False,False
+4814,126-1-9,Human,brain region,False,False
+4815,126-2-1,Human,brain region,False,False
+4816,126-2-10,Human,brain region,False,False
+4817,126-2-2,Human,brain region,False,False
+4818,126-2-3,Human,brain region,False,False
+4819,126-2-4,Human,brain region,False,False
+4820,126-2-5,Human,brain region,False,False
+4821,126-2-6,Human,brain region,False,False
+4822,126-2-7,Human,brain region,False,False
+4823,126-2-8,Human,brain region,False,False
+4824,126-2-9,Human,brain region,False,False
+4825,126-3-1,Human,brain region,False,False
+4826,126-3-10,Human,brain region,False,False
+4827,126-3-2,Human,brain region,False,False
+4828,126-3-3,Human,brain region,False,False
+4829,126-3-4,Human,brain region,False,False
+4830,126-3-5,Human,brain region,False,False
+4831,126-3-6,Human,brain region,False,False
+4832,126-3-7,Human,brain region,False,False
+4833,126-3-8,Human,brain region,False,False
+4834,126-3-9,Human,brain region,False,False
+4835,130-1-1,Human,brain region,False,False
+4836,130-1-10,Human,brain region,False,False
+4837,130-1-2,Human,brain region,False,False
+4838,130-1-3,Human,brain region,False,False
+4839,130-1-4,Human,brain region,False,False
+4840,130-1-5,Human,brain region,False,False
+4841,130-1-6,Human,brain region,False,False
+4842,130-1-7,Human,brain region,False,False
+4843,130-1-8,Human,brain region,False,False
+4844,130-1-9,Human,brain region,False,False
+4845,130-2-1,Human,brain region,False,False
+4846,130-2-10,Human,brain region,False,False
+4847,130-2-2,Human,brain region,False,False
+4848,130-2-3,Human,brain region,False,False
+4849,130-2-4,Human,brain region,False,False
+4850,130-2-5,Human,brain region,False,False
+4851,130-2-6,Human,brain region,False,False
+4852,130-2-7,Human,brain region,False,False
+4853,130-2-8,Human,brain region,False,False
+4854,130-2-9,Human,brain region,False,False
+4855,130-3-1,Human,brain region,False,False
+4856,130-3-10,Human,brain region,False,False
+4857,130-3-2,Human,brain region,False,False
+4858,130-3-3,Human,brain region,False,False
+4859,130-3-4,Human,brain region,False,False
+4860,130-3-5,Human,brain region,False,False
+4861,130-3-6,Human,brain region,False,False
+4862,130-3-7,Human,brain region,False,False
+4863,130-3-8,Human,brain region,False,False
+4864,130-3-9,Human,brain region,False,False
+4865,132-1-1,Human,brain region,False,False
+4866,132-1-10,Human,brain region,False,False
+4867,132-1-2,Human,brain region,False,False
+4868,132-1-3,Human,brain region,False,False
+4869,132-1-4,Human,brain region,False,False
+4870,132-1-5,Human,brain region,False,False
+4871,132-1-6,Human,brain region,False,False
+4872,132-1-7,Human,brain region,False,False
+4873,132-1-8,Human,brain region,False,False
+4874,132-1-9,Human,brain region,False,False
+4875,132-2-1,Human,brain region,False,False
+4876,132-2-10,Human,brain region,False,False
+4877,132-2-2,Human,brain region,False,False
+4878,132-2-3,Human,brain region,False,False
+4879,132-2-4,Human,brain region,False,False
+4880,132-2-5,Human,brain region,False,False
+4881,132-2-6,Human,brain region,False,False
+4882,132-2-7,Human,brain region,False,False
+4883,132-2-8,Human,brain region,False,False
+4884,132-2-9,Human,brain region,False,False
+4885,132-3-1,Human,brain region,False,False
+4886,132-3-10,Human,brain region,False,False
+4887,132-3-2,Human,brain region,False,False
+4888,132-3-3,Human,brain region,False,False
+4889,132-3-4,Human,brain region,False,False
+4890,132-3-5,Human,brain region,False,False
+4891,132-3-6,Human,brain region,False,False
+4892,132-3-7,Human,brain region,False,False
+4893,132-3-8,Human,brain region,False,False
+4894,132-3-9,Human,brain region,False,False
+4895,138-1-1,Human,brain region,False,False
+4896,138-1-10,Human,brain region,False,False
+4897,138-1-2,Human,brain region,False,False
+4898,138-1-3,Human,brain region,False,False
+4899,138-1-4,Human,brain region,False,False
+4900,138-1-5,Human,brain region,False,False
+4901,138-1-6,Human,brain region,False,False
+4902,138-1-7,Human,brain region,False,False
+4903,138-1-8,Human,brain region,False,False
+4904,138-1-9,Human,brain region,False,False
+4905,138-2-1,Human,brain region,False,False
+4906,138-2-10,Human,brain region,False,False
+4907,138-2-2,Human,brain region,False,False
+4908,138-2-3,Human,brain region,False,False
+4909,138-2-4,Human,brain region,False,False
+4910,138-2-5,Human,brain region,False,False
+4911,138-2-6,Human,brain region,False,False
+4912,138-2-7,Human,brain region,False,False
+4913,138-2-8,Human,brain region,False,False
+4914,138-2-9,Human,brain region,False,False
+4915,138-3-1,Human,brain region,False,False
+4916,138-3-10,Human,brain region,False,False
+4917,138-3-2,Human,brain region,False,False
+4918,138-3-3,Human,brain region,False,False
+4919,138-3-4,Human,brain region,False,False
+49194,208-2-13LL,Elephant,age,False,False
+49195,208-2-1LL,Elephant,age,False,False
+49196,208-1-13LL,Elephant,age,False,False
+49197,208-1-15LL,Elephant,age,False,False
+49198,208-1-6LL,Elephant,age,False,False
+49199,208-1-8LL,Elephant,age,False,False
+4920,138-3-5,Human,brain region,False,False
+49200,208-2-21LL,Elephant,age,False,False
+49201,208-2-2LL,Elephant,age,False,False
+49202,208-3-20LL,Elephant,age,False,False
+49203,208-3-23LL,Elephant,age,False,False
+49204,208-3-29LL,Elephant,age,False,False
+49205,208-3-9LL,Elephant,age,False,False
+49206,208-2-14LL,Elephant,age,False,False
+49207,208-2-8LL,Elephant,age,False,False
+49208,208-3-11LL,Elephant,age,False,False
+49209,208-3-15LL,Elephant,age,False,False
+4921,138-3-6,Human,brain region,False,False
+4922,138-3-7,Human,brain region,False,False
+4923,138-3-8,Human,brain region,False,False
+49230,208-1-10LL,Elephant,age,False,False
+49231,208-1-1LL,Elephant,age,False,False
+49232,208-3-14LL,Elephant,age,False,False
+49233,208-3-10LL,Elephant,age,False,False
+49234,208-1-17LL,Elephant,age,False,False
+49235,208-1-2LL,Elephant,age,False,False
+49236,208-1-4LL,Elephant,age,False,False
+49237,208-1-5LL,Elephant,age,False,False
+49238,208-2-17LL,Elephant,age,False,False
+49239,208-2-4LL,Elephant,age,False,False
+4924,138-3-9,Human,brain region,False,False
+49240,208-2-6LL,Elephant,age,False,False
+49241,208-1-9LL,Elephant,age,False,False
+49242,208-1-12LL,Elephant,age,False,False
+49243,208-1-14LL,Elephant,age,False,False
+49244,208-3-1LL,Elephant,age,False,False
+49245,208-3-26LL,Elephant,age,False,False
+49246,208-3-27LL,Elephant,age,False,False
+49247,208-3-3LL,Elephant,age,False,False
+49248,208-3-4LL,Elephant,age,False,False
+49249,208-3-5LL,Elephant,age,False,False
+4925,140-1-1,Human,brain region,False,False
+49250,208-3-6LL,Elephant,age,False,False
+49253,208-1-7LL,Elephant,age,False,False
+49254,208-2-11LL,Elephant,age,False,False
+49255,208-2-15LL,Elephant,age,False,False
+49256,208-2-7LL,Elephant,age,False,False
+49257,208-3-22LL,Elephant,age,False,False
+49258,208-3-2LL,Elephant,age,False,False
+49259,208-3-30LL,Elephant,age,False,False
+4926,140-1-10,Human,brain region,False,False
+49260,208-3-31LL,Elephant,age,False,False
+49261,208-3-7LL,Elephant,age,False,False
+49262,207-1-10LL,Giraffe,age,False,False
+49263,207-1-14LL,Giraffe,age,False,False
+49264,207-1-15LL,Giraffe,age,False,False
+49265,207-1-17LL,Giraffe,age,False,False
+49266,207-1-1LL,Giraffe,age,False,False
+49267,207-1-28LL,Giraffe,age,False,False
+49268,207-1-32LL,Giraffe,age,False,False
+49269,207-1-42LL,Giraffe,age,False,False
+4927,140-1-2,Human,brain region,False,False
+49270,207-1-43LL,Giraffe,age,False,False
+49271,207-1-12LL,Giraffe,cell type,False,False
+49272,207-1-13LL,Giraffe,cell type,False,False
+49273,207-1-16LL,Giraffe,cell type,False,False
+49274,207-1-21LL,Giraffe,cell type,False,False
+49275,207-1-34LL,Giraffe,cell type,False,False
+49276,207-1-37LL,Giraffe,cell type,False,False
+49277,207-1-41LL,Giraffe,cell type,False,False
+49278,207-2-31LL,Giraffe,cell type,False,False
+4928,140-1-3,Human,brain region,False,False
+4929,140-1-4,Human,brain region,False,False
+49299,207-2-16LL,Giraffe,age,False,False
+4930,140-1-5,Human,brain region,False,False
+49300,207-2-1LL,Giraffe,age,False,False
+49301,207-2-29LL,Giraffe,age,False,False
+49302,207-2-33LL,Giraffe,age,False,False
+49303,207-2-26LL,Giraffe,age,False,False
+49304,207-2-9LL,Giraffe,age,False,False
+49305,207-1-18LL,Giraffe,age,False,False
+49306,207-1-19LL,Giraffe,age,False,False
+49307,207-1-22LL,Giraffe,age,False,False
+49308,207-1-24LL,Giraffe,age,False,False
+49309,207-1-25LL,Giraffe,age,False,False
+4931,140-1-6,Human,brain region,False,False
+49310,207-1-26LL,Giraffe,age,False,False
+49311,207-1-27LL,Giraffe,age,False,False
+49312,207-1-30LL,Giraffe,age,False,False
+49313,207-1-31LL,Giraffe,age,False,False
+49314,207-1-35LL,Giraffe,age,False,False
+49315,207-1-36LL,Giraffe,age,False,False
+49316,207-1-38LL,Giraffe,age,False,False
+49317,207-1-39LL,Giraffe,age,False,False
+49318,207-1-40LL,Giraffe,age,False,False
+49319,207-1-44LL,Giraffe,age,False,False
+4932,140-1-7,Human,brain region,False,False
+49320,207-1-45LL,Giraffe,age,False,False
+49321,207-1-46LL,Giraffe,age,False,False
+49322,207-1-7LL,Giraffe,age,False,False
+49323,207-1-8LL,Giraffe,age,False,False
+49324,207-2-10LL,Giraffe,age,False,False
+49325,207-2-11LL,Giraffe,age,False,False
+49326,207-2-12LL,Giraffe,age,False,False
+49327,207-2-15LL,Giraffe,age,False,False
+49328,207-2-21LL,Giraffe,age,False,False
+49329,207-2-22LL,Giraffe,age,False,False
+4933,140-1-8,Human,brain region,False,False
+49330,207-2-25LL,Giraffe,age,False,False
+49331,207-2-2LL,Giraffe,age,False,False
+49332,207-2-30LL,Giraffe,age,False,False
+49333,207-2-32LL,Giraffe,age,False,False
+49334,207-2-34LL,Giraffe,age,False,False
+49335,207-2-35LL,Giraffe,age,False,False
+49336,207-2-37LL,Giraffe,age,False,False
+49337,207-2-38LL,Giraffe,age,False,False
+49338,207-2-3LL,Giraffe,age,False,False
+49339,207-2-5LL,Giraffe,age,False,False
+4934,140-1-9,Human,brain region,False,False
+49340,207-2-7LL,Giraffe,age,False,False
+49341,207-2-8LL,Giraffe,age,False,False
+49342,207-1-4LL,Giraffe,age,False,False
+49343,207-2-13LL,Giraffe,age,False,False
+49344,207-2-4LL,Giraffe,age,False,False
+49345,207-2-6LL,Giraffe,age,False,False
+4935,140-2-1,Human,brain region,False,False
+4936,140-2-10,Human,brain region,False,False
+4937,140-2-2,Human,brain region,False,False
+4938,140-2-3,Human,brain region,False,False
+4939,140-2-4,Human,brain region,False,False
+4940,140-2-5,Human,brain region,False,False
+4941,140-2-6,Human,brain region,False,False
+4942,140-2-7,Human,brain region,False,False
+4943,140-2-8,Human,brain region,False,False
+4944,140-2-9,Human,brain region,False,False
+4945,140-3-1,Human,brain region,False,False
+4946,140-3-10,Human,brain region,False,False
+4947,140-3-2,Human,brain region,False,False
+4948,140-3-3,Human,brain region,False,False
+4949,140-3-4,Human,brain region,False,False
+4950,140-3-5,Human,brain region,False,False
+4951,140-3-6,Human,brain region,False,False
+4952,140-3-7,Human,brain region,False,False
+4953,140-3-8,Human,brain region,False,False
+4954,140-3-9,Human,brain region,False,False
+4955,141-1-1,Human,brain region,False,False
+4956,141-1-10,Human,brain region,False,False
+4957,141-1-2,Human,brain region,False,False
+4958,141-1-3,Human,brain region,False,False
+4959,141-1-4,Human,brain region,False,False
+4960,141-1-5,Human,brain region,False,False
+4961,141-1-6,Human,brain region,False,False
+4962,141-1-7,Human,brain region,False,False
+4963,141-1-8,Human,brain region,False,False
+4964,141-1-9,Human,brain region,False,False
+4965,141-2-1,Human,brain region,False,False
+4966,141-2-10,Human,brain region,False,False
+4967,141-2-2,Human,brain region,False,False
+4968,141-2-3,Human,brain region,False,False
+4969,141-2-4,Human,brain region,False,False
+4970,141-2-5,Human,brain region,False,False
+4971,141-2-6,Human,brain region,False,False
+4972,141-2-7,Human,brain region,False,False
+4973,141-2-8,Human,brain region,False,False
+4974,141-2-9,Human,brain region,False,False
+4975,141-3-1,Human,brain region,False,False
+4976,141-3-10,Human,brain region,False,False
+4977,141-3-2,Human,brain region,False,False
+4978,141-3-3,Human,brain region,False,False
+4979,141-3-4,Human,brain region,False,False
+4980,141-3-5,Human,brain region,False,False
+4981,141-3-6,Human,brain region,False,False
+4982,141-3-7,Human,brain region,False,False
+4983,141-3-8,Human,brain region,False,False
+4984,141-3-9,Human,brain region,False,False
+4985,142-1-1,Human,brain region,False,False
+4986,142-1-10,Human,brain region,False,False
+4987,142-1-2,Human,brain region,False,False
+4988,142-1-3,Human,brain region,False,False
+4989,142-1-4,Human,brain region,False,False
+4990,142-1-5,Human,brain region,False,False
+4991,142-1-6,Human,brain region,False,False
+4992,142-1-7,Human,brain region,False,False
+4993,142-1-8,Human,brain region,False,False
+4994,142-1-9,Human,brain region,False,False
+4995,142-2-1,Human,brain region,False,False
+4996,142-2-10,Human,brain region,False,False
+4997,142-2-2,Human,brain region,False,False
+4998,142-2-3,Human,brain region,False,False
+4999,142-2-4,Human,brain region,False,False
+5000,142-2-5,Human,brain region,False,False
+5001,142-2-6,Human,brain region,False,False
+5002,142-2-7,Human,brain region,False,False
+5003,142-2-8,Human,brain region,False,False
+5004,142-2-9,Human,brain region,False,False
+5005,142-3-1,Human,brain region,False,False
+5006,142-3-10,Human,brain region,False,False
+5007,142-3-2,Human,brain region,False,False
+5008,142-3-3,Human,brain region,False,False
+5009,142-3-4,Human,brain region,False,False
+5010,142-3-5,Human,brain region,False,False
+5011,142-3-6,Human,brain region,False,False
+5012,142-3-7,Human,brain region,False,False
+5013,142-3-8,Human,brain region,False,False
+5014,142-3-9,Human,brain region,False,False
+5015,143-1-1,Human,brain region,False,False
+5016,143-1-10,Human,brain region,False,False
+5017,143-1-2,Human,brain region,False,False
+5018,143-1-3,Human,brain region,False,False
+5019,143-1-4,Human,brain region,False,False
+5020,143-1-5,Human,brain region,False,False
+5021,143-1-6,Human,brain region,False,False
+5022,143-1-7,Human,brain region,False,False
+5023,143-1-8,Human,brain region,False,False
+5024,143-1-9,Human,brain region,False,False
+5025,143-2-1,Human,brain region,False,False
+5026,143-2-10,Human,brain region,False,False
+5027,143-2-2,Human,brain region,False,False
+5028,143-2-3,Human,brain region,False,False
+5029,143-2-4,Human,brain region,False,False
+5030,143-2-5,Human,brain region,False,False
+5031,143-2-6,Human,brain region,False,False
+5032,143-2-7,Human,brain region,False,False
+5033,143-2-8,Human,brain region,False,False
+5034,143-2-9,Human,brain region,False,False
+5035,143-3-1,Human,brain region,False,False
+5036,143-3-10,Human,brain region,False,False
+5037,143-3-2,Human,brain region,False,False
+5038,143-3-3,Human,brain region,False,False
+5039,143-3-4,Human,brain region,False,False
+5040,143-3-5,Human,brain region,False,False
+5041,143-3-6,Human,brain region,False,False
+5042,143-3-7,Human,brain region,False,False
+5043,143-3-8,Human,brain region,False,False
+5044,143-3-9,Human,brain region,False,False
+5045,145-1-1,Human,brain region,False,False
+5046,145-1-10,Human,brain region,False,False
+5047,145-1-2,Human,brain region,False,False
+5048,145-1-3,Human,brain region,False,False
+5049,145-1-4,Human,brain region,False,False
+5050,145-1-5,Human,brain region,False,False
+5051,145-1-6,Human,brain region,False,False
+5052,145-1-7,Human,brain region,False,False
+5053,145-1-8,Human,brain region,False,False
+5054,145-1-9,Human,brain region,False,False
+5055,145-2-1,Human,brain region,False,False
+5056,145-2-10,Human,brain region,False,False
+5057,145-2-2,Human,brain region,False,False
+5058,145-2-3,Human,brain region,False,False
+5059,145-2-4,Human,brain region,False,False
+5060,145-2-5,Human,brain region,False,False
+5061,145-2-6,Human,brain region,False,False
+5062,145-2-7,Human,brain region,False,False
+5063,145-2-8,Human,brain region,False,False
+5064,145-2-9,Human,brain region,False,False
+5065,145-3-1,Human,brain region,False,False
+5066,145-3-10,Human,brain region,False,False
+5067,145-3-2,Human,brain region,False,False
+5068,145-3-3,Human,brain region,False,False
+5069,145-3-4,Human,brain region,False,False
+5070,145-3-5,Human,brain region,False,False
+5071,145-3-6,Human,brain region,False,False
+5072,145-3-7,Human,brain region,False,False
+5073,145-3-8,Human,brain region,False,False
+5074,145-3-9,Human,brain region,False,False
+5075,146-1-1,Human,brain region,False,False
+5077,146-1-2,Human,brain region,False,False
+5078,146-1-3,Human,brain region,False,False
+5079,146-1-4,Human,brain region,False,False
+5080,146-1-5,Human,brain region,False,False
+5081,146-1-6,Human,brain region,False,False
+5082,146-1-7,Human,brain region,False,False
+5083,146-1-8,Human,brain region,False,False
+5084,146-1-9,Human,brain region,False,False
+5085,146-2-1,Human,brain region,False,False
+5086,146-2-10,Human,brain region,False,False
+5087,146-2-2,Human,brain region,False,False
+5088,146-2-3,Human,brain region,False,False
+5089,146-2-4,Human,brain region,False,False
+5090,146-2-5,Human,brain region,False,False
+5091,146-2-6,Human,brain region,False,False
+5092,146-2-7,Human,brain region,False,False
+5093,146-2-8,Human,brain region,False,False
+5094,146-2-9,Human,brain region,False,False
+5095,146-3-1,Human,brain region,False,False
+5096,146-3-10,Human,brain region,False,False
+5097,146-3-2,Human,brain region,False,False
+5098,146-3-3,Human,brain region,False,False
+5099,146-3-4,Human,brain region,False,False
+5100,146-3-5,Human,brain region,False,False
+5101,146-3-6,Human,brain region,False,False
+5102,146-3-7,Human,brain region,False,False
+5103,146-3-8,Human,brain region,False,False
+5104,146-3-9,Human,brain region,False,False
+5105,147-1-1,Human,brain region,False,False
+5106,147-1-10,Human,brain region,False,False
+5107,147-1-2,Human,brain region,False,False
+5108,147-1-3,Human,brain region,False,False
+5109,147-1-4,Human,brain region,False,False
+5110,147-1-5,Human,brain region,False,False
+5111,147-1-6,Human,brain region,False,False
+5112,147-1-7,Human,brain region,False,False
+5113,147-1-8,Human,brain region,False,False
+5114,147-1-9,Human,brain region,False,False
+5115,147-2-1,Human,brain region,False,False
+5116,147-2-10,Human,brain region,False,False
+5117,147-2-2,Human,brain region,False,False
+5118,147-2-3,Human,brain region,False,False
+5119,147-2-4,Human,brain region,False,False
+5120,147-2-5,Human,brain region,False,False
+5121,147-2-6,Human,brain region,False,False
+5122,147-2-7,Human,brain region,False,False
+5123,147-2-8,Human,brain region,False,False
+5124,147-2-9,Human,brain region,False,False
+5125,147-3-1,Human,brain region,False,False
+5126,147-3-10,Human,brain region,False,False
+5127,147-3-2,Human,brain region,False,False
+5128,147-3-3,Human,brain region,False,False
+5129,147-3-4,Human,brain region,False,False
+5130,147-3-5,Human,brain region,False,False
+5131,147-3-6,Human,brain region,False,False
+5132,147-3-7,Human,brain region,False,False
+5133,147-3-8,Human,brain region,False,False
+5134,147-3-9,Human,brain region,False,False
+5135,149-1-1,Human,brain region,False,False
+5136,149-1-10,Human,brain region,False,False
+5137,149-1-2,Human,brain region,False,False
+5138,149-1-3,Human,brain region,False,False
+5139,149-1-4,Human,brain region,False,False
+5140,149-1-5,Human,brain region,False,False
+5141,149-1-6,Human,brain region,False,False
+5142,149-1-7,Human,brain region,False,False
+5143,149-1-8,Human,brain region,False,False
+5144,149-1-9,Human,brain region,False,False
+5145,149-2-1,Human,brain region,False,False
+5146,149-2-10,Human,brain region,False,False
+5147,149-2-2,Human,brain region,False,False
+5148,149-2-3,Human,brain region,False,False
+5149,149-2-4,Human,brain region,False,False
+5150,149-2-5,Human,brain region,False,False
+5151,149-2-6,Human,brain region,False,False
+5152,149-2-7,Human,brain region,False,False
+5153,149-2-8,Human,brain region,False,False
+5154,149-2-9,Human,brain region,False,False
+5155,149-3-1,Human,brain region,False,False
+5156,149-3-10,Human,brain region,False,False
+5157,149-3-2,Human,brain region,False,False
+5158,149-3-3,Human,brain region,False,False
+5159,149-3-4,Human,brain region,False,False
+5160,149-3-5,Human,brain region,False,False
+5161,149-3-6,Human,brain region,False,False
+5162,149-3-7,Human,brain region,False,False
+5163,149-3-8,Human,brain region,False,False
+5164,149-3-9,Human,brain region,False,False
+5165,92-1-1,Human,brain region,False,False
+5166,92-1-10,Human,brain region,False,False
+5167,92-1-2,Human,brain region,False,False
+5168,92-1-3,Human,brain region,False,False
+5169,92-1-4,Human,brain region,False,False
+5170,92-1-5,Human,brain region,False,False
+5171,92-1-6,Human,brain region,False,False
+5172,92-1-7,Human,brain region,False,False
+5173,92-1-8,Human,brain region,False,False
+5174,92-1-9,Human,brain region,False,False
+5175,92-2-1,Human,brain region,False,False
+5176,92-2-10,Human,brain region,False,False
+5177,92-2-2,Human,brain region,False,False
+5178,92-2-3,Human,brain region,False,False
+5179,92-2-4,Human,brain region,False,False
+5180,92-2-5,Human,brain region,False,False
+5181,92-2-6,Human,brain region,False,False
+5182,92-2-7,Human,brain region,False,False
+5183,92-2-8,Human,brain region,False,False
+5184,92-2-9,Human,brain region,False,False
+5185,92-3-1,Human,brain region,False,False
+5186,92-3-2,Human,brain region,False,False
+5187,92-3-3,Human,brain region,False,False
+5188,92-3-4,Human,brain region,False,False
+5189,92-3-5,Human,brain region,False,False
+5190,92-3-6,Human,brain region,False,False
+5191,92-3-7,Human,brain region,False,False
+5192,92-3-8,Human,brain region,False,False
+5193,93-1-1,Human,brain region,False,False
+5194,93-1-10,Human,brain region,False,False
+5195,93-1-2,Human,brain region,False,False
+5196,93-1-3,Human,brain region,False,False
+5197,93-1-4,Human,brain region,False,False
+5198,93-1-5,Human,brain region,False,False
+5199,93-1-6,Human,brain region,False,False
+5200,93-1-8,Human,brain region,False,False
+5201,93-1-9,Human,brain region,False,False
+5202,93-2-1,Human,brain region,False,False
+5203,93-2-10,Human,brain region,False,False
+5204,93-2-2,Human,brain region,False,False
+5205,93-2-3,Human,brain region,False,False
+5206,93-2-4,Human,brain region,False,False
+5207,93-2-5,Human,brain region,False,False
+5208,93-2-6,Human,brain region,False,False
+5209,93-2-7,Human,brain region,False,False
+5210,93-2-8,Human,brain region,False,False
+5211,93-2-9,Human,brain region,False,False
+5212,93-3-1,Human,brain region,False,False
+5213,93-3-10,Human,brain region,False,False
+5214,93-3-2,Human,brain region,False,False
+5215,93-3-3,Human,brain region,False,False
+5216,93-3-4,Human,brain region,False,False
+5217,93-3-5,Human,brain region,False,False
+5218,93-3-6,Human,brain region,False,False
+5219,93-3-7,Human,brain region,False,False
+5220,93-3-8,Human,brain region,False,False
+5221,93-3-9,Human,brain region,False,False
+5222,94-1a-1,Human,brain region,False,False
+5223,94-1a-10,Human,brain region,False,False
+5224,94-1a-2,Human,brain region,False,False
+5225,94-1a-3,Human,brain region,False,False
+5226,94-1a-4,Human,brain region,False,False
+5227,94-1a-5,Human,brain region,False,False
+5228,94-1a-6,Human,brain region,False,False
+5229,94-1a-7,Human,brain region,False,False
+5230,94-1a-8,Human,brain region,False,False
+5231,94-1a-9,Human,brain region,False,False
+5232,94-2a-1,Human,brain region,False,False
+5233,94-2a-10,Human,brain region,False,False
+5234,94-2a-2,Human,brain region,False,False
+5235,94-2a-3,Human,brain region,False,False
+5236,94-2a-4,Human,brain region,False,False
+5237,94-2a-5,Human,brain region,False,False
+5238,94-2a-6,Human,brain region,False,False
+5239,94-2a-7,Human,brain region,False,False
+5240,94-2a-8,Human,brain region,False,False
+5241,94-2a-9,Human,brain region,False,False
+5242,94-3-1,Human,brain region,False,False
+5243,94-3-2,Human,brain region,False,False
+5244,94-3-3,Human,brain region,False,False
+5245,94-3-4,Human,brain region,False,False
+5246,94-3a-10,Human,brain region,False,False
+5247,94-3a-5,Human,brain region,False,False
+5248,94-3a-6,Human,brain region,False,False
+5249,94-3a-7,Human,brain region,False,False
+5250,94-3a-8,Human,brain region,False,False
+5251,94-3a-9,Human,brain region,False,False
+5252,95-1-1,Human,brain region,False,False
+5253,95-1-10,Human,brain region,False,False
+5254,95-1-2,Human,brain region,False,False
+5255,95-1-3,Human,brain region,False,False
+5256,95-1-4,Human,brain region,False,False
+5257,95-1-5,Human,brain region,False,False
+5258,95-1-6,Human,brain region,False,False
+5259,95-1-7,Human,brain region,False,False
+5260,95-1-8,Human,brain region,False,False
+5261,95-1-9,Human,brain region,False,False
+5262,95-2-1,Human,brain region,False,False
+5263,95-2-10,Human,brain region,False,False
+5264,95-2-2,Human,brain region,False,False
+5265,95-2-3,Human,brain region,False,False
+5266,95-2-4,Human,brain region,False,False
+5267,95-2-5,Human,brain region,False,False
+5268,95-2-6,Human,brain region,False,False
+5269,95-2-7,Human,brain region,False,False
+5270,95-2-8,Human,brain region,False,False
+5271,95-2-9,Human,brain region,False,False
+5272,95-3-1,Human,brain region,False,False
+5273,95-3-10,Human,brain region,False,False
+5274,95-3-2,Human,brain region,False,False
+5275,95-3-3,Human,brain region,False,False
+5276,95-3-4,Human,brain region,False,False
+5277,95-3-5,Human,brain region,False,False
+5278,95-3-6,Human,brain region,False,False
+5279,95-3-7,Human,brain region,False,False
+5280,95-3-8,Human,brain region,False,False
+5281,95-3-9,Human,brain region,False,False
+5282,96-1-1,Human,brain region,False,False
+52828,142-3-1C-bob,Human,brain region,False,False
+52829,142-3-2C-bob,Human,brain region,False,False
+5283,96-1-10,Human,brain region,False,False
+52830,142-3-3C-bob,Human,brain region,False,False
+52831,149-1-1-2C,Human,brain region,False,False
+52832,149-1-4-6C,Human,brain region,False,False
+52833,149-1-4-7C,Human,brain region,False,False
+52834,149-3-6C-bob,Human,brain region,False,False
+52835,149-3-7C-bob,Human,brain region,False,False
+52836,151-1-5-5C,Human,brain region,False,False
+52837,151-1-5-7C,Human,brain region,False,False
+52838,151-1-8-3C,Human,brain region,False,False
+52839,151-2-10C-bob,Human,brain region,False,False
+5284,96-1-2,Human,brain region,False,False
+52840,151-2-4C-bob,Human,brain region,False,False
+52841,151-2-5C-bob,Human,brain region,False,False
+52842,151-2-6-4C,Human,brain region,False,False
+52843,151-2-6-8C,Human,brain region,False,False
+52844,151-2-8C-bob,Human,brain region,False,False
+52845,151-2-9C-bob,Human,brain region,False,False
+52846,154-1-10C,Human,brain region,False,False
+52847,154-1-1C,Human,brain region,False,False
+52848,154-1-2C,Human,brain region,False,False
+52849,154-1-3C,Human,brain region,False,False
+5285,96-1-3,Human,brain region,False,False
+52850,154-1-4C,Human,brain region,False,False
+52851,154-1-5C,Human,brain region,False,False
+52852,154-1-6C,Human,brain region,False,False
+52853,154-1-7C,Human,brain region,False,False
+52854,154-1-8C,Human,brain region,False,False
+52855,154-1-9C,Human,brain region,False,False
+52856,A-2-87-3-1C,Human,,False,True
+52857,A-2-87-3-6C,Human,,False,True
+5286,96-1-4,Human,brain region,False,False
+52864,194-1-11lw,Tiger,,True,True
+52865,194-1-12lw,Tiger,,True,True
+52866,194-1-14lw,Tiger,,True,True
+52867,194-1-15lw,Tiger,,True,True
+52868,194-1-16lw,Tiger,,True,True
+52869,194-1-19lw,Tiger,,True,True
+5287,96-1-5,Human,brain region,False,False
+52870,194-1-2lw,Tiger,,True,True
+52871,194-1-3lw,Tiger,,True,True
+52872,194-1-6lw,Tiger,,True,True
+52873,194-1-7lw,Tiger,,True,True
+52874,194-1-8lw,Tiger,,True,True
+52878,194-1-24lw,Tiger,,True,True
+5288,96-1-6,Human,brain region,False,False
+52881,194-1-22lw,Tiger,,True,True
+52887,194-1-25lw,Tiger,,True,True
+52888,194-2-12lw,Tiger,,True,True
+52889,194-2-14lw,Tiger,,True,True
+5289,96-1-7,Human,brain region,False,False
+52890,194-2-16lw,Tiger,,True,True
+52891,194-2-18lw,Tiger,,True,True
+52892,194-2-19lw,Tiger,,True,True
+52893,194-2-20lw,Tiger,,True,True
+52894,194-2-21lw,Tiger,,True,True
+52895,194-2-22lw,Tiger,,True,True
+52896,194-2-23lw,Tiger,,True,True
+52897,194-2-4lw,Tiger,,True,True
+52898,194-2-6lw,Tiger,,True,True
+52899,194-2-9lw,Tiger,,True,True
+5290,96-1-8,Human,brain region,False,False
+5291,96-1-9,Human,brain region,False,False
+52912,194-3-12lw,Tiger,,True,True
+52913,194-3-17lw,Tiger,,True,True
+52914,194-3-19lw,Tiger,,True,True
+52915,194-3-1lw,Tiger,,True,True
+52916,194-3-20lw,Tiger,,True,True
+52917,194-3-23lw,Tiger,,True,True
+52918,194-3-24lw,Tiger,,True,True
+52919,194-3-4lw,Tiger,,True,True
+5292,96-2-1,Human,brain region,False,False
+52920,194-3-5lw,Tiger,,True,True
+52921,194-3-6lw,Tiger,,True,True
+52924,194-3-10lw,Tiger,,True,True
+52925,194-3-14lw,Tiger,,True,True
+52926,194-3-21lw,Tiger,,True,True
+52927,194-3-7lw,Tiger,cell type,False,False
+52928,194-3-8lw,Tiger,cell type,False,False
+52929,194-3-9lw,Tiger,cell type,False,False
+5293,96-2-10,Human,brain region,False,False
+52938,195-1-11lw,Clouded leopard,,True,True
+52939,195-1-12lw,Clouded leopard,,True,True
+5294,96-2-2,Human,brain region,False,False
+52940,195-1-13lw,Clouded leopard,,True,True
+52941,195-1-17lw,Clouded leopard,,True,True
+52942,195-1-18lw,Clouded leopard,,True,True
+52943,195-1-19lw,Clouded leopard,,True,True
+52944,195-1-20lw,Clouded leopard,,True,True
+52945,195-1-2lw,Clouded leopard,,True,True
+52946,195-1-4lw,Clouded leopard,,True,True
+52947,195-1-5lw,Clouded leopard,,True,True
+52948,195-1-6lw,Clouded leopard,,True,True
+52949,195-1-8lw,Clouded leopard,,True,True
+5295,96-2-3,Human,brain region,False,False
+52950,196-1-10lw,Clouded leopard,,True,True
+52951,196-1-11lw,Clouded leopard,,True,True
+52952,196-1-12lw,Clouded leopard,,True,True
+52953,196-1-13lw,Clouded leopard,,True,True
+52954,196-1-14lw,Clouded leopard,,True,True
+52955,196-1-16lw,Clouded leopard,,True,True
+52956,196-1-19lw,Clouded leopard,,True,True
+52957,196-1-1lw,Clouded leopard,,True,True
+52958,196-1-20lw,Clouded leopard,,True,True
+52959,196-1-7lw,Clouded leopard,,True,True
+5296,96-2-4,Human,brain region,False,False
+52960,196-1-8lw,Clouded leopard,,True,True
+52962,195-1-10lw,Clouded leopard,,True,True
+52963,195-1-16lw,Clouded leopard,,True,True
+52964,196-1-2lw,Clouded leopard,,True,True
+5297,96-2-5,Human,brain region,False,False
+52970,195-1-7lw,Clouded leopard,,True,True
+52971,196-1-4lw,Clouded leopard,cell type,False,False
+52972,196-1-5lw,Clouded leopard,cell type,False,False
+52973,196-1-6lw,Clouded leopard,cell type,False,False
+5298,96-2-6,Human,brain region,False,False
+52980,195-2-10lw,Clouded leopard,,True,True
+52981,195-2-11lw,Clouded leopard,,True,True
+52982,195-2-17lw,Clouded leopard,,True,True
+52983,195-2-18lw,Clouded leopard,,True,True
+52984,195-2-19lw,Clouded leopard,,True,True
+52985,195-2-3lw,Clouded leopard,,True,True
+52986,195-2-5lw,Clouded leopard,,True,True
+52987,195-2-6lw,Clouded leopard,,True,True
+52988,195-2-7lw,Clouded leopard,,True,True
+52989,196-2-10lw,Clouded leopard,,True,True
+5299,96-2-7,Human,brain region,False,False
+52990,196-2-12lw,Clouded leopard,,True,True
+52991,196-2-13lw,Clouded leopard,,True,True
+52992,196-2-15lw,Clouded leopard,,True,True
+52993,196-2-16lw,Clouded leopard,,True,True
+52994,196-2-17lw,Clouded leopard,,True,True
+52995,196-2-18lw,Clouded leopard,,True,True
+52996,196-2-1lw,Clouded leopard,,True,True
+52997,196-2-2lw,Clouded leopard,,True,True
+52998,196-2-3lw,Clouded leopard,,True,True
+52999,196-2-4lw,Clouded leopard,,True,True
+5300,96-2-8,Human,brain region,False,False
+53000,196-2-5lw,Clouded leopard,,True,True
+53001,196-2-7lw,Clouded leopard,,True,True
+53002,196-2-8lw,Clouded leopard,,True,True
+53003,195-2-14lw,Clouded leopard,,True,True
+53004,195-2-2lw,Clouded leopard,,True,True
+53009,195-2-12lw,Clouded leopard,,True,True
+5301,96-2-9,Human,brain region,False,False
+53010,195-2-13lw,Clouded leopard,,True,True
+53011,195-2-15lw,Clouded leopard,,True,True
+53019,195-3-10lw,Clouded leopard,,True,True
+5302,96-3-1,Human,brain region,False,False
+53020,195-3-11lw,Clouded leopard,,True,True
+53021,195-3-12lw,Clouded leopard,,True,True
+53022,195-3-15lw,Clouded leopard,,True,True
+53023,195-3-17lw,Clouded leopard,,True,True
+53024,195-3-18lw,Clouded leopard,,True,True
+53025,195-3-19lw,Clouded leopard,,True,True
+53026,195-3-1lw,Clouded leopard,,True,True
+53027,195-3-20lw,Clouded leopard,,True,True
+53028,195-3-21lw,Clouded leopard,,True,True
+53029,195-3-2lw,Clouded leopard,,True,True
+5303,96-3-10,Human,brain region,False,False
+53030,195-3-6lw,Clouded leopard,,True,True
+53031,195-3-7lw,Clouded leopard,,True,True
+53032,195-3-8lw,Clouded leopard,,True,True
+53033,195-3-9lw,Clouded leopard,,True,True
+53034,196-3-10lw,Clouded leopard,,True,True
+53035,196-3-12lw,Clouded leopard,,True,True
+53036,196-3-13lw,Clouded leopard,,True,True
+53037,196-3-1lw,Clouded leopard,,True,True
+53038,196-3-2lw,Clouded leopard,,True,True
+53039,196-3-3lw,Clouded leopard,,True,True
+5304,96-3-2,Human,brain region,False,False
+53040,196-3-4lw,Clouded leopard,,True,True
+53041,196-3-6lw,Clouded leopard,,True,True
+53042,196-3-7lw,Clouded leopard,,True,True
+53043,196-3-8lw,Clouded leopard,,True,True
+53046,195-3-16lw,Clouded leopard,,True,True
+53047,195-3-5lw,Clouded leopard,,True,True
+53048,196-3-17lw,Clouded leopard,,True,True
+53049,196-3-16lw,Clouded leopard,,True,True
+5305,96-3-3,Human,brain region,False,False
+5306,96-3-4,Human,brain region,False,False
+5307,96-3-5,Human,brain region,False,False
+53072,190-1-13th,Manatee,,True,True
+53073,190-1-5th,Manatee,,True,True
+53074,190-2-8th,Manatee,,True,True
+53075,190-3-7th,Manatee,,True,True
+53076,190-1-11th,Manatee,,True,True
+53077,190-1-12th,Manatee,,True,True
+53078,190-1-14th,Manatee,,True,True
+53079,190-1-15th,Manatee,,True,True
+5308,96-3-6,Human,brain region,False,False
+53080,190-1-16th,Manatee,,True,True
+53081,190-1-18th,Manatee,,True,True
+53082,190-1-2th,Manatee,,True,True
+53083,190-1-4th,Manatee,,True,True
+53084,190-1-7th,Manatee,,True,True
+53085,190-1-9th,Manatee,,True,True
+53086,190-2-10th,Manatee,,True,True
+53087,190-2-11th,Manatee,,True,True
+53088,190-2-12th,Manatee,,True,True
+53089,190-2-14th,Manatee,,True,True
+5309,96-3-7,Human,brain region,False,False
+53090,190-2-17th,Manatee,,True,True
+53091,190-2-20th,Manatee,,True,True
+53092,190-2-2th,Manatee,,True,True
+53093,190-2-4th,Manatee,,True,True
+53094,190-2-6th,Manatee,,True,True
+53095,190-2-7th,Manatee,,True,True
+53096,190-3-10th,Manatee,,True,True
+53097,190-3-11th,Manatee,,True,True
+53098,190-3-1th,Manatee,,True,True
+53099,190-3-2th,Manatee,,True,True
+5310,96-3-8,Human,brain region,False,False
+53100,190-3-3dk,Manatee,,True,True
+53101,190-3-3th,Manatee,,True,True
+53102,190-3-4dk,Manatee,,True,True
+53103,190-3-5dk,Manatee,,True,True
+53104,190-3-7dk,Manatee,,True,True
+53105,190-3-9dk,Manatee,,True,True
+5311,96-3-9,Human,brain region,False,False
+6236,155-1-10b,Elephant,,False,True
+6237,155-1-13k,Elephant,,False,True
+6241,155-1-1a,Elephant,,False,True
+6242,155-1-1k,Elephant,,False,True
+6243,155-1-2a,Elephant,,False,True
+6244,155-1-2b,Elephant,,False,True
+6245,155-1-3a,Elephant,,False,True
+6246,155-1-3k,Elephant,,False,True
+6247,155-1-4,Elephant,,False,True
+6248,155-1-4k,Elephant,,False,True
+6249,155-1-5,Elephant,,False,True
+6250,155-1-5k,Elephant,,False,True
+6251,156-1-1,Elephant,,False,True
+6252,156-1-10,Elephant,,False,True
+6253,156-1-11a,Elephant,,False,True
+6254,156-1-11b,Elephant,,False,True
+6255,156-1-12,Elephant,,False,True
+6256,156-1-12b,Elephant,,False,True
+6257,156-1-13,Elephant,,False,True
+6258,156-1-14a,Elephant,,False,True
+6259,156-1-14k,Elephant,,False,True
+6260,156-1-15a,Elephant,,False,True
+6261,156-1-15k,Elephant,,False,True
+6262,156-1-16k,Elephant,,False,True
+6263,156-1-2a,Elephant,,False,True
+6264,156-1-3a,Elephant,,False,True
+6265,156-1-4,Elephant,,False,True
+6266,156-1-5,Elephant,,False,True
+6267,156-1-6a,Elephant,,False,True
+6268,156-1-6k,Elephant,,False,True
+6269,156-1-7,Elephant,,False,True
+6270,156-1-7k,Elephant,,False,True
+6271,156-1-8,Elephant,,False,True
+6272,156-1-9,Elephant,,False,True
+6273,156-2-10a,Elephant,,False,True
+6274,156-2-10k,Elephant,,False,True
+6275,156-2-11,Elephant,,False,True
+6276,156-2-11k,Elephant,,False,True
+6277,156-2-12,Elephant,,False,True
+6278,156-2-12k,Elephant,,False,True
+6279,156-2-13,Elephant,,False,True
+6280,156-2-13b,Elephant,,False,True
+6281,156-2-14,Elephant,,False,True
+6282,156-2-14b,Elephant,,False,True
+6283,156-2-15a,Elephant,,False,True
+6285,156-2-16,Elephant,,False,True
+6287,156-2-17,Elephant,,False,True
+6289,156-2-18,Elephant,,False,True
+6290,156-2-19,Elephant,,False,True
+6291,156-2-1a,Elephant,,False,True
+6292,156-2-1b,Elephant,,False,True
+6293,156-2-2,Elephant,,False,True
+6294,156-2-20,Elephant,,False,True
+6295,156-2-2k,Elephant,,False,True
+6296,156-2-3a,Elephant,,False,True
+6297,156-2-3b,Elephant,,False,True
+6298,156-2-4a,Elephant,,False,True
+6300,156-2-5a,Elephant,,False,True
+6302,156-2-6a,Elephant,,False,True
+6303,156-2-6b,Elephant,,False,True
+6304,156-2-7,Elephant,,False,True
+6305,156-2-7b,Elephant,,False,True
+6306,156-2-8,Elephant,,False,True
+6307,156-2-8b,Elephant,,False,True
+6308,156-2-8k,Elephant,,False,True
+6309,156-2-9,Elephant,,False,True
+6310,156-2-9b,Elephant,,False,True
+6311,156-2-9k,Elephant,,False,True
+84048,230-12-NBSS,Blue wildebeest,,True,True
+84049,230-13-NBSS,Blue wildebeest,,True,True
+84050,230-15-NBSS,Blue wildebeest,,True,True
+84051,230-6-NBSS,Blue wildebeest,,True,True
+84052,230-7-NBSS,Blue wildebeest,,True,True
+84053,231-10-NBSS,Blue wildebeest,,True,True
+84054,231-12-NBSS,Blue wildebeest,,True,True
+84055,231-13-NBSS,Blue wildebeest,,True,True
+84056,231-14-NBSS,Blue wildebeest,,True,True
+84057,231-17-NBSS,Blue wildebeest,,True,True
+84058,231-4-NBSS,Blue wildebeest,,True,True
+84059,231-8-NBSS,Blue wildebeest,,True,True
+84060,231-9-NBSS,Blue wildebeest,,True,True
+84061,230-1-NBSS,Blue wildebeest,cell type,False,False
+84062,230-1MG,Blue wildebeest,cell type,False,False
+84063,230-2-NBSS,Blue wildebeest,cell type,False,False
+84064,230-2MG,Blue wildebeest,cell type,False,False
+84065,230-3-NBSS,Blue wildebeest,cell type,False,False
+84066,230-3MG,Blue wildebeest,cell type,False,False
+84067,230-4MG,Blue wildebeest,cell type,False,False
+84068,230-5-NBSS,Blue wildebeest,cell type,False,False
+84069,230-5MG,Blue wildebeest,cell type,False,False
+84070,230-6MG,Blue wildebeest,cell type,False,False
+84071,230-7MG,Blue wildebeest,cell type,False,False
+84072,230-8MG,Blue wildebeest,cell type,False,False
+84073,230-9MG,Blue wildebeest,cell type,False,False
+84074,231-1-NBSS,Blue wildebeest,cell type,False,False
+84075,231-10MG,Blue wildebeest,cell type,False,False
+84076,231-11MG,Blue wildebeest,cell type,False,False
+84077,231-12MG,Blue wildebeest,cell type,False,False
+84078,231-13MG,Blue wildebeest,cell type,False,False
+84079,231-1MG,Blue wildebeest,cell type,False,False
+84080,231-2-NBSS,Blue wildebeest,cell type,False,False
+84081,231-3-NBSS,Blue wildebeest,cell type,False,False
+84082,231-5MG,Blue wildebeest,cell type,False,False
+84083,231-6MG,Blue wildebeest,cell type,False,False
+84084,231-7MG,Blue wildebeest,cell type,False,False
+84085,231-8MG,Blue wildebeest,cell type,False,False
+84086,231-9MG,Blue wildebeest,cell type,False,False
+84087,230-11-NBSS,Blue wildebeest,,True,True
+84088,230-14-NBSS,Blue wildebeest,,True,True
+84089,230-16-NBSS,Blue wildebeest,,True,True
+84090,230-17-NBSS,Blue wildebeest,,True,True
+84091,230-18-NBSS,Blue wildebeest,,True,True
+84092,230-19-NBSS,Blue wildebeest,,True,True
+84093,230-20-NBSS,Blue wildebeest,,True,True
+84094,230-4-NBSS,Blue wildebeest,,True,True
+84095,230-8-NBSS,Blue wildebeest,,True,True
+84096,230-9-NBSS,Blue wildebeest,,True,True
+84097,231-11-NBSS,Blue wildebeest,,True,True
+84098,231-15-NBSS,Blue wildebeest,,True,True
+84099,231-16-NBSS,Blue wildebeest,,True,True
+84100,231-18-NBSS,Blue wildebeest,,True,True
+84101,231-2MG,Blue wildebeest,,True,True
+84102,231-3MG,Blue wildebeest,,True,True
+84103,231-5-NBSS,Blue wildebeest,,True,True
+84104,231-6-NBSS,Blue wildebeest,,True,True
+84105,231-7-NBSS,Blue wildebeest,,True,True
+84106,223-1-NBSS,Greater kudu,,True,True
+84107,223-10-NBSS,Greater kudu,,True,True
+84108,223-11-NBSS,Greater kudu,,True,True
+84109,223-11MG,Greater kudu,,True,True
+84110,223-12-NBSS,Greater kudu,,True,True
+84111,223-16MG,Greater kudu,,True,True
+84112,223-17MG,Greater kudu,,True,True
+84113,223-18-NBSS,Greater kudu,,True,True
+84114,223-2-NBSS,Greater kudu,,True,True
+84115,223-3-NBSS,Greater kudu,,True,True
+84116,223-5MG,Greater kudu,,True,True
+84117,223-6-NBSS,Greater kudu,,True,True
+84118,223-8MG,Greater kudu,,True,True
+84119,223-14-NBSS,Greater kudu,cell type,False,False
+84120,223-16-NBSS,Greater kudu,cell type,False,False
+84121,223-17-NBSS,Greater kudu,cell type,False,False
+84122,223-4-NBSS,Greater kudu,cell type,False,False
+84123,223-7-NBSS,Greater kudu,cell type,False,False
+84124,223-8-NBSS,Greater kudu,cell type,False,False
+84125,223-9-NBSS,Greater kudu,cell type,False,False
+84126,223-10MG,Greater kudu,,True,True
+84127,223-12MG,Greater kudu,,True,True
+84128,223-13-NBSS,Greater kudu,,True,True
+84129,223-13MG,Greater kudu,,True,True
+84130,223-14MG,Greater kudu,,True,True
+84131,223-15-NBSS,Greater kudu,,True,True
+84132,223-15MG,Greater kudu,,True,True
+84133,223-19-NBSS,Greater kudu,,True,True
+84134,223-1MG,Greater kudu,,True,True
+84135,223-20-NBSS,Greater kudu,,True,True
+84136,223-2MG,Greater kudu,,True,True
+84137,223-3MG,Greater kudu,,True,True
+84138,223-4MG,Greater kudu,,True,True
+84139,223-6MG,Greater kudu,,True,True
+84140,223-7MG,Greater kudu,,True,True
+84141,223-9MG,Greater kudu,,True,True
+84142,228-10-NBSS,African wild dog,,True,True
+84143,228-11-NBSS,African wild dog,,True,True
+84144,228-13MG,African wild dog,,True,True
+84145,228-15-NBSS,African wild dog,,True,True
+84146,228-16MG,African wild dog,,True,True
+84147,228-18-NBSS,African wild dog,,True,True
+84148,228-19-NBSS,African wild dog,,True,True
+84149,228-19MG,African wild dog,,True,True
+84150,228-20-NBSS,African wild dog,,True,True
+84151,228-20MG,African wild dog,,True,True
+84152,228-21MG,African wild dog,,True,True
+84153,228-22MG,African wild dog,,True,True
+84154,228-28MG,African wild dog,,True,True
+84155,228-7-NBSS,African wild dog,,True,True
+84156,229-1-NBSS,African wild dog,,True,True
+84157,229-10-NBSS,African wild dog,,True,True
+84158,229-10MG,African wild dog,,True,True
+84159,229-11MG,African wild dog,,True,True
+84160,229-12MG,African wild dog,,True,True
+84161,229-13MG,African wild dog,,True,True
+84162,229-14MG,African wild dog,,True,True
+84163,229-18-NBSS,African wild dog,,True,True
+84164,229-19-NBSS,African wild dog,,True,True
+84165,229-20-NBSS,African wild dog,,True,True
+84166,229-2MG,African wild dog,,True,True
+84167,229-3-NBSS,African wild dog,,True,True
+84168,229-4-NBSS,African wild dog,,True,True
+84169,229-5-NBSS,African wild dog,,True,True
+84170,229-6-NBSS,African wild dog,,True,True
+84171,229-8-NBSS,African wild dog,,True,True
+84172,229-9MG,African wild dog,,True,True
+84173,228-1-NBSS,African wild dog,cell type,False,False
+84174,228-14-NBSS,African wild dog,cell type,False,False
+84175,228-23MG,African wild dog,cell type,False,False
+84176,228-24MG,African wild dog,cell type,False,False
+84177,228-25MG,African wild dog,cell type,False,False
+84178,228-26MG,African wild dog,cell type,False,False
+84179,228-27MG,African wild dog,cell type,False,False
+84180,228-8MG,African wild dog,cell type,False,False
+84181,228-9MG,African wild dog,cell type,False,False
+84182,228-10MG,African wild dog,,True,True
+84183,228-11MG,African wild dog,,True,True
+84184,228-12-NBSS,African wild dog,,True,True
+84185,228-12MG,African wild dog,,True,True
+84186,228-14MG,African wild dog,,True,True
+84187,228-15MG,African wild dog,,True,True
+84188,228-16-NBSS,African wild dog,,True,True
+84189,228-17-NBSS,African wild dog,,True,True
+84190,228-17MG,African wild dog,,True,True
+84191,228-18MG,African wild dog,,True,True
+84192,228-1MG,African wild dog,,True,True
+84193,228-2-NBSS,African wild dog,,True,True
+84194,228-2MG,African wild dog,,True,True
+84195,228-3-NBSS,African wild dog,,True,True
+84196,228-3MG,African wild dog,,True,True
+84197,228-4-NBSS,African wild dog,,True,True
+84198,228-4MG,African wild dog,,True,True
+84199,228-5-NBSS,African wild dog,,True,True
+84200,228-5MG,African wild dog,,True,True
+84201,228-6-NBSS,African wild dog,,True,True
+84202,228-6MG,African wild dog,,True,True
+84203,228-7MG,African wild dog,,True,True
+84204,228-8-NBSS,African wild dog,,True,True
+84205,228-9-NBSS,African wild dog,,True,True
+84206,229-11-NBSS,African wild dog,,True,True
+84207,229-12-NBSS,African wild dog,,True,True
+84208,229-13-NBSS,African wild dog,,True,True
+84209,229-14-NBSS,African wild dog,,True,True
+84210,229-15-NBSS,African wild dog,,True,True
+84211,229-16-NBSS,African wild dog,,True,True
+84212,229-17-NBSS,African wild dog,,True,True
+84213,229-1MG,African wild dog,,True,True
+84214,229-2-NBSS,African wild dog,,True,True
+84215,229-4MG,African wild dog,,True,True
+84216,229-5MG,African wild dog,,True,True
+84217,229-6MG,African wild dog,,True,True
+84218,229-7-NBSS,African wild dog,,True,True
+84219,229-7MG,African wild dog,,True,True
+84220,229-8MG,African wild dog,,True,True
+84221,229-9-NBSS,African wild dog,,True,True
+84222,228-13-NBSS,African wild dog,,True,True
+84223,228-3MG_1,African wild dog,,True,True
+84224,222-11-NBSS,Domestic dog,,True,True
+84225,222-12-NBSS,Domestic dog,,True,True
+84226,222-14MG,Domestic dog,,True,True
+84227,222-15MG,Domestic dog,,True,True
+84228,222-3-NBSS,Domestic dog,,True,True
+84229,222-4-NBSS,Domestic dog,,True,True
+84230,222-5-NBSS,Domestic dog,,True,True
+84231,222-9-NBSS,Domestic dog,,True,True
+84232,222-10MG,Domestic dog,cell type,False,False
+84233,222-11MG,Domestic dog,cell type,False,False
+84234,222-12MG,Domestic dog,cell type,False,False
+84235,222-16MG,Domestic dog,cell type,False,False
+84236,222-17MG,Domestic dog,cell type,False,False
+84237,222-18MG,Domestic dog,cell type,False,False
+84238,222-21MG,Domestic dog,cell type,False,False
+84239,222-24MG,Domestic dog,cell type,False,False
+84240,222-3MG,Domestic dog,cell type,False,False
+84241,222-4MG,Domestic dog,cell type,False,False
+84242,222-5MG,Domestic dog,cell type,False,False
+84243,222-6-NBSS,Domestic dog,cell type,False,False
+84244,222-6MG,Domestic dog,cell type,False,False
+84245,222-7-NBSS,Domestic dog,cell type,False,False
+84246,222-7MG,Domestic dog,cell type,False,False
+84247,222-8-NBSS,Domestic dog,cell type,False,False
+84248,222-8MG,Domestic dog,cell type,False,False
+84249,222-1-NBSS,Domestic dog,,True,True
+84250,222-10-NBSS,Domestic dog,,True,True
+84251,222-13MG,Domestic dog,,True,True
+84252,222-19MG,Domestic dog,,True,True
+84253,222-1MG,Domestic dog,,True,True
+84254,222-2-NBSS,Domestic dog,,True,True
+84255,222-20MG,Domestic dog,,True,True
+84256,222-22MG,Domestic dog,,True,True
+84257,222-23MG,Domestic dog,,True,True
+84258,222-25MG,Domestic dog,,True,True
+84259,222-2MG,Domestic dog,,True,True
+84260,222-9MG,Domestic dog,,True,True
+84261,211-10mt,Caracal,,True,True
+84262,211-11-kc,Caracal,,True,True
+84263,211-11mt,Caracal,,True,True
+84264,211-13-kc,Caracal,,True,True
+84265,211-13mt,Caracal,,True,True
+84266,211-14-kc,Caracal,,True,True
+84267,211-14mt,Caracal,,True,True
+84268,211-15-kc,Caracal,,True,True
+84269,211-15mt,Caracal,,True,True
+84270,211-1-kc,Caracal,cell type,False,False
+84271,211-12-kc,Caracal,cell type,False,False
+84272,211-1mt,Caracal,cell type,False,False
+84273,211-2-kc,Caracal,cell type,False,False
+84274,211-2mt,Caracal,cell type,False,False
+84275,211-3-kc,Caracal,cell type,False,False
+84276,211-3mt,Caracal,cell type,False,False
+84277,211-4mt,Caracal,cell type,False,False
+84278,211-5-kc,Caracal,cell type,False,False
+84279,211-5mt,Caracal,cell type,False,False
+84280,211-10-kc,Caracal,,True,True
+84281,211-12mt,Caracal,,True,True
+84282,211-6-kc,Caracal,,True,True
+84283,211-6mt,Caracal,,True,True
+84284,211-7-kc,Caracal,,True,True
+84285,211-7mt,Caracal,,True,True
+84286,211-8-kc,Caracal,,True,True
+84287,211-8mt,Caracal,,True,True
+84288,211-9-kc,Caracal,,True,True
+84289,211-9mt,Caracal,,True,True
+84290,210-10mt,Lion,,True,True
+84291,210-12-kc,Lion,,True,True
+84292,210-13mt,Lion,,True,True
+84293,210-14-kc,Lion,,True,True
+84294,210-15-kc,Lion,,True,True
+84295,210-15mt,Lion,,True,True
+84296,210-3mt,Lion,,True,True
+84297,210-7-kc,Lion,,True,True
+84298,210-7mt,Lion,,True,True
+84299,210-9-kc,Lion,,True,True
+84300,210-1-kc,Lion,cell type,False,False
+84301,210-1mt,Lion,cell type,False,False
+84302,210-2mt,Lion,cell type,False,False
+84303,210-3-kc,Lion,cell type,False,False
+84304,210-4-kc,Lion,cell type,False,False
+84305,210-4mt,Lion,cell type,False,False
+84306,210-5-kc,Lion,cell type,False,False
+84307,210-5mt,Lion,cell type,False,False
+84308,210-6-kc,Lion,cell type,False,False
+84309,210-6mt,Lion,cell type,False,False
+84310,210-10-kc,Lion,,True,True
+84311,210-11-kc,Lion,,True,True
+84312,210-11mt,Lion,,True,True
+84313,210-12mt,Lion,,True,True
+84314,210-13-kc,Lion,,True,True
+84315,210-14mt,Lion,,True,True
+84316,210-2-kc,Lion,,True,True
+84317,210-8-kc,Lion,,True,True
+84318,210-8mt,Lion,,True,True
+84319,210-9mt,Lion,,True,True
+84320,212-11-kc,Banded mongoose,,True,True
+84321,212-12-kc,Banded mongoose,,True,True
+84322,212-13-kc,Banded mongoose,,True,True
+84323,212-1mt,Banded mongoose,,True,True
+84324,212-2-kc,Banded mongoose,,True,True
+84325,212-2mt,Banded mongoose,,True,True
+84326,212-3-kc,Banded mongoose,,True,True
+84327,212-4mt,Banded mongoose,,True,True
+84328,212-6-kc,Banded mongoose,,True,True
+84329,212-6mt,Banded mongoose,,True,True
+84330,212-7mt,Banded mongoose,,True,True
+84331,212-8-kc,Banded mongoose,,True,True
+84332,212-9-kc,Banded mongoose,,True,True
+84333,212-9mt,Banded mongoose,,True,True
+84334,212-1-kc,Banded mongoose,,True,True
+84335,212-10-kc,Banded mongoose,,True,True
+84336,212-10mt,Banded mongoose,,True,True
+84337,212-11mt,Banded mongoose,,True,True
+84338,212-3mt,Banded mongoose,,True,True
+84339,212-4-kc,Banded mongoose,,True,True
+84340,212-5-kc,Banded mongoose,,True,True
+84341,212-5mt,Banded mongoose,,True,True
+84342,212-7-kc,Banded mongoose,,True,True
+84343,212-8my,Banded mongoose,,True,True
+84344,214-1-kc,Bennett's wallaby,,True,True
+84345,214-11-kc,Bennett's wallaby,,True,True
+84346,214-12mt,Bennett's wallaby,,True,True
+84347,214-13mt,Bennett's wallaby,,True,True
+84348,214-1mt,Bennett's wallaby,,True,True
+84349,214-2-kc,Bennett's wallaby,,True,True
+84350,214-2mt,Bennett's wallaby,,True,True
+84351,214-3-kc,Bennett's wallaby,,True,True
+84352,214-3mt,Bennett's wallaby,,True,True
+84353,214-4-kc,Bennett's wallaby,,True,True
+84354,214-5mt,Bennett's wallaby,,True,True
+84355,214-6-kc,Bennett's wallaby,,True,True
+84356,214-9mt,Bennett's wallaby,,True,True
+84357,214-10-kc,Bennett's wallaby,,True,True
+84358,214-10mt,Bennett's wallaby,,True,True
+84359,214-11mt,Bennett's wallaby,,True,True
+84360,214-4mt,Bennett's wallaby,,True,True
+84361,214-6mt,Bennett's wallaby,,True,True
+84362,214-7-kc,Bennett's wallaby,,True,True
+84363,214-7mt,Bennett's wallaby,,True,True
+84364,214-8-kc,Bennett's wallaby,,True,True
+84365,214-8mt,Bennett's wallaby,,True,True
+84366,214-9-kc,Bennett's wallaby,,True,True
+84367,232-10-NBSS,Mountain zebra,,True,True
+84368,232-12-NBSS,Mountain zebra,,True,True
+84369,232-15-NBSS,Mountain zebra,,True,True
+84370,232-17-NBSS,Mountain zebra,,True,True
+84371,232-18-NBSS,Mountain zebra,,True,True
+84372,232-20-NBSS,Mountain zebra,,True,True
+84373,232-1-NBSS,Mountain zebra,cell type,False,False
+84374,232-10MG,Mountain zebra,cell type,False,False
+84375,232-11MG,Mountain zebra,cell type,False,False
+84376,232-1MG,Mountain zebra,cell type,False,False
+84377,232-2-NBSS,Mountain zebra,cell type,False,False
+84378,232-21-NBSS,Mountain zebra,cell type,False,False
+84379,232-2MG,Mountain zebra,cell type,False,False
+84380,232-3-NBSS,Mountain zebra,cell type,False,False
+84381,232-3MG,Mountain zebra,cell type,False,False
+84382,232-4-NBSS,Mountain zebra,cell type,False,False
+84383,232-4MG,Mountain zebra,cell type,False,False
+84384,232-5-NBSS,Mountain zebra,cell type,False,False
+84385,232-5MG,Mountain zebra,cell type,False,False
+84386,232-6-NBSS,Mountain zebra,cell type,False,False
+84387,232-6MG,Mountain zebra,cell type,False,False
+84388,232-7-NBSS,Mountain zebra,cell type,False,False
+84389,232-7MG,Mountain zebra,cell type,False,False
+84390,232-8-NBSS,Mountain zebra,cell type,False,False
+84391,232-8MG,Mountain zebra,cell type,False,False
+84392,232-9-NBSS,Mountain zebra,cell type,False,False
+84393,232-9MG,Mountain zebra,cell type,False,False
+84394,232-11-NBSS,Mountain zebra,,True,True
+84395,232-13-NBSS,Mountain zebra,,True,True
+84396,232-14-NBSS,Mountain zebra,,True,True
+84397,232-16-NBSS,Mountain zebra,,True,True
+84398,232-19-NBSS,Mountain zebra,,True,True
+84399,213-10mt,Plains zebra,,True,True
+84400,213-11mt,Plains zebra,,True,True
+84401,213-12mt,Plains zebra,,True,True
+84402,213-15-kc,Plains zebra,,True,True
+84403,213-16-kc,Plains zebra,,True,True
+84404,213-16mt,Plains zebra,,True,True
+84405,213-17-kc,Plains zebra,,True,True
+84406,213-17mt,Plains zebra,,True,True
+84407,213-18-kc,Plains zebra,,True,True
+84408,213-19-kc,Plains zebra,,True,True
+84409,213-7mt,Plains zebra,,True,True
+84410,213-8mt,Plains zebra,,True,True
+84411,213-9mt,Plains zebra,,True,True
+84412,213-1-kc,Plains zebra,cell type,False,False
+84413,213-1mt,Plains zebra,cell type,False,False
+84414,213-2-kc,Plains zebra,cell type,False,False
+84415,213-2mt,Plains zebra,cell type,False,False
+84416,213-3-kc,Plains zebra,cell type,False,False
+84417,213-3mt,Plains zebra,cell type,False,False
+84418,213-4-kc,Plains zebra,cell type,False,False
+84419,213-4mt,Plains zebra,cell type,False,False
+84420,213-5-kc,Plains zebra,cell type,False,False
+84421,213-5mt,Plains zebra,cell type,False,False
+84422,213-6-kc,Plains zebra,cell type,False,False
+84423,213-6mt,Plains zebra,cell type,False,False
+84424,213-7-kc,Plains zebra,cell type,False,False
+84425,213-8-kc,Plains zebra,cell type,False,False
+84426,213-9-kc,Plains zebra,cell type,False,False
+84427,213-10-kc,Plains zebra,,True,True
+84428,213-11-kc,Plains zebra,,True,True
+84429,213-12-kc,Plains zebra,,True,True
+84430,213-13-kc,Plains zebra,,True,True
+84431,213-13mt,Plains zebra,,True,True
+84432,213-14-kc,Plains zebra,,True,True
+84433,213-14mt,Plains zebra,,True,True
+84434,213-15mt,Plains zebra,,True,True
+84435,213-18mt,Plains zebra,,True,True
+84436,213-19mt,Plains zebra,,True,True
+84437,197-1-12mt,Human,,True,True
+84438,197-1-15mt,Human,,True,True
+84439,197-1-16mt,Human,,True,True
+84440,197-1-17mt,Human,,True,True
+84441,197-1-18mt,Human,,True,True
+84442,197-4-kc,Human,,True,True
+84443,197-5-kc,Human,,True,True
+84444,197-6-kc,Human,,True,True
+84445,197-7-kc,Human,,True,True
+84446,197-8-kc,Human,,True,True
+84447,197-1-1mt,Human,cell type,False,False
+84448,197-1-1nj,Human,cell type,False,False
+84449,197-1-2mt,Human,cell type,False,False
+84450,197-1-2nj,Human,cell type,False,False
+84451,197-1-3mt,Human,cell type,False,False
+84452,197-1-3nj,Human,cell type,False,False
+84453,197-1-4mt,Human,cell type,False,False
+84454,197-1-4nj,Human,cell type,False,False
+84455,197-1-5mt,Human,cell type,False,False
+84456,197-1-5nj,Human,cell type,False,False
+84457,197-1-6mt,Human,cell type,False,False
+84458,197-1-6nj,Human,cell type,False,False
+84459,197-1-7mt,Human,cell type,False,False
+84460,197-1-7nj,Human,cell type,False,False
+84461,197-1-8mt,Human,cell type,False,False
+84462,197-1-8nj,Human,cell type,False,False
+84463,197-1-9LL,Human,cell type,False,False
+84464,197-1-10mt,Human,,True,True
+84465,197-1-11mt,Human,,True,True
+84466,197-1-13mt,Human,,True,True
+84467,197-1-14mt,Human,,True,True
+84468,197-1-9mt,Human,,True,True
+84469,197-1-kc,Human,,True,True
+84470,197-10-kc,Human,,True,True
+84471,197-2-kc,Human,,True,True
+84472,197-3-kc,Human,,True,True
+84473,197-9-kc,Human,,True,True
+84474,217-11-kc,Baboon,,True,True
+84475,217-11mt,Baboon,,True,True
+84476,217-12-kc,Baboon,,True,True
+84477,217-12mt,Baboon,,True,True
+84478,217-13-kc,Baboon,,True,True
+84479,217-13mt,Baboon,,True,True
+84480,217-14-kc,Baboon,,True,True
+84481,217-14mt,Baboon,,True,True
+84482,217-2mt,Baboon,,True,True
+84483,217-8-kc,Baboon,,True,True
+84484,217-1-kc,Baboon,cell type,False,False
+84485,217-15-kc,Baboon,cell type,False,False
+84486,217-1mt,Baboon,cell type,False,False
+84487,217-2-kc,Baboon,cell type,False,False
+84488,217-3-kc,Baboon,cell type,False,False
+84489,217-3mt,Baboon,cell type,False,False
+84490,217-4-kc,Baboon,cell type,False,False
+84491,217-4mt,Baboon,cell type,False,False
+84492,217-8mt,Baboon,cell type,False,False
+84493,217-10-kc,Baboon,,True,True
+84494,217-10mt,Baboon,,True,True
+84495,217-5-kc,Baboon,,True,True
+84496,217-5mt,Baboon,,True,True
+84497,217-6-kc,Baboon,,True,True
+84498,217-6mt,Baboon,,True,True
+84499,217-7-kc,Baboon,,True,True
+84500,217-7mt,Baboon,,True,True
+84501,217-9-kc,Baboon,,True,True
+84502,217-9mt,Baboon,,True,True
+84503,215-6mt,Lemur,,True,True
+84504,215-1-kc,Lemur,cell type,False,False
+84505,215-3mt,Lemur,cell type,False,False
+84506,215-1mt,Lemur,,True,True
+84507,215-2-kc,Lemur,,True,True
+84508,215-2mt,Lemur,,True,True
+84509,215-3-kc,Lemur,,True,True
+84510,215-4-kc,Lemur,,True,True
+84511,215-4mt,Lemur,,True,True
+84512,215-5-kc,Lemur,,True,True
+84513,215-5mt,Lemur,,True,True
+84514,215-7mt,Lemur,,True,True
+84515,216-12-kc,Lion tamarin,,True,True
+84516,216-14-kc,Lion tamarin,,True,True
+84517,216-15-kc,Lion tamarin,,True,True
+84518,216-17mt,Lion tamarin,,True,True
+84519,216-18-kc,Lion tamarin,,True,True
+84520,216-18mt,Lion tamarin,,True,True
+84521,216-19mt,Lion tamarin,,True,True
+84522,216-20mt,Lion tamarin,,True,True
+84523,216-21mt,Lion tamarin,,True,True
+84524,216-9-kc,Lion tamarin,,True,True
+84525,216-1-kc,Lion tamarin,cell type,False,False
+84526,216-10mt,Lion tamarin,cell type,False,False
+84527,216-11mt,Lion tamarin,cell type,False,False
+84528,216-12mt,Lion tamarin,cell type,False,False
+84529,216-1mt,Lion tamarin,cell type,False,False
+84530,216-2-kc,Lion tamarin,cell type,False,False
+84531,216-2mt,Lion tamarin,cell type,False,False
+84532,216-3-kc,Lion tamarin,cell type,False,False
+84533,216-3mt,Lion tamarin,cell type,False,False
+84534,216-4-kc,Lion tamarin,cell type,False,False
+84535,216-4mt,Lion tamarin,cell type,False,False
+84536,216-5-kc,Lion tamarin,cell type,False,False
+84537,216-5mt,Lion tamarin,cell type,False,False
+84538,216-6-kc,Lion tamarin,cell type,False,False
+84539,216-6mt,Lion tamarin,cell type,False,False
+84540,216-7-kc,Lion tamarin,cell type,False,False
+84541,216-8-kc,Lion tamarin,cell type,False,False
+84542,216-8mt,Lion tamarin,cell type,False,False
+84543,216-9mt,Lion tamarin,cell type,False,False
+84544,216-10-kc,Lion tamarin,,True,True
+84545,216-11-kc,Lion tamarin,,True,True
+84546,216-13-kc,Lion tamarin,,True,True
+84547,216-13mt,Lion tamarin,,True,True
+84548,216-14mt,Lion tamarin,,True,True
+84549,216-15mt,Lion tamarin,,True,True
+84550,216-16-kc,Lion tamarin,,True,True
+84551,216-16mt,Lion tamarin,,True,True
+84552,216-17-kc,Lion tamarin,,True,True
+84553,216-7mt,Lion tamarin,,True,True
+84554,224-10-NBSS,Rabbit,,True,True
+84555,224-11-NBSS,Rabbit,,True,True
+84556,224-18MG,Rabbit,,True,True
+84557,224-19MG,Rabbit,,True,True
+84558,224-20MG,Rabbit,,True,True
+84559,224-21MG,Rabbit,,True,True
+84560,224-24MG,Rabbit,,True,True
+84561,224-26MG,Rabbit,,True,True
+84562,224-3-NBSS,Rabbit,,True,True
+84563,224-3MG,Rabbit,,True,True
+84564,224-4-NBSS,Rabbit,,True,True
+84565,224-5-NBSS,Rabbit,,True,True
+84566,224-5MG,Rabbit,,True,True
+84567,224-6-NBSS,Rabbit,,True,True
+84568,224-7-NBSS,Rabbit,,True,True
+84569,224-7MG,Rabbit,,True,True
+84570,224-8-NBSS,Rabbit,,True,True
+84571,224-8MG,Rabbit,,True,True
+84572,224-1-NBSS,Rabbit,,True,True
+84573,224-10MG,Rabbit,,True,True
+84574,224-11MG,Rabbit,,True,True
+84575,224-12MG,Rabbit,,True,True
+84576,224-13MG,Rabbit,,True,True
+84577,224-14MG,Rabbit,,True,True
+84578,224-15MG,Rabbit,,True,True
+84579,224-16MG,Rabbit,,True,True
+84580,224-17MG,Rabbit,,True,True
+84581,224-1MG,Rabbit,,True,True
+84582,224-2-NBSS,Rabbit,,True,True
+84583,224-22MG,Rabbit,,True,True
+84584,224-23MG,Rabbit,,True,True
+84585,224-25MG,Rabbit,,True,True
+84586,224-2MG,Rabbit,,True,True
+84587,224-4MG,Rabbit,,True,True
+84588,224-6MG,Rabbit,,True,True
+84589,224-9-NBSS,Rabbit,,True,True
+84590,224-9MG,Rabbit,,True,True
+84591,219-1-kc,Rat,,True,True
+84592,219-2-kc,Rat,,True,True
+84593,219-3-kc,Rat,,True,True
+84594,219-6mt,Rat,,True,True
+84595,219-7mt,Rat,,True,True
+84596,219-8-kc,Rat,,True,True
+84597,219-8mt,Rat,,True,True
+84598,219-9mt,Rat,,True,True
+84599,220-1-kc,Rat,,True,True
+84600,220-1mt,Rat,,True,True
+84601,219-1mt,Rat,,True,True
+84602,219-2mt,Rat,,True,True
+84603,219-3mt,Rat,,True,True
+84604,219-4-kc,Rat,,True,True
+84605,219-4mt,Rat,,True,True
+84606,219-5-kc,Rat,,True,True
+84607,219-5mt,Rat,,True,True
+84608,219-6-kc,Rat,,True,True
+84609,219-7-kc,Rat,,True,True
+84610,220-2-kc,Rat,,True,True

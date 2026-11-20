@@ -1,0 +1,7 @@
+archive,primate,primate_name,primate_brain_g,nonprimate,nonprimate_name,nonprimate_brain_g,used,reason_not_used
+Briggs,monkey,Macaque,95.0,ferret,Ferret,8.0,no,"Median dendritic diameters of 0.19–0.35 µm, implausibly thin for cortical pyramidal dendrites"
+Firestein,human,Human,1400.0,rat,Rat,2.0,no,"All human reconstructions carried an identical diameter value (a placeholder), so that caliber was not measured"
+Gonzalez-Burgos,monkey,Macaque,95.0,mouse,Mouse,0.42,no,The non-primate comparator comprised a single neuron
+Luebke,monkey,Rhesus macaque,95.0,mouse,Mouse,0.42,yes,
+Tamas,human,Human,1400.0,rat,Rat,2.0,yes,
+Allen,human,Human,1400.0,mouse,Mouse,0.42,yes,

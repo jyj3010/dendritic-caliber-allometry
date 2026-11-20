@@ -1,0 +1,16 @@
+kind,keyword,value,priority
+lobe,prefrontal,prefrontal,1
+lobe,frontal,frontal,2
+lobe,occipital,occipital,2
+lobe,parietal,parietal,2
+lobe,temporal,temporal,2
+lobe,somatosensory,somatosensory,2
+lobe,multiple,multiple,3
+depth,layer 2-3,superficial,1
+depth,layer 2,superficial,2
+depth,layer 3,superficial,2
+depth,superficial,superficial,3
+depth,layer 5-6,deep,1
+depth,layer 5,deep,2
+depth,layer 6,deep,2
+depth,deep,deep,3

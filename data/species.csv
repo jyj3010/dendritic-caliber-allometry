@@ -1,0 +1,27 @@
+species,scientific_name,order,primate,anthropoid
+Rat,Rattus norvegicus,Rodentia,0,0
+Rabbit,Oryctolagus cuniculus,Lagomorpha,0,0
+Banded mongoose,Mungos mungo,Carnivora,0,0
+Lemur,Lemur catta,Primates,1,0
+Bennett's wallaby,Macropus rufogriseus,Diprotodontia,0,0
+Caracal,Caracal caracal,Carnivora,0,0
+Clouded leopard,Neofelis nebulosa,Carnivora,0,0
+Domestic dog,Canis lupus familiaris,Carnivora,0,0
+African wild dog,Lycaon pictus,Carnivora,0,0
+Lion tamarin,Leontopithecus rosalia,Primates,1,1
+Cheetah,Acinonyx jubatus,Carnivora,0,0
+Leopard,Panthera pardus,Carnivora,0,0
+Baboon,Papio ursinus,Primates,1,1
+Lion,Panthera leo,Carnivora,0,0
+Tiger,Panthera tigris,Carnivora,0,0
+Greater kudu,Tragelaphus strepsiceros,Artiodactyla,0,0
+Manatee,Trichechus manatus,Sirenia,0,0
+Mountain zebra,Equus zebra,Perissodactyla,0,0
+Plains zebra,Equus quagga,Perissodactyla,0,0
+Blue wildebeest,Connochaetes taurinus,Artiodactyla,0,0
+Giraffe,Giraffa camelopardalis,Artiodactyla,0,0
+Minke whale,Balaenoptera acutorostrata,Cetacea,0,0
+Human,Homo sapiens,Primates,1,1
+Bottlenose dolphin,Tursiops truncatus,Cetacea,0,0
+Elephant,Loxodonta africana,Proboscidea,0,0
+Humpback whale,Megaptera novaeangliae,Cetacea,0,0

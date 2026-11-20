@@ -1,0 +1,7 @@
+restriction,column,values
+none,,
+frontal_only,lobe,frontal|prefrontal
+frontal_strict,lobe,frontal
+occipital_only,lobe,occipital
+superficial_only,depth,superficial
+deep_only,depth,deep
