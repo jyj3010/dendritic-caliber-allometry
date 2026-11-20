@@ -4,6 +4,7 @@ title: dendritic-caliber-allometry
 version: 1.0.0
 license: MIT
 repository-code: https://github.com/jyj3010/dendritic-caliber-allometry
+doi: 10.5281/zenodo.24401105
 authors:
   - family-names: Jang
     given-names: Young-Jin

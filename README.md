@@ -5,6 +5,8 @@ Analysis code and derived data for
 Jang Y-J. Dendritic caliber scales with brain mass across mammals. Manuscript submitted to
 Brain Structure and Function.
 
+Archived release (v1.0.0): https://doi.org/10.5281/zenodo.24401105
+
 ## Running the analysis
 
 Python 3.12 or later.
